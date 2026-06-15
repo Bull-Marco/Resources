@@ -1,0 +1,644 @@
+{
+  "bookings": [
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-06-26",
+      "id": 6,
+      "notes": "",
+      "project": "",
+      "resource_id": 23,
+      "resource_name": "Amprobe Maschinen-Messgerät HT2034",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-15",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-06-26",
+      "id": 7,
+      "notes": "",
+      "project": "",
+      "resource_id": 24,
+      "resource_name": "HT Installationstester Combi 521",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-15",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Jörg Schneider",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-06-15",
+      "id": 8,
+      "notes": "",
+      "project": "Wipotec",
+      "resource_id": 19,
+      "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-15",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Quentin Richert",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-06-26",
+      "id": 4,
+      "notes": "",
+      "project": "",
+      "resource_id": 18,
+      "resource_name": "Wiha Installationstester MFT one 47216",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-15",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Jordy Schlemmer",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-06-16",
+      "id": 9,
+      "notes": "",
+      "project": "",
+      "resource_id": 19,
+      "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-16",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Jörg Schneider",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-06-19",
+      "id": 10,
+      "notes": "",
+      "project": "Wipotec",
+      "resource_id": 19,
+      "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-17",
+      "user_id": null,
+      "user_name": null
+    }
+  ],
+  "exported_at": "2026-06-15T13:17:59",
+  "groups": [
+    {
+      "deleted": 0,
+      "deleted_at": null,
+      "id": 5,
+      "name": "Beschriftungsgeräte",
+      "type": "Werkzeuggruppe"
+    },
+    {
+      "deleted": 0,
+      "deleted_at": null,
+      "id": 4,
+      "name": "Messgeräte",
+      "type": "Werkzeuggruppe"
+    }
+  ],
+  "history": [],
+  "resources": [
+    {
+      "archived": 0,
+      "bookings": [
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-06-26",
+          "id": 6,
+          "notes": "",
+          "project": "",
+          "resource_id": 23,
+          "resource_name": "Amprobe Maschinen-Messgerät HT2034",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-15",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 4,
+      "group_name": "Messgeräte",
+      "id": 23,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Amprobe Maschinen-Messgerät HT2034",
+      "notes": "",
+      "status": {
+        "code": "out",
+        "detail": "Unterwegs bis 2026-06-26 · bei Philipp Kappler",
+        "label": "Unterwegs"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 4,
+      "group_name": "Messgeräte",
+      "id": 25,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Beha Leitungsfinder Unitest SF100",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 4,
+      "group_name": "Messgeräte",
+      "id": 16,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Benning Installationstester IT115",
+      "notes": "1St Ladegerät, 1St 3-Leiter Prüfleitung, 1St Prüfkabel mit Schukostecker, 1St Krokodilklemmen sw/blau/grün",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 4,
+      "group_name": "Messgeräte",
+      "id": 14,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Fluke Barcodelaser zu Fluke Gerätetester",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 4,
+      "group_name": "Messgeräte",
+      "id": 11,
+      "inventory_no": "ohne EAN",
+      "location": "Homburg",
+      "name": "Fluke Gerätetester 6500 Appliance Tester",
+      "notes": "1St Kaltgerätestecker, 3St Prüfspitze",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 4,
+      "group_name": "Messgeräte",
+      "id": 12,
+      "inventory_no": "ohne EAN",
+      "location": "Homburg",
+      "name": "Fluke Gerätetester 6500-2 Appliance Tester",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-06-26",
+          "id": 7,
+          "notes": "",
+          "project": "",
+          "resource_id": 24,
+          "resource_name": "HT Installationstester Combi 521",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-15",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 4,
+      "group_name": "Messgeräte",
+      "id": 24,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "HT Installationstester Combi 521",
+      "notes": "4St Messstrippen, 1St Akku-Ladegerät, 1St Schuko-Adapter 230V ",
+      "status": {
+        "code": "out",
+        "detail": "Unterwegs bis 2026-06-26 · bei Philipp Kappler",
+        "label": "Unterwegs"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 4,
+      "group_name": "Messgeräte",
+      "id": 21,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "HT Luxmeter 309",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 4,
+      "group_name": "Messgeräte",
+      "id": 13,
+      "inventory_no": "21092376",
+      "location": "Homburg",
+      "name": "HT Wallbox Messadapter EV-Test 400",
+      "notes": "2St EP Messkabel",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 4,
+      "group_name": "Messgeräte",
+      "id": 20,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "HT Wärmebildkamera THT42",
+      "notes": "1St Blendschutz, 1St Netzteil, 1St USB-Kabel, 1St Kartenlese Adapter",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 4,
+      "group_name": "Messgeräte",
+      "id": 15,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Janitza Netzanalysator UMG 604",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 4,
+      "group_name": "Messgeräte",
+      "id": 28,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Testboy Digitaler-Luxmeter TV332",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 4,
+      "group_name": "Messgeräte",
+      "id": 27,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Testboy Endoskopkamera TV280",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 4,
+      "group_name": "Messgeräte",
+      "id": 26,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Testoterm Luxmeter 0500",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [
+        {
+          "booked_by": "Jörg Schneider",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-06-15",
+          "id": 8,
+          "notes": "",
+          "project": "Wipotec",
+          "resource_id": 19,
+          "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-15",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Jordy Schlemmer",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-06-16",
+          "id": 9,
+          "notes": "",
+          "project": "",
+          "resource_id": 19,
+          "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-16",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Jörg Schneider",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-06-19",
+          "id": 10,
+          "notes": "",
+          "project": "Wipotec",
+          "resource_id": 19,
+          "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-17",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 4,
+      "group_name": "Messgeräte",
+      "id": 19,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
+      "notes": "2St Messadapter, 2St Netzgeräte, 2St LAN-Kabel",
+      "status": {
+        "code": "due",
+        "detail": "Rückgabe heute · bei Jörg Schneider",
+        "label": "Rückgabe heute"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 4,
+      "group_name": "Messgeräte",
+      "id": 17,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Wiha Gerätetester PAT one 47222",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [
+        {
+          "booked_by": "Quentin Richert",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-06-26",
+          "id": 4,
+          "notes": "",
+          "project": "",
+          "resource_id": 18,
+          "resource_name": "Wiha Installationstester MFT one 47216",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-15",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 4,
+      "group_name": "Messgeräte",
+      "id": 18,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Wiha Installationstester MFT one 47216",
+      "notes": "",
+      "status": {
+        "code": "out",
+        "detail": "Unterwegs bis 2026-06-26 · bei Quentin Richert",
+        "label": "Unterwegs"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 4,
+      "group_name": "Messgeräte",
+      "id": 22,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Würth Leitungssucher LS27",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    }
+  ],
+  "today": "2026-06-15",
+  "users": [
+    {
+      "active": 1,
+      "department": null,
+      "email": null,
+      "id": 5,
+      "location": null,
+      "name": "Admin",
+      "phone": null,
+      "role": "Admin",
+      "shortname": "ADM"
+    },
+    {
+      "active": 1,
+      "department": null,
+      "email": null,
+      "id": 4,
+      "location": null,
+      "name": "Lager",
+      "phone": null,
+      "role": "Lager",
+      "shortname": "LAG"
+    },
+    {
+      "active": 1,
+      "department": null,
+      "email": null,
+      "id": 1,
+      "location": null,
+      "name": "Marco",
+      "phone": null,
+      "role": "Admin",
+      "shortname": "MAR"
+    },
+    {
+      "active": 1,
+      "department": null,
+      "email": null,
+      "id": 3,
+      "location": null,
+      "name": "Monteur 1",
+      "phone": null,
+      "role": "Monteur",
+      "shortname": "MON"
+    },
+    {
+      "active": 1,
+      "department": null,
+      "email": null,
+      "id": 2,
+      "location": null,
+      "name": "Sebastian",
+      "phone": null,
+      "role": "Monteur",
+      "shortname": "SEB"
+    }
+  ]
+}

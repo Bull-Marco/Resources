@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Bullacher Ressourcen</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="brand">
+    <img src="logo.jpg" alt="Bullacher">
+    <div>
+      <h1>Ressourcen</h1>
+      <p>Nur Ansicht · Stand: <span id="exportedAt">lädt...</span></p>
+    </div>
+  </div>
+</header>
+
+<main>
+  <section class="toolbar">
+    <input id="search" placeholder="Gerät, Inventar, Standort suchen..." oninput="render()">
+    <div class="filters">
+      <button class="active" data-filter="" onclick="setFilter(this,'')">Alle</button>
+      <button data-filter="available" onclick="setFilter(this,'available')">🟢 Frei</button>
+      <button data-filter="out" onclick="setFilter(this,'out')">🔴 Weg</button>
+      <button data-filter="due" onclick="setFilter(this,'due')">🟡 Heute</button>
+      <button data-filter="overdue" onclick="setFilter(this,'overdue')">⚫ Überfällig</button>
+    </div>
+  </section>
+
+  <section class="summary" id="summary"></section>
+  <section class="list" id="list"></section>
+</main>
+
+<footer>
+  Keine Buchung möglich · reine externe Ansicht
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
