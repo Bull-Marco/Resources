@@ -77,6 +77,24 @@
       "deleted": 0,
       "deleted_at": null,
       "end_date": "2026-06-16",
+      "id": 11,
+      "notes": "",
+      "project": "",
+      "resource_id": 29,
+      "resource_name": "Phoenix Thermomark Go-Set 1221548-01",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-16",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Jordy Schlemmer",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-06-16",
       "id": 9,
       "notes": "",
       "project": "",
@@ -87,6 +105,42 @@
       "returned_at": null,
       "slot": "TAG",
       "start_date": "2026-06-16",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Nico Wegner",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-06-16",
+      "id": 13,
+      "notes": "",
+      "project": "",
+      "resource_id": 32,
+      "resource_name": "Würth Fallschutz Set 0899032103_01",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-16",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Quentin Richert",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-06-17",
+      "id": 12,
+      "notes": "",
+      "project": "",
+      "resource_id": 29,
+      "resource_name": "Phoenix Thermomark Go-Set 1221548-01",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-17",
       "user_id": null,
       "user_name": null
     },
@@ -109,7 +163,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-06-15T13:17:59",
+  "exported_at": "2026-06-15T15:48:58",
   "groups": [
     {
       "deleted": 0,
@@ -121,13 +175,140 @@
     {
       "deleted": 0,
       "deleted_at": null,
+      "id": 6,
+      "name": "Kabel-Einzugshilfen",
+      "type": "Werkzeuggruppe"
+    },
+    {
+      "deleted": 0,
+      "deleted_at": null,
       "id": 4,
       "name": "Messgeräte",
+      "type": "Werkzeuggruppe"
+    },
+    {
+      "deleted": 0,
+      "deleted_at": null,
+      "id": 7,
+      "name": "Sicherheitszubehör",
       "type": "Werkzeuggruppe"
     }
   ],
   "history": [],
   "resources": [
+    {
+      "archived": 0,
+      "bookings": [
+        {
+          "booked_by": "Jordy Schlemmer",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-06-16",
+          "id": 11,
+          "notes": "",
+          "project": "",
+          "resource_id": 29,
+          "resource_name": "Phoenix Thermomark Go-Set 1221548-01",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-16",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Quentin Richert",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-06-17",
+          "id": 12,
+          "notes": "",
+          "project": "",
+          "resource_id": 29,
+          "resource_name": "Phoenix Thermomark Go-Set 1221548-01",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-17",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 5,
+      "group_name": "Beschriftungsgeräte",
+      "id": 29,
+      "inventory_no": "Serien-Nummer 2242006255",
+      "location": "Homburg",
+      "name": "Phoenix Thermomark Go-Set 1221548-01",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 5,
+      "group_name": "Beschriftungsgeräte",
+      "id": 31,
+      "inventory_no": "Serien-Nummer 2116002096",
+      "location": "Homburg",
+      "name": "Phoenix Thermomark Go-Set 1221548-02",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 6,
+      "group_name": "Kabel-Einzugshilfen",
+      "id": 33,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Einhell Handseilwinde TC-WI 800",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 6,
+      "group_name": "Kabel-Einzugshilfen",
+      "id": 30,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Runpotec Kabelabroller-Set XB300",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
     {
       "archived": 0,
       "bookings": [
@@ -574,6 +755,44 @@
       "inventory_no": "",
       "location": "Homburg",
       "name": "Würth Leitungssucher LS27",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [
+        {
+          "booked_by": "Nico Wegner",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-06-16",
+          "id": 13,
+          "notes": "",
+          "project": "",
+          "resource_id": 32,
+          "resource_name": "Würth Fallschutz Set 0899032103_01",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-16",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 7,
+      "group_name": "Sicherheitszubehör",
+      "id": 32,
+      "inventory_no": "Serien-Nr.176340901131550471",
+      "location": "Homburg",
+      "name": "Würth Fallschutz Set 0899032103_01",
       "notes": "",
       "status": {
         "code": "available",
