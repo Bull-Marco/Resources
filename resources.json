@@ -11,8 +11,8 @@
       "resource_id": 23,
       "resource_name": "Amprobe Maschinen-Messgerät HT2034",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-06-16T13:11:13",
       "slot": "TAG",
       "start_date": "2026-06-15",
       "user_id": null,
@@ -163,7 +163,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-06-16T13:10:42",
+  "exported_at": "2026-06-16T13:11:19",
   "groups": [
     {
       "deleted": 0,
@@ -323,8 +323,8 @@
           "resource_id": 23,
           "resource_name": "Amprobe Maschinen-Messgerät HT2034",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-06-16T13:11:13",
           "slot": "TAG",
           "start_date": "2026-06-15",
           "user_id": null,
@@ -341,9 +341,9 @@
       "name": "Amprobe Maschinen-Messgerät HT2034",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-06-26 · bei Philipp Kappler",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
