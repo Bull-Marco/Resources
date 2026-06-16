@@ -47,8 +47,8 @@
       "resource_id": 19,
       "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-06-16T11:41:36",
       "slot": "TAG",
       "start_date": "2026-06-15",
       "user_id": null,
@@ -163,7 +163,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-06-16T11:06:00",
+  "exported_at": "2026-06-16T11:42:29",
   "groups": [
     {
       "deleted": 0,
@@ -627,8 +627,8 @@
           "resource_id": 19,
           "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-06-16T11:41:36",
           "slot": "TAG",
           "start_date": "2026-06-15",
           "user_id": null,
@@ -681,9 +681,9 @@
       "name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
       "notes": "2St Messadapter, 2St Netzgeräte, 2St LAN-Kabel",
       "status": {
-        "code": "overdue",
-        "detail": "Überfällig seit 2026-06-15 · bei Jörg Schneider",
-        "label": "Überfällig"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Jordy Schlemmer",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
