@@ -75,11 +75,19 @@ function renderList(resources){
     return;
   }
 
+  const today = DATA.today || new Date().toISOString().slice(0,10);
+
   list.innerHTML = resources.map(r => {
     const st = r.status?.code || "available";
     const label = statusLabels[st] || r.status?.label || st;
-    const openBookings = (r.bookings || []).filter(b => !b.returned && !b.deleted);
-    const relevant = openBookings.slice(0,3);
+
+    const openBookings = (r.bookings || []).filter(b => {
+      if(b.returned || b.deleted) return false;
+      if(st === "overdue") return b.end_date < today;
+      return b.start_date <= today && b.end_date >= today;
+    });
+
+    const relevant = openBookings.slice(0,1);
 
     return `
       <article class="card ${esc(st)}">
