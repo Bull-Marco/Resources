@@ -155,8 +155,8 @@
       "resource_id": 29,
       "resource_name": "Phoenix Thermomark Go-Set 1221548-01",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-06-17T14:50:17",
       "slot": "TAG",
       "start_date": "2026-06-17",
       "user_id": null,
@@ -217,7 +217,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-06-17T13:39:48",
+  "exported_at": "2026-06-17T15:42:28",
   "groups": [
     {
       "deleted": 0,
@@ -238,6 +238,13 @@
       "deleted_at": null,
       "id": 4,
       "name": "Messgeräte",
+      "type": "Werkzeuggruppe"
+    },
+    {
+      "deleted": 0,
+      "deleted_at": null,
+      "id": 8,
+      "name": "Pool-Werkzeug",
       "type": "Werkzeuggruppe"
     },
     {
@@ -282,8 +289,8 @@
           "resource_id": 29,
           "resource_name": "Phoenix Thermomark Go-Set 1221548-01",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-06-17T14:50:17",
           "slot": "TAG",
           "start_date": "2026-06-17",
           "user_id": null,
@@ -300,9 +307,9 @@
       "name": "Phoenix Thermomark Go-Set 1221548-01",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Quentin Richert",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -847,6 +854,196 @@
       "location": "Homburg",
       "name": "Würth Leitungssucher LS27",
       "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 40,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Haupa Kerbzange H05",
+      "notes": "6²-50²",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 44,
+      "inventory_no": "Serien-Nr.048495",
+      "location": "Homburg",
+      "name": "Hilti Akku Auspressgerät HDE500-22",
+      "notes": "im Koffer mit Zubehör: 1xAkku, 1xLadegerät",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 43,
+      "inventory_no": "Serien-Nr.088171",
+      "location": "Homburg",
+      "name": "Hilti Akku-Schussapparat BX3-ME",
+      "notes": "im Koffer mit Zubehör: 2xAkku, 1xLadegerät",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 36,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 35,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Klauke Akku-Presse EK60UNV",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 39,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Klauke Kerbzange K07",
+      "notes": "185-400²",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 37,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Klauke Rohrkabelschuh-Presse K06",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 38,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Klauke Rohrkabelschuh-Presse K09",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 42,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "MIcSim Lochstanze TP-8C",
+      "notes": "von 22,5-61,5mm Durchmesser",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 41,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "MicSim Hydraulische Crimpzange YQK-300",
+      "notes": "Pressbacken von 10²-300²",
       "status": {
         "code": "available",
         "detail": "Verfügbar",
