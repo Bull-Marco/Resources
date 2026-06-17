@@ -145,24 +145,6 @@
       "user_name": null
     },
     {
-      "booked_by": "test",
-      "deleted": 0,
-      "deleted_at": null,
-      "end_date": "2026-06-17",
-      "id": 20,
-      "notes": "",
-      "project": "",
-      "resource_id": 33,
-      "resource_name": "Einhell Handseilwinde TC-WI 800",
-      "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
-      "slot": "TAG",
-      "start_date": "2026-06-17",
-      "user_id": null,
-      "user_name": null
-    },
-    {
       "booked_by": "Quentin Richert",
       "deleted": 0,
       "deleted_at": null,
@@ -235,7 +217,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-06-17T09:29:54",
+  "exported_at": "2026-06-17T08:57:11",
   "groups": [
     {
       "deleted": 0,
@@ -382,26 +364,7 @@
     },
     {
       "archived": 0,
-      "bookings": [
-        {
-          "booked_by": "test",
-          "deleted": 0,
-          "deleted_at": null,
-          "end_date": "2026-06-17",
-          "id": 20,
-          "notes": "",
-          "project": "",
-          "resource_id": 33,
-          "resource_name": "Einhell Handseilwinde TC-WI 800",
-          "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
-          "slot": "TAG",
-          "start_date": "2026-06-17",
-          "user_id": null,
-          "user_name": null
-        }
-      ],
+      "bookings": [],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 6,
@@ -412,9 +375,9 @@
       "name": "Einhell Handseilwinde TC-WI 800",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei test",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
