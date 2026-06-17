@@ -83,8 +83,26 @@
       "resource_id": 29,
       "resource_name": "Phoenix Thermomark Go-Set 1221548-01",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-06-16T16:12:57",
+      "slot": "TAG",
+      "start_date": "2026-06-16",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Jonathan Zöllner",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-06-16",
+      "id": 15,
+      "notes": "",
+      "project": "",
+      "resource_id": 31,
+      "resource_name": "Phoenix Thermomark Go-Set 1221548-02",
+      "resource_type": "Werkzeug",
+      "returned": 1,
+      "returned_at": "2026-06-16T16:27:09",
       "slot": "TAG",
       "start_date": "2026-06-16",
       "user_id": null,
@@ -101,8 +119,8 @@
       "resource_id": 19,
       "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-06-16T16:13:02",
       "slot": "TAG",
       "start_date": "2026-06-16",
       "user_id": null,
@@ -145,6 +163,24 @@
       "user_name": null
     },
     {
+      "booked_by": "Jonathan Zöllner",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-06-17",
+      "id": 19,
+      "notes": "",
+      "project": "",
+      "resource_id": 31,
+      "resource_name": "Phoenix Thermomark Go-Set 1221548-02",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-17",
+      "user_id": null,
+      "user_name": null
+    },
+    {
       "booked_by": "Jörg Schneider",
       "deleted": 0,
       "deleted_at": null,
@@ -161,9 +197,27 @@
       "start_date": "2026-06-17",
       "user_id": null,
       "user_name": null
+    },
+    {
+      "booked_by": "Maurice Staub",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-06-19",
+      "id": 17,
+      "notes": "",
+      "project": "",
+      "resource_id": 34,
+      "resource_name": "Würth Fallschutz Set 0899032103_02",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-17",
+      "user_id": null,
+      "user_name": null
     }
   ],
-  "exported_at": "2026-06-16T13:11:55",
+  "exported_at": "2026-06-17T08:57:11",
   "groups": [
     {
       "deleted": 0,
@@ -210,8 +264,8 @@
           "resource_id": 29,
           "resource_name": "Phoenix Thermomark Go-Set 1221548-01",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-06-16T16:12:57",
           "slot": "TAG",
           "start_date": "2026-06-16",
           "user_id": null,
@@ -247,14 +301,51 @@
       "notes": "",
       "status": {
         "code": "due",
-        "detail": "Rückgabe heute · bei Jordy Schlemmer",
+        "detail": "Rückgabe heute · bei Quentin Richert",
         "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Jonathan Zöllner",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-06-16",
+          "id": 15,
+          "notes": "",
+          "project": "",
+          "resource_id": 31,
+          "resource_name": "Phoenix Thermomark Go-Set 1221548-02",
+          "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-06-16T16:27:09",
+          "slot": "TAG",
+          "start_date": "2026-06-16",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Jonathan Zöllner",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-06-17",
+          "id": 19,
+          "notes": "",
+          "project": "",
+          "resource_id": 31,
+          "resource_name": "Phoenix Thermomark Go-Set 1221548-02",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-17",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 5,
@@ -265,9 +356,9 @@
       "name": "Phoenix Thermomark Go-Set 1221548-02",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Jonathan Zöllner",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -645,8 +736,8 @@
           "resource_id": 19,
           "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-06-16T16:13:02",
           "slot": "TAG",
           "start_date": "2026-06-16",
           "user_id": null,
@@ -681,9 +772,9 @@
       "name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
       "notes": "2St Messadapter, 2St Netzgeräte, 2St LAN-Kabel",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Jordy Schlemmer",
-        "label": "Rückgabe heute"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-06-19 · bei Jörg Schneider",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -800,9 +891,47 @@
         "label": "Verfügbar"
       },
       "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [
+        {
+          "booked_by": "Maurice Staub",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-06-19",
+          "id": 17,
+          "notes": "",
+          "project": "",
+          "resource_id": 34,
+          "resource_name": "Würth Fallschutz Set 0899032103_02",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-17",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 7,
+      "group_name": "Sicherheitszubehör",
+      "id": 34,
+      "inventory_no": "Serien-Nr.176340901142591203",
+      "location": "Homburg",
+      "name": "Würth Fallschutz Set 0899032103_02",
+      "notes": "",
+      "status": {
+        "code": "out",
+        "detail": "Unterwegs bis 2026-06-19 · bei Maurice Staub",
+        "label": "Unterwegs"
+      },
+      "type": "Werkzeug"
     }
   ],
-  "today": "2026-06-16",
+  "today": "2026-06-17",
   "users": [
     {
       "active": 1,
@@ -814,6 +943,17 @@
       "phone": null,
       "role": "Admin",
       "shortname": "ADM"
+    },
+    {
+      "active": 1,
+      "department": "",
+      "email": "",
+      "id": 6,
+      "location": "Homburg",
+      "name": "Jonathan Zöllner",
+      "phone": "",
+      "role": "Monteur",
+      "shortname": ""
     },
     {
       "active": 1,
