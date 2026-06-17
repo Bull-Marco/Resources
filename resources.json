@@ -181,24 +181,6 @@
       "user_name": null
     },
     {
-      "booked_by": "test",
-      "deleted": 0,
-      "deleted_at": null,
-      "end_date": "2026-06-17",
-      "id": 21,
-      "notes": "",
-      "project": "",
-      "resource_id": 30,
-      "resource_name": "Runpotec Kabelabroller-Set XB300",
-      "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
-      "slot": "TAG",
-      "start_date": "2026-06-17",
-      "user_id": null,
-      "user_name": null
-    },
-    {
       "booked_by": "Jörg Schneider",
       "deleted": 0,
       "deleted_at": null,
@@ -235,7 +217,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-06-17T10:17:18",
+  "exported_at": "2026-06-17T08:57:11",
   "groups": [
     {
       "deleted": 0,
@@ -401,26 +383,7 @@
     },
     {
       "archived": 0,
-      "bookings": [
-        {
-          "booked_by": "test",
-          "deleted": 0,
-          "deleted_at": null,
-          "end_date": "2026-06-17",
-          "id": 21,
-          "notes": "",
-          "project": "",
-          "resource_id": 30,
-          "resource_name": "Runpotec Kabelabroller-Set XB300",
-          "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
-          "slot": "TAG",
-          "start_date": "2026-06-17",
-          "user_id": null,
-          "user_name": null
-        }
-      ],
+      "bookings": [],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 6,
@@ -431,9 +394,9 @@
       "name": "Runpotec Kabelabroller-Set XB300",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei test",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
