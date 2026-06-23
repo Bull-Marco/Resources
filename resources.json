@@ -45,7 +45,7 @@
       "notes": "",
       "project": "Wipotec",
       "resource_id": 19,
-      "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
+      "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
       "resource_type": "Werkzeug",
       "returned": 1,
       "returned_at": "2026-06-16T11:41:36",
@@ -135,7 +135,7 @@
       "notes": "",
       "project": "",
       "resource_id": 19,
-      "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
+      "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
       "resource_type": "Werkzeug",
       "returned": 1,
       "returned_at": "2026-06-16T16:13:02",
@@ -207,7 +207,7 @@
       "notes": "",
       "project": "Wipotec",
       "resource_id": 19,
-      "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
+      "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
       "resource_type": "Werkzeug",
       "returned": 1,
       "returned_at": "2026-06-22T08:25:17",
@@ -407,8 +407,8 @@
       "resource_id": 57,
       "resource_name": "Bosch Bohrhammer GBH5-40D",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-06-22T11:30:12",
       "slot": "TAG",
       "start_date": "2026-06-22",
       "user_id": null,
@@ -451,11 +451,29 @@
       "user_name": null
     },
     {
+      "booked_by": "Emil Vollmar",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-03",
+      "id": 49,
+      "notes": "",
+      "project": "903258 Köhler",
+      "resource_id": 46,
+      "resource_name": "Hilti Akku-Schussapparat BX3-ME-22",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-22",
+      "user_id": null,
+      "user_name": null
+    },
+    {
       "booked_by": "Jonathan Zöllner",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-06-22",
-      "id": 45,
+      "end_date": "2026-06-23",
+      "id": 48,
       "notes": "",
       "project": "Kadia",
       "resource_id": 47,
@@ -495,7 +513,7 @@
       "notes": "",
       "project": "Wipotec KL",
       "resource_id": 19,
-      "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
+      "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
       "resource_type": "Werkzeug",
       "returned": 0,
       "returned_at": null,
@@ -531,7 +549,7 @@
       "notes": "",
       "project": "",
       "resource_id": 19,
-      "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
+      "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
       "resource_type": "Werkzeug",
       "returned": 0,
       "returned_at": null,
@@ -577,7 +595,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-06-22T08:38:02",
+  "exported_at": "2026-06-23T08:24:28",
   "groups": [
     {
       "deleted": 0,
@@ -1158,7 +1176,7 @@
           "notes": "",
           "project": "Wipotec",
           "resource_id": 19,
-          "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
+          "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
           "resource_type": "Werkzeug",
           "returned": 1,
           "returned_at": "2026-06-16T11:41:36",
@@ -1176,7 +1194,7 @@
           "notes": "",
           "project": "",
           "resource_id": 19,
-          "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
+          "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
           "resource_type": "Werkzeug",
           "returned": 1,
           "returned_at": "2026-06-16T16:13:02",
@@ -1194,7 +1212,7 @@
           "notes": "",
           "project": "Wipotec",
           "resource_id": 19,
-          "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
+          "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
           "resource_type": "Werkzeug",
           "returned": 1,
           "returned_at": "2026-06-22T08:25:17",
@@ -1212,7 +1230,7 @@
           "notes": "",
           "project": "Wipotec KL",
           "resource_id": 19,
-          "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
+          "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
           "resource_type": "Werkzeug",
           "returned": 0,
           "returned_at": null,
@@ -1230,7 +1248,7 @@
           "notes": "",
           "project": "",
           "resource_id": 19,
-          "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
+          "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
           "resource_type": "Werkzeug",
           "returned": 0,
           "returned_at": null,
@@ -1247,7 +1265,7 @@
       "id": 19,
       "inventory_no": "",
       "location": "Homburg",
-      "name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S",
+      "name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
       "notes": "2St Messadapter, 2St Netzgeräte, 2St LAN-Kabel",
       "status": {
         "code": "out",
@@ -1589,9 +1607,9 @@
       "name": "Bosch Akku Presszange GPH18V-60",
       "notes": "im Koffer mit Zubehör: Crimp-Einsätze Alu 95²/120²/300² und Kupfer 95²/150²/240²/300² ",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-06-23 · bei Danny Spang",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Danny Spang",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -1609,8 +1627,8 @@
           "resource_id": 57,
           "resource_name": "Bosch Bohrhammer GBH5-40D",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-06-22T11:30:12",
           "slot": "TAG",
           "start_date": "2026-06-22",
           "user_id": null,
@@ -1627,9 +1645,9 @@
       "name": "Bosch Bohrhammer GBH5-40D",
       "notes": "im Koffer ",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Philipp Kappler",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -1806,7 +1824,26 @@
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Emil Vollmar",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-03",
+          "id": 49,
+          "notes": "",
+          "project": "903258 Köhler",
+          "resource_id": 46,
+          "resource_name": "Hilti Akku-Schussapparat BX3-ME-22",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-22",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 8,
@@ -1817,9 +1854,9 @@
       "name": "Hilti Akku-Schussapparat BX3-ME-22",
       "notes": "im Koffer mit Zubehör: 1St Akku, ohne Ladegerät",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-03 · bei Emil Vollmar",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -1925,8 +1962,8 @@
           "booked_by": "Jonathan Zöllner",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-06-22",
-          "id": 45,
+          "end_date": "2026-06-23",
+          "id": 48,
           "notes": "",
           "project": "Kadia",
           "resource_id": 47,
@@ -2451,7 +2488,7 @@
       "type": "Werkzeug"
     }
   ],
-  "today": "2026-06-22",
+  "today": "2026-06-23",
   "users": [
     {
       "active": 1,
