@@ -541,6 +541,24 @@
       "user_name": null
     },
     {
+      "booked_by": "Dimi",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-06-26",
+      "id": 50,
+      "notes": "",
+      "project": "",
+      "resource_id": 13,
+      "resource_name": "HT Wallbox Messadapter EV-Test 400",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-23",
+      "user_id": null,
+      "user_name": null
+    },
+    {
       "booked_by": "Nico Wegner",
       "deleted": 0,
       "deleted_at": null,
@@ -595,7 +613,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-06-23T08:24:28",
+  "exported_at": "2026-06-23T12:11:32",
   "groups": [
     {
       "deleted": 0,
@@ -1014,7 +1032,26 @@
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Dimi",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-06-26",
+          "id": 50,
+          "notes": "",
+          "project": "",
+          "resource_id": 13,
+          "resource_name": "HT Wallbox Messadapter EV-Test 400",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-23",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 4,
@@ -1025,9 +1062,9 @@
       "name": "HT Wallbox Messadapter EV-Test 400",
       "notes": "2St EP Messkabel",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-06-26 · bei Dimi",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
