@@ -263,8 +263,8 @@
       "resource_id": 58,
       "resource_name": "Bosch Akku Bohrhammer GHB18V-36C",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-06-24T07:57:29",
       "slot": "TAG",
       "start_date": "2026-06-19",
       "user_id": null,
@@ -281,8 +281,8 @@
       "resource_id": 64,
       "resource_name": "Bosch Akku Presszange GPH18V-60",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-06-24T07:08:55",
       "slot": "TAG",
       "start_date": "2026-06-19",
       "user_id": null,
@@ -389,8 +389,8 @@
       "resource_id": 16,
       "resource_name": "Benning Installationstester IT115",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-06-24T08:02:28",
       "slot": "TAG",
       "start_date": "2026-06-22",
       "user_id": null,
@@ -425,8 +425,8 @@
       "resource_id": 24,
       "resource_name": "HT Installationstester Combi 521",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-06-24T08:00:29",
       "slot": "TAG",
       "start_date": "2026-06-22",
       "user_id": null,
@@ -533,8 +533,8 @@
       "resource_id": 17,
       "resource_name": "Wiha Gerätetester PAT one 47222",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-06-24T07:08:01",
       "slot": "TAG",
       "start_date": "2026-06-22",
       "user_id": null,
@@ -555,6 +555,96 @@
       "returned_at": null,
       "slot": "TAG",
       "start_date": "2026-06-23",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Thomas Weber",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-06-26",
+      "id": 55,
+      "notes": "",
+      "project": "",
+      "resource_id": 16,
+      "resource_name": "Benning Installationstester IT115",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-24",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Jonathan Zöllner",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-06-26",
+      "id": 52,
+      "notes": "",
+      "project": "",
+      "resource_id": 58,
+      "resource_name": "Bosch Akku Bohrhammer GHB18V-36C",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-24",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-03",
+      "id": 54,
+      "notes": "",
+      "project": "",
+      "resource_id": 24,
+      "resource_name": "HT Installationstester Combi 521",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-24",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Felix Weber",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-06-26",
+      "id": 51,
+      "notes": "",
+      "project": "Bahnhofstraße",
+      "resource_id": 65,
+      "resource_name": "Hilti Dornpresse NCR60 D22",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-24",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Hasan Ican",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-06-25",
+      "id": 53,
+      "notes": "",
+      "project": "Kadia",
+      "resource_id": 70,
+      "resource_name": "KOMVOX Walkie Talkie GT60",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-24",
       "user_id": null,
       "user_name": null
     },
@@ -613,7 +703,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-06-23T12:11:32",
+  "exported_at": "2026-06-24T08:34:50",
   "groups": [
     {
       "deleted": 0,
@@ -874,10 +964,28 @@
           "resource_id": 16,
           "resource_name": "Benning Installationstester IT115",
           "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-06-24T08:02:28",
+          "slot": "TAG",
+          "start_date": "2026-06-22",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Thomas Weber",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-06-26",
+          "id": 55,
+          "notes": "",
+          "project": "",
+          "resource_id": 16,
+          "resource_name": "Benning Installationstester IT115",
+          "resource_type": "Werkzeug",
           "returned": 0,
           "returned_at": null,
           "slot": "TAG",
-          "start_date": "2026-06-22",
+          "start_date": "2026-06-24",
           "user_id": null,
           "user_name": null
         }
@@ -893,7 +1001,7 @@
       "notes": "1St Ladegerät, 1St 3-Leiter Prüfleitung, 1St Prüfkabel mit Schukostecker, 1St Krokodilklemmen sw/blau/grün",
       "status": {
         "code": "out",
-        "detail": "Unterwegs bis 2026-07-03 · bei Danny Spang",
+        "detail": "Unterwegs bis 2026-06-26 · bei Thomas Weber",
         "label": "Unterwegs"
       },
       "type": "Werkzeug"
@@ -987,10 +1095,28 @@
           "resource_id": 24,
           "resource_name": "HT Installationstester Combi 521",
           "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-06-24T08:00:29",
+          "slot": "TAG",
+          "start_date": "2026-06-22",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-03",
+          "id": 54,
+          "notes": "",
+          "project": "",
+          "resource_id": 24,
+          "resource_name": "HT Installationstester Combi 521",
+          "resource_type": "Werkzeug",
           "returned": 0,
           "returned_at": null,
           "slot": "TAG",
-          "start_date": "2026-06-22",
+          "start_date": "2026-06-24",
           "user_id": null,
           "user_name": null
         }
@@ -1006,7 +1132,7 @@
       "notes": "4St Messstrippen, 1St Akku-Ladegerät, 1St Schuko-Adapter 230V ",
       "status": {
         "code": "out",
-        "detail": "Unterwegs bis 2026-06-26 · bei Jörg Schneider",
+        "detail": "Unterwegs bis 2026-07-03 · bei Philipp Kappler",
         "label": "Unterwegs"
       },
       "type": "Werkzeug"
@@ -1305,9 +1431,9 @@
       "name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
       "notes": "2St Messadapter, 2St Netzgeräte, 2St LAN-Kabel",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-06-24 · bei Jörg Schneider",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Jörg Schneider",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -1325,8 +1451,8 @@
           "resource_id": 17,
           "resource_name": "Wiha Gerätetester PAT one 47222",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-06-24T07:08:01",
           "slot": "TAG",
           "start_date": "2026-06-22",
           "user_id": null,
@@ -1343,9 +1469,9 @@
       "name": "Wiha Gerätetester PAT one 47222",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-06-26 · bei Christian Montag",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -1475,10 +1601,28 @@
           "resource_id": 58,
           "resource_name": "Bosch Akku Bohrhammer GHB18V-36C",
           "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-06-24T07:57:29",
+          "slot": "TAG",
+          "start_date": "2026-06-19",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Jonathan Zöllner",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-06-26",
+          "id": 52,
+          "notes": "",
+          "project": "",
+          "resource_id": 58,
+          "resource_name": "Bosch Akku Bohrhammer GHB18V-36C",
+          "resource_type": "Werkzeug",
           "returned": 0,
           "returned_at": null,
           "slot": "TAG",
-          "start_date": "2026-06-19",
+          "start_date": "2026-06-24",
           "user_id": null,
           "user_name": null
         }
@@ -1494,7 +1638,7 @@
       "notes": "im Koffer",
       "status": {
         "code": "out",
-        "detail": "Unterwegs bis 2026-06-24 · bei Quentin Staub",
+        "detail": "Unterwegs bis 2026-06-26 · bei Jonathan Zöllner",
         "label": "Unterwegs"
       },
       "type": "Werkzeug"
@@ -1626,8 +1770,8 @@
           "resource_id": 64,
           "resource_name": "Bosch Akku Presszange GPH18V-60",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-06-24T07:08:55",
           "slot": "TAG",
           "start_date": "2026-06-19",
           "user_id": null,
@@ -1644,9 +1788,9 @@
       "name": "Bosch Akku Presszange GPH18V-60",
       "notes": "im Koffer mit Zubehör: Crimp-Einsätze Alu 95²/120²/300² und Kupfer 95²/150²/240²/300² ",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Danny Spang",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -1955,6 +2099,24 @@
           "start_date": "2026-06-16",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Felix Weber",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-06-26",
+          "id": 51,
+          "notes": "",
+          "project": "Bahnhofstraße",
+          "resource_id": 65,
+          "resource_name": "Hilti Dornpresse NCR60 D22",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-24",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -1967,9 +2129,9 @@
       "name": "Hilti Dornpresse NCR60 D22",
       "notes": "im Koffer",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-06-26 · bei Felix Weber",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -2024,9 +2186,9 @@
       "name": "Hilti Staubsauger VC20M-X",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Jonathan Zöllner",
-        "label": "Rückgabe heute"
+        "code": "overdue",
+        "detail": "Überfällig seit 2026-06-23 · bei Jonathan Zöllner",
+        "label": "Überfällig"
       },
       "type": "Werkzeug"
     },
@@ -2107,6 +2269,24 @@
           "start_date": "2026-06-19",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Hasan Ican",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-06-25",
+          "id": 53,
+          "notes": "",
+          "project": "Kadia",
+          "resource_id": 70,
+          "resource_name": "KOMVOX Walkie Talkie GT60",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-24",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -2119,9 +2299,9 @@
       "name": "KOMVOX Walkie Talkie GT60",
       "notes": "im Karton mit Zubehör: 1St Ladekabel",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-06-25 · bei Hasan Ican",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -2525,7 +2705,7 @@
       "type": "Werkzeug"
     }
   ],
-  "today": "2026-06-23",
+  "today": "2026-06-24",
   "users": [
     {
       "active": 1,
