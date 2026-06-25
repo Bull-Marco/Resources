@@ -479,8 +479,8 @@
       "resource_id": 47,
       "resource_name": "Hilti Staubsauger VC20M-X",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-06-25T08:38:39",
       "slot": "TAG",
       "start_date": "2026-06-22",
       "user_id": null,
@@ -515,8 +515,8 @@
       "resource_id": 19,
       "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-06-25T08:37:33",
       "slot": "TAG",
       "start_date": "2026-06-22",
       "user_id": null,
@@ -587,6 +587,42 @@
       "resource_id": 58,
       "resource_name": "Bosch Akku Bohrhammer GHB18V-36C",
       "resource_type": "Werkzeug",
+      "returned": 1,
+      "returned_at": "2026-06-25T08:15:50",
+      "slot": "TAG",
+      "start_date": "2026-06-24",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Jonathan Zöllner",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-06-25",
+      "id": 56,
+      "notes": "",
+      "project": "Kadia",
+      "resource_id": 76,
+      "resource_name": "Bosch Akku Set mit Ladegerät 0615V0005X",
+      "resource_type": "Werkzeug",
+      "returned": 1,
+      "returned_at": "2026-06-25T08:17:39",
+      "slot": "TAG",
+      "start_date": "2026-06-24",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Danny Spang",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-10",
+      "id": 60,
+      "notes": "",
+      "project": "WiWo",
+      "resource_id": 79,
+      "resource_name": "Diewe Dosensenker Robust BM13",
+      "resource_type": "Werkzeug",
       "returned": 0,
       "returned_at": null,
       "slot": "TAG",
@@ -631,6 +667,24 @@
       "user_name": null
     },
     {
+      "booked_by": "Danny Spang",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-10",
+      "id": 59,
+      "notes": "",
+      "project": "WiWo",
+      "resource_id": 78,
+      "resource_name": "Hilti Schlitzgerät DCH150-SL",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-24",
+      "user_id": null,
+      "user_name": null
+    },
+    {
       "booked_by": "Hasan Ican",
       "deleted": 0,
       "deleted_at": null,
@@ -641,10 +695,100 @@
       "resource_id": 70,
       "resource_name": "KOMVOX Walkie Talkie GT60",
       "resource_type": "Werkzeug",
+      "returned": 1,
+      "returned_at": "2026-06-25T09:25:11",
+      "slot": "TAG",
+      "start_date": "2026-06-24",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Felix weber",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-06-25",
+      "id": 62,
+      "notes": "",
+      "project": "25057",
+      "resource_id": 36,
+      "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
+      "resource_type": "Werkzeug",
       "returned": 0,
       "returned_at": null,
       "slot": "TAG",
       "start_date": "2026-06-24",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Danny Spang",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-10",
+      "id": 61,
+      "notes": "",
+      "project": "WiWo",
+      "resource_id": 80,
+      "resource_name": "Rollprofi Flexipass-Koffer A90299",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-24",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Danny Spang",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-03",
+      "id": 57,
+      "notes": "",
+      "project": "WiWo",
+      "resource_id": 77,
+      "resource_name": "Vevor Einziehband / Fiberglaskabel-Rad 150M D:7,9mm",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-24",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Quentin Staub",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-03",
+      "id": 58,
+      "notes": "",
+      "project": "Kubota",
+      "resource_id": 72,
+      "resource_name": "Würth Fallschutz Set 0899032103_04",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-24",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Jonathan Zöllner",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-06-26",
+      "id": 63,
+      "notes": "",
+      "project": "",
+      "resource_id": 47,
+      "resource_name": "Hilti Staubsauger VC20M-X",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-25",
       "user_id": null,
       "user_name": null
     },
@@ -703,7 +847,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-06-24T08:34:50",
+  "exported_at": "2026-06-25T10:06:23",
   "groups": [
     {
       "deleted": 0,
@@ -890,6 +1034,44 @@
         "code": "available",
         "detail": "Verfügbar",
         "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [
+        {
+          "booked_by": "Danny Spang",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-03",
+          "id": 57,
+          "notes": "",
+          "project": "WiWo",
+          "resource_id": 77,
+          "resource_name": "Vevor Einziehband / Fiberglaskabel-Rad 150M D:7,9mm",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-24",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 6,
+      "group_name": "Kabel-Einzugshilfen",
+      "id": 77,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Vevor Einziehband / Fiberglaskabel-Rad 150M D:7,9mm",
+      "notes": "",
+      "status": {
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-03 · bei Danny Spang",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -1395,8 +1577,8 @@
           "resource_id": 19,
           "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-06-25T08:37:33",
           "slot": "TAG",
           "start_date": "2026-06-22",
           "user_id": null,
@@ -1432,7 +1614,7 @@
       "notes": "2St Messadapter, 2St Netzgeräte, 2St LAN-Kabel",
       "status": {
         "code": "due",
-        "detail": "Rückgabe heute · bei Jörg Schneider",
+        "detail": "Rückgabe heute · bei Nico Wegner",
         "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
@@ -1619,8 +1801,8 @@
           "resource_id": 58,
           "resource_name": "Bosch Akku Bohrhammer GHB18V-36C",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-06-25T08:15:50",
           "slot": "TAG",
           "start_date": "2026-06-24",
           "user_id": null,
@@ -1637,9 +1819,9 @@
       "name": "Bosch Akku Bohrhammer GHB18V-36C",
       "notes": "im Koffer",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-06-26 · bei Jonathan Zöllner",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -1798,6 +1980,44 @@
       "archived": 0,
       "bookings": [
         {
+          "booked_by": "Jonathan Zöllner",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-06-25",
+          "id": 56,
+          "notes": "",
+          "project": "Kadia",
+          "resource_id": 76,
+          "resource_name": "Bosch Akku Set mit Ladegerät 0615V0005X",
+          "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-06-25T08:17:39",
+          "slot": "TAG",
+          "start_date": "2026-06-24",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 76,
+      "inventory_no": "siehe Notizen",
+      "location": "Homburg",
+      "name": "Bosch Akku Set mit Ladegerät 0615V0005X",
+      "notes": "im Karton mit Zubehör: 3St Akku EXBA18V-40 (621268908+621268899+621268901); 1St Ladegerät GAL12 (2607226773)",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [
+        {
           "booked_by": "Philipp Kappler",
           "deleted": 0,
           "deleted_at": null,
@@ -1905,6 +2125,44 @@
         "code": "available",
         "detail": "Verfügbar",
         "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [
+        {
+          "booked_by": "Danny Spang",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-10",
+          "id": 60,
+          "notes": "",
+          "project": "WiWo",
+          "resource_id": 79,
+          "resource_name": "Diewe Dosensenker Robust BM13",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-24",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 79,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Diewe Dosensenker Robust BM13",
+      "notes": "",
+      "status": {
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-10 · bei Danny Spang",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -2158,6 +2416,44 @@
       "archived": 0,
       "bookings": [
         {
+          "booked_by": "Danny Spang",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-10",
+          "id": 59,
+          "notes": "",
+          "project": "WiWo",
+          "resource_id": 78,
+          "resource_name": "Hilti Schlitzgerät DCH150-SL",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-24",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 78,
+      "inventory_no": "Serien-Nr.038754",
+      "location": "Homburg",
+      "name": "Hilti Schlitzgerät DCH150-SL",
+      "notes": "",
+      "status": {
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-10 · bei Danny Spang",
+        "label": "Unterwegs"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [
+        {
           "booked_by": "Jonathan Zöllner",
           "deleted": 0,
           "deleted_at": null,
@@ -2168,10 +2464,28 @@
           "resource_id": 47,
           "resource_name": "Hilti Staubsauger VC20M-X",
           "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-06-25T08:38:39",
+          "slot": "TAG",
+          "start_date": "2026-06-22",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Jonathan Zöllner",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-06-26",
+          "id": 63,
+          "notes": "",
+          "project": "",
+          "resource_id": 47,
+          "resource_name": "Hilti Staubsauger VC20M-X",
+          "resource_type": "Werkzeug",
           "returned": 0,
           "returned_at": null,
           "slot": "TAG",
-          "start_date": "2026-06-22",
+          "start_date": "2026-06-25",
           "user_id": null,
           "user_name": null
         }
@@ -2186,9 +2500,9 @@
       "name": "Hilti Staubsauger VC20M-X",
       "notes": "",
       "status": {
-        "code": "overdue",
-        "detail": "Überfällig seit 2026-06-23 · bei Jonathan Zöllner",
-        "label": "Überfällig"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-06-26 · bei Jonathan Zöllner",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -2281,8 +2595,8 @@
           "resource_id": 70,
           "resource_name": "KOMVOX Walkie Talkie GT60",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-06-25T09:25:11",
           "slot": "TAG",
           "start_date": "2026-06-24",
           "user_id": null,
@@ -2299,15 +2613,34 @@
       "name": "KOMVOX Walkie Talkie GT60",
       "notes": "im Karton mit Zubehör: 1St Ladekabel",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-06-25 · bei Hasan Ican",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Felix weber",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-06-25",
+          "id": 62,
+          "notes": "",
+          "project": "25057",
+          "resource_id": 36,
+          "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-24",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 8,
@@ -2318,9 +2651,9 @@
       "name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Felix weber",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -2435,6 +2768,44 @@
         "code": "available",
         "detail": "Verfügbar",
         "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [
+        {
+          "booked_by": "Danny Spang",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-10",
+          "id": 61,
+          "notes": "",
+          "project": "WiWo",
+          "resource_id": 80,
+          "resource_name": "Rollprofi Flexipass-Koffer A90299",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-24",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 80,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Rollprofi Flexipass-Koffer A90299",
+      "notes": "im Koffer enthalten: 10St Klemmen",
+      "status": {
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-10 · bei Danny Spang",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -2555,6 +2926,24 @@
     {
       "archived": 0,
       "bookings": [
+        {
+          "booked_by": "Quentin Staub",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-03",
+          "id": 58,
+          "notes": "",
+          "project": "Kubota",
+          "resource_id": 72,
+          "resource_name": "Würth Fallschutz Set 0899032103_04",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-24",
+          "user_id": null,
+          "user_name": null
+        },
         {
           "booked_by": "Quentin Staub",
           "deleted": 0,
@@ -2705,7 +3094,7 @@
       "type": "Werkzeug"
     }
   ],
-  "today": "2026-06-24",
+  "today": "2026-06-25",
   "users": [
     {
       "active": 1,
