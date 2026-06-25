@@ -793,6 +793,24 @@
       "user_name": null
     },
     {
+      "booked_by": "Danny Spang",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-31",
+      "id": 64,
+      "notes": "",
+      "project": "WiWo",
+      "resource_id": 81,
+      "resource_name": "Hilti Staubsauger VC20M-X",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-25",
+      "user_id": null,
+      "user_name": null
+    },
+    {
       "booked_by": "Nico Wegner",
       "deleted": 0,
       "deleted_at": null,
@@ -803,10 +821,46 @@
       "resource_id": 19,
       "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
       "resource_type": "Werkzeug",
+      "returned": 1,
+      "returned_at": "2026-06-25T15:02:51",
+      "slot": "TAG",
+      "start_date": "2026-06-25",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Thomas Weber",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-03",
+      "id": 65,
+      "notes": "",
+      "project": "Wipotec  KL",
+      "resource_id": 19,
+      "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
+      "resource_type": "Werkzeug",
       "returned": 0,
       "returned_at": null,
       "slot": "TAG",
-      "start_date": "2026-06-25",
+      "start_date": "2026-06-26",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-03",
+      "id": 66,
+      "notes": "",
+      "project": "",
+      "resource_id": 29,
+      "resource_name": "Phoenix Thermomark Go-Set 1221548-01",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-29",
       "user_id": null,
       "user_name": null
     },
@@ -847,7 +901,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-06-25T10:06:23",
+  "exported_at": "2026-06-25T15:28:05",
   "groups": [
     {
       "deleted": 0,
@@ -923,6 +977,24 @@
           "returned_at": "2026-06-18T07:12:40",
           "slot": "TAG",
           "start_date": "2026-06-17",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-03",
+          "id": 66,
+          "notes": "",
+          "project": "",
+          "resource_id": 29,
+          "resource_name": "Phoenix Thermomark Go-Set 1221548-01",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-29",
           "user_id": null,
           "user_name": null
         }
@@ -1595,10 +1667,28 @@
           "resource_id": 19,
           "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
           "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-06-25T15:02:51",
+          "slot": "TAG",
+          "start_date": "2026-06-25",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Thomas Weber",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-03",
+          "id": 65,
+          "notes": "",
+          "project": "Wipotec  KL",
+          "resource_id": 19,
+          "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
+          "resource_type": "Werkzeug",
           "returned": 0,
           "returned_at": null,
           "slot": "TAG",
-          "start_date": "2026-06-25",
+          "start_date": "2026-06-26",
           "user_id": null,
           "user_name": null
         }
@@ -1613,9 +1703,9 @@
       "name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
       "notes": "2St Messadapter, 2St Netzgeräte, 2St LAN-Kabel",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Nico Wegner",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -2502,6 +2592,44 @@
       "status": {
         "code": "out",
         "detail": "Unterwegs bis 2026-06-26 · bei Jonathan Zöllner",
+        "label": "Unterwegs"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [
+        {
+          "booked_by": "Danny Spang",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-31",
+          "id": 64,
+          "notes": "",
+          "project": "WiWo",
+          "resource_id": 81,
+          "resource_name": "Hilti Staubsauger VC20M-X",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-25",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 81,
+      "inventory_no": "Serien-Nr.101018930",
+      "location": "Homburg",
+      "name": "Hilti Staubsauger VC20M-X",
+      "notes": "",
+      "status": {
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-31 · bei Danny Spang",
         "label": "Unterwegs"
       },
       "type": "Werkzeug"
