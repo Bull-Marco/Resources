@@ -317,8 +317,8 @@
       "resource_id": 18,
       "resource_name": "Wiha Installationstester MFT one 47216",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-06-26T12:46:06",
       "slot": "TAG",
       "start_date": "2026-06-19",
       "user_id": null,
@@ -569,8 +569,8 @@
       "resource_id": 16,
       "resource_name": "Benning Installationstester IT115",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-06-26T14:00:59",
       "slot": "TAG",
       "start_date": "2026-06-24",
       "user_id": null,
@@ -659,8 +659,8 @@
       "resource_id": 65,
       "resource_name": "Hilti Dornpresse NCR60 D22",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-06-26T12:41:16",
       "slot": "TAG",
       "start_date": "2026-06-24",
       "user_id": null,
@@ -713,8 +713,8 @@
       "resource_id": 36,
       "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-06-26T12:41:26",
       "slot": "TAG",
       "start_date": "2026-06-24",
       "user_id": null,
@@ -811,6 +811,24 @@
       "user_name": null
     },
     {
+      "booked_by": "Tobias Knopf",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-03",
+      "id": 67,
+      "notes": "",
+      "project": "",
+      "resource_id": 53,
+      "resource_name": "Hilti Wasserpumpe zum Kernbohrgerät DD150-U",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-25",
+      "user_id": null,
+      "user_name": null
+    },
+    {
       "booked_by": "Nico Wegner",
       "deleted": 0,
       "deleted_at": null,
@@ -825,6 +843,42 @@
       "returned_at": "2026-06-25T15:02:51",
       "slot": "TAG",
       "start_date": "2026-06-25",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Tobias Knopf",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-03",
+      "id": 68,
+      "notes": "",
+      "project": "",
+      "resource_id": 51,
+      "resource_name": "Hilti Bohrständer Befestigungssatz Koffer-DD-Set-02",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-26",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Tobias Knopf",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-03",
+      "id": 69,
+      "notes": "",
+      "project": "",
+      "resource_id": 52,
+      "resource_name": "Hilti ständergeführtes Kernbohrgerät DD150-U",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-26",
       "user_id": null,
       "user_name": null
     },
@@ -901,7 +955,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-06-26T11:42:01",
+  "exported_at": "2026-06-29T08:14:24",
   "groups": [
     {
       "deleted": 0,
@@ -1009,9 +1063,9 @@
       "name": "Phoenix Thermomark Go-Set 1221548-01",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-03 · bei Philipp Kappler",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -1236,8 +1290,8 @@
           "resource_id": 16,
           "resource_name": "Benning Installationstester IT115",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-06-26T14:00:59",
           "slot": "TAG",
           "start_date": "2026-06-24",
           "user_id": null,
@@ -1254,9 +1308,9 @@
       "name": "Benning Installationstester IT115",
       "notes": "1St Ladegerät, 1St 3-Leiter Prüfleitung, 1St Prüfkabel mit Schukostecker, 1St Krokodilklemmen sw/blau/grün",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Thomas Weber",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -1442,9 +1496,9 @@
       "name": "HT Wallbox Messadapter EV-Test 400",
       "notes": "2St EP Messkabel",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Dimi",
-        "label": "Rückgabe heute"
+        "code": "overdue",
+        "detail": "Überfällig seit 2026-06-26 · bei Dimi",
+        "label": "Überfällig"
       },
       "type": "Werkzeug"
     },
@@ -1480,9 +1534,9 @@
       "name": "HT Wärmebildkamera THT42",
       "notes": "1St Blendschutz, 1St Netzteil, 1St USB-Kabel, 1St Kartenlese Adapter",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Christian Montag",
-        "label": "Rückgabe heute"
+        "code": "overdue",
+        "detail": "Überfällig seit 2026-06-26 · bei Christian Montag",
+        "label": "Überfällig"
       },
       "type": "Werkzeug"
     },
@@ -1518,9 +1572,9 @@
       "name": "Janitza Netzanalysator UMG 604 (Wandlermessgerät)",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Christian Montag",
-        "label": "Rückgabe heute"
+        "code": "overdue",
+        "detail": "Überfällig seit 2026-06-26 · bei Christian Montag",
+        "label": "Überfällig"
       },
       "type": "Werkzeug"
     },
@@ -1779,8 +1833,8 @@
           "resource_id": 18,
           "resource_name": "Wiha Installationstester MFT one 47216",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-06-26T12:46:06",
           "slot": "TAG",
           "start_date": "2026-06-19",
           "user_id": null,
@@ -1815,9 +1869,9 @@
       "name": "Wiha Installationstester MFT one 47216",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Christian Montag",
-        "label": "Rückgabe heute"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-01 · bei Quentin Richert",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -2410,7 +2464,26 @@
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Tobias Knopf",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-03",
+          "id": 68,
+          "notes": "",
+          "project": "",
+          "resource_id": 51,
+          "resource_name": "Hilti Bohrständer Befestigungssatz Koffer-DD-Set-02",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-26",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 8,
@@ -2421,9 +2494,9 @@
       "name": "Hilti Bohrständer Befestigungssatz Koffer-DD-Set-02",
       "notes": "gemäß Bild im Koffer",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-03 · bei Tobias Knopf",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -2459,8 +2532,8 @@
           "resource_id": 65,
           "resource_name": "Hilti Dornpresse NCR60 D22",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-06-26T12:41:16",
           "slot": "TAG",
           "start_date": "2026-06-24",
           "user_id": null,
@@ -2477,9 +2550,9 @@
       "name": "Hilti Dornpresse NCR60 D22",
       "notes": "im Koffer",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Felix Weber",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -2590,9 +2663,9 @@
       "name": "Hilti Staubsauger VC20M-X",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Jonathan Zöllner",
-        "label": "Rückgabe heute"
+        "code": "overdue",
+        "detail": "Überfällig seit 2026-06-26 · bei Jonathan Zöllner",
+        "label": "Überfällig"
       },
       "type": "Werkzeug"
     },
@@ -2636,7 +2709,26 @@
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Tobias Knopf",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-03",
+          "id": 67,
+          "notes": "",
+          "project": "",
+          "resource_id": 53,
+          "resource_name": "Hilti Wasserpumpe zum Kernbohrgerät DD150-U",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-25",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 8,
@@ -2647,9 +2739,9 @@
       "name": "Hilti Wasserpumpe zum Kernbohrgerät DD150-U",
       "notes": "Pumpe inkl. 4Mtr Wasserschlauch",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-03 · bei Tobias Knopf",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -2674,7 +2766,26 @@
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Tobias Knopf",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-03",
+          "id": 69,
+          "notes": "",
+          "project": "",
+          "resource_id": 52,
+          "resource_name": "Hilti ständergeführtes Kernbohrgerät DD150-U",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-26",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 8,
@@ -2685,9 +2796,9 @@
       "name": "Hilti ständergeführtes Kernbohrgerät DD150-U",
       "notes": "im Koffer mit Zubehör: 1St Bohrkronen-Verlängerung",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-03 · bei Tobias Knopf",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -2761,8 +2872,8 @@
           "resource_id": 36,
           "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-06-26T12:41:26",
           "slot": "TAG",
           "start_date": "2026-06-24",
           "user_id": null,
@@ -2779,9 +2890,9 @@
       "name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
       "notes": "",
       "status": {
-        "code": "overdue",
-        "detail": "Überfällig seit 2026-06-25 · bei Felix weber",
-        "label": "Überfällig"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -3222,7 +3333,7 @@
       "type": "Werkzeug"
     }
   ],
-  "today": "2026-06-26",
+  "today": "2026-06-29",
   "users": [
     {
       "active": 1,
