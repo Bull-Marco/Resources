@@ -919,6 +919,24 @@
       "user_name": null
     },
     {
+      "booked_by": "Jonathan Zöllner",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-01",
+      "id": 70,
+      "notes": "",
+      "project": "",
+      "resource_id": 31,
+      "resource_name": "Phoenix Thermomark Go-Set 1221548-02",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-29",
+      "user_id": null,
+      "user_name": null
+    },
+    {
       "booked_by": "Quentin Richert",
       "deleted": 0,
       "deleted_at": null,
@@ -955,7 +973,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-06-29T08:14:24",
+  "exported_at": "2026-06-29T16:12:35",
   "groups": [
     {
       "deleted": 0,
@@ -1107,6 +1125,24 @@
           "start_date": "2026-06-17",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Jonathan Zöllner",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-01",
+          "id": 70,
+          "notes": "",
+          "project": "",
+          "resource_id": 31,
+          "resource_name": "Phoenix Thermomark Go-Set 1221548-02",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-29",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -1119,9 +1155,9 @@
       "name": "Phoenix Thermomark Go-Set 1221548-02",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-01 · bei Jonathan Zöllner",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -1198,6 +1234,25 @@
         "code": "out",
         "detail": "Unterwegs bis 2026-07-03 · bei Danny Spang",
         "label": "Unterwegs"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 6,
+      "group_name": "Kabel-Einzugshilfen",
+      "id": 82,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Vevor Einziehband / Fiberglaskabel-Rad 150M D:7,9mm",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
