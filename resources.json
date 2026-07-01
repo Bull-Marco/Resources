@@ -955,6 +955,24 @@
       "user_name": null
     },
     {
+      "booked_by": "Jonathan Zöllner",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-03",
+      "id": 72,
+      "notes": "",
+      "project": "",
+      "resource_id": 16,
+      "resource_name": "Benning Installationstester IT115",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-06-30",
+      "user_id": 6,
+      "user_name": "Jonathan Zöllner"
+    },
+    {
       "booked_by": "Quentin Staub",
       "deleted": 0,
       "deleted_at": null,
@@ -971,9 +989,27 @@
       "start_date": "2026-07-03",
       "user_id": null,
       "user_name": null
+    },
+    {
+      "booked_by": "Quentin Richert",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-09",
+      "id": 71,
+      "notes": "",
+      "project": "",
+      "resource_id": 82,
+      "resource_name": "Vevor Einziehband / Fiberglaskabel-Rad 150M D:7,9mm",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-08",
+      "user_id": null,
+      "user_name": null
     }
   ],
-  "exported_at": "2026-06-29T16:12:35",
+  "exported_at": "2026-07-01T08:24:37",
   "groups": [
     {
       "deleted": 0,
@@ -1155,9 +1191,9 @@
       "name": "Phoenix Thermomark Go-Set 1221548-02",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-01 · bei Jonathan Zöllner",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Jonathan Zöllner",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -1239,7 +1275,26 @@
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Quentin Richert",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-09",
+          "id": 71,
+          "notes": "",
+          "project": "",
+          "resource_id": 82,
+          "resource_name": "Vevor Einziehband / Fiberglaskabel-Rad 150M D:7,9mm",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-08",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 6,
@@ -1351,6 +1406,24 @@
           "start_date": "2026-06-24",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Jonathan Zöllner",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-03",
+          "id": 72,
+          "notes": "",
+          "project": "",
+          "resource_id": 16,
+          "resource_name": "Benning Installationstester IT115",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-06-30",
+          "user_id": 6,
+          "user_name": "Jonathan Zöllner"
         }
       ],
       "deleted": 0,
@@ -1363,9 +1436,9 @@
       "name": "Benning Installationstester IT115",
       "notes": "1St Ladegerät, 1St 3-Leiter Prüfleitung, 1St Prüfkabel mit Schukostecker, 1St Krokodilklemmen sw/blau/grün",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-03 · bei Jonathan Zöllner",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -1924,9 +1997,9 @@
       "name": "Wiha Installationstester MFT one 47216",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-01 · bei Quentin Richert",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Quentin Richert",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -3388,7 +3461,7 @@
       "type": "Werkzeug"
     }
   ],
-  "today": "2026-06-29",
+  "today": "2026-07-01",
   "users": [
     {
       "active": 1,
