@@ -1009,6 +1009,24 @@
       "user_name": null
     },
     {
+      "booked_by": "Christian Montag",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-09",
+      "id": 85,
+      "notes": "",
+      "project": "",
+      "resource_id": 18,
+      "resource_name": "Wiha VDE Installationstester MFT one 47216",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-03",
+      "user_id": null,
+      "user_name": null
+    },
+    {
       "booked_by": "Quentin Staub",
       "deleted": 0,
       "deleted_at": null,
@@ -1073,8 +1091,8 @@
       "resource_id": 61,
       "resource_name": "Bosch Schlitzfräse GNF35CA",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-07T15:06:18",
       "slot": "TAG",
       "start_date": "2026-07-06",
       "user_id": null,
@@ -1091,28 +1109,64 @@
       "resource_id": 48,
       "resource_name": "Hilti handgeführtes Kernbohrgerät DD110-W",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-07T15:05:58",
       "slot": "TAG",
       "start_date": "2026-07-06",
       "user_id": null,
       "user_name": null
     },
     {
-      "booked_by": "Quentin Richert",
+      "booked_by": "Hasan Ican",
       "deleted": 0,
       "deleted_at": null,
       "end_date": "2026-07-08",
-      "id": 74,
+      "id": 83,
       "notes": "",
       "project": "",
-      "resource_id": 18,
-      "resource_name": "Wiha VDE Installationstester MFT one 47216",
+      "resource_id": 23,
+      "resource_name": "Amprobe Maschinen-Messgerät HT2034",
       "resource_type": "Werkzeug",
       "returned": 0,
       "returned_at": null,
       "slot": "TAG",
-      "start_date": "2026-07-06",
+      "start_date": "2026-07-07",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Jonathan Zöllner",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-07",
+      "id": 84,
+      "notes": "",
+      "project": "",
+      "resource_id": 47,
+      "resource_name": "Hilti Staubsauger VC20M-X",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-07",
+      "user_id": 6,
+      "user_name": "Jonathan Zöllner"
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-10",
+      "id": 82,
+      "notes": "",
+      "project": "",
+      "resource_id": 16,
+      "resource_name": "Benning VDE Installationstester IT115",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-08",
       "user_id": null,
       "user_name": null
     },
@@ -1133,9 +1187,27 @@
       "start_date": "2026-07-08",
       "user_id": null,
       "user_name": null
+    },
+    {
+      "booked_by": "Quentin Richert",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-17",
+      "id": 86,
+      "notes": "",
+      "project": "",
+      "resource_id": 18,
+      "resource_name": "Wiha VDE Installationstester MFT one 47216",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-10",
+      "user_id": null,
+      "user_name": null
     }
   ],
-  "exported_at": "2026-07-06T09:30:28",
+  "exported_at": "2026-07-07T15:18:27",
   "groups": [
     {
       "deleted": 0,
@@ -1457,6 +1529,24 @@
           "start_date": "2026-06-15",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Hasan Ican",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-08",
+          "id": 83,
+          "notes": "",
+          "project": "",
+          "resource_id": 23,
+          "resource_name": "Amprobe Maschinen-Messgerät HT2034",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-07",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -1469,9 +1559,9 @@
       "name": "Amprobe Maschinen-Messgerät HT2034",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-08 · bei Hasan Ican",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -1550,6 +1640,24 @@
           "start_date": "2026-06-30",
           "user_id": 6,
           "user_name": "Jonathan Zöllner"
+        },
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-10",
+          "id": 82,
+          "notes": "",
+          "project": "",
+          "resource_id": 16,
+          "resource_name": "Benning VDE Installationstester IT115",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-08",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -2105,9 +2213,9 @@
       "name": "Wiha Gerätetester PAT one 47222",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-07 · bei Christian Montag",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Christian Montag",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -2169,11 +2277,11 @@
           "user_name": null
         },
         {
-          "booked_by": "Quentin Richert",
+          "booked_by": "Christian Montag",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-07-08",
-          "id": 74,
+          "end_date": "2026-07-09",
+          "id": 85,
           "notes": "",
           "project": "",
           "resource_id": 18,
@@ -2182,7 +2290,25 @@
           "returned": 0,
           "returned_at": null,
           "slot": "TAG",
-          "start_date": "2026-07-06",
+          "start_date": "2026-07-03",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Quentin Richert",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-17",
+          "id": 86,
+          "notes": "",
+          "project": "",
+          "resource_id": 18,
+          "resource_name": "Wiha VDE Installationstester MFT one 47216",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-10",
           "user_id": null,
           "user_name": null
         }
@@ -2198,7 +2324,7 @@
       "notes": "",
       "status": {
         "code": "out",
-        "detail": "Unterwegs bis 2026-07-08 · bei Quentin Richert",
+        "detail": "Unterwegs bis 2026-07-09 · bei Christian Montag",
         "label": "Unterwegs"
       },
       "type": "Werkzeug"
@@ -2633,8 +2759,8 @@
           "resource_id": 61,
           "resource_name": "Bosch Schlitzfräse GNF35CA",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-07T15:06:18",
           "slot": "TAG",
           "start_date": "2026-07-06",
           "user_id": null,
@@ -2651,9 +2777,9 @@
       "name": "Bosch Schlitzfräse GNF35CA",
       "notes": "im Koffer",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-10 · bei Felix Weber",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -3093,6 +3219,24 @@
           "start_date": "2026-06-25",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Jonathan Zöllner",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-07",
+          "id": 84,
+          "notes": "",
+          "project": "",
+          "resource_id": 47,
+          "resource_name": "Hilti Staubsauger VC20M-X",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-07",
+          "user_id": 6,
+          "user_name": "Jonathan Zöllner"
         }
       ],
       "deleted": 0,
@@ -3105,9 +3249,9 @@
       "name": "Hilti Staubsauger VC20M-X",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Jonathan Zöllner",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -3201,8 +3345,8 @@
           "resource_id": 48,
           "resource_name": "Hilti handgeführtes Kernbohrgerät DD110-W",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-07T15:05:58",
           "slot": "TAG",
           "start_date": "2026-07-06",
           "user_id": null,
@@ -3219,9 +3363,9 @@
       "name": "Hilti handgeführtes Kernbohrgerät DD110-W",
       "notes": "im Koffer mit Zubehör: 1St Staubabsaugung, 1St Aufnahme, 1St Dosensenker ",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-10 · bei Felix Weber",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -3851,7 +3995,7 @@
       "type": "Werkzeug"
     }
   ],
-  "today": "2026-07-06",
+  "today": "2026-07-07",
   "users": [
     {
       "active": 1,
