@@ -983,8 +983,8 @@
       "resource_id": 17,
       "resource_name": "Wiha Gerätetester PAT one 47222",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-08T07:07:08",
       "slot": "TAG",
       "start_date": "2026-07-02",
       "user_id": null,
@@ -1145,12 +1145,30 @@
       "resource_id": 47,
       "resource_name": "Hilti Staubsauger VC20M-X",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-08T06:59:14",
       "slot": "TAG",
       "start_date": "2026-07-07",
       "user_id": 6,
       "user_name": "Jonathan Zöllner"
+    },
+    {
+      "booked_by": "Felix",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-15",
+      "id": 87,
+      "notes": "",
+      "project": "",
+      "resource_id": 29,
+      "resource_name": "Phoenix Thermomark Go-Set 1221548-01",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-07",
+      "user_id": null,
+      "user_name": null
     },
     {
       "booked_by": "Philipp Kappler",
@@ -1207,7 +1225,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-07-07T15:18:27",
+  "exported_at": "2026-07-08T08:14:00",
   "groups": [
     {
       "deleted": 0,
@@ -1303,6 +1321,24 @@
           "start_date": "2026-06-29",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Felix",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-15",
+          "id": 87,
+          "notes": "",
+          "project": "",
+          "resource_id": 29,
+          "resource_name": "Phoenix Thermomark Go-Set 1221548-01",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-07",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -1315,9 +1351,9 @@
       "name": "Phoenix Thermomark Go-Set 1221548-01",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-15 · bei Felix",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -1503,9 +1539,9 @@
       "name": "Vevor Einziehband / Fiberglaskabel-Rad 150M D:7,9mm",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-09 · bei Quentin Richert",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -1559,9 +1595,9 @@
       "name": "Amprobe Maschinen-Messgerät HT2034",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-08 · bei Hasan Ican",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Hasan Ican",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -1670,9 +1706,9 @@
       "name": "Benning VDE Installationstester IT115",
       "notes": "1St Ladegerät, 1St 3-Leiter Prüfleitung, 1St Prüfkabel mit Schukostecker, 1St Krokodilklemmen sw/blau/grün",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-10 · bei Philipp Kappler",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -2195,8 +2231,8 @@
           "resource_id": 17,
           "resource_name": "Wiha Gerätetester PAT one 47222",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-08T07:07:08",
           "slot": "TAG",
           "start_date": "2026-07-02",
           "user_id": null,
@@ -2213,9 +2249,9 @@
       "name": "Wiha Gerätetester PAT one 47222",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Christian Montag",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -3231,8 +3267,8 @@
           "resource_id": 47,
           "resource_name": "Hilti Staubsauger VC20M-X",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-08T06:59:14",
           "slot": "TAG",
           "start_date": "2026-07-07",
           "user_id": 6,
@@ -3249,9 +3285,9 @@
       "name": "Hilti Staubsauger VC20M-X",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Jonathan Zöllner",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -3995,7 +4031,7 @@
       "type": "Werkzeug"
     }
   ],
-  "today": "2026-07-07",
+  "today": "2026-07-08",
   "users": [
     {
       "active": 1,
