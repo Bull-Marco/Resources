@@ -1189,6 +1189,24 @@
       "user_name": null
     },
     {
+      "booked_by": "Christian Montag",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-09",
+      "id": 89,
+      "notes": "",
+      "project": "",
+      "resource_id": 66,
+      "resource_name": "Bosch Akku Heißluftpistole GHG18V-50",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-08",
+      "user_id": null,
+      "user_name": null
+    },
+    {
       "booked_by": "Quentin Richert",
       "deleted": 0,
       "deleted_at": null,
@@ -1223,9 +1241,27 @@
       "start_date": "2026-07-10",
       "user_id": null,
       "user_name": null
+    },
+    {
+      "booked_by": "Felix Weber",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-14",
+      "id": 88,
+      "notes": "",
+      "project": "",
+      "resource_id": 16,
+      "resource_name": "Benning VDE Installationstester IT115",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-13",
+      "user_id": null,
+      "user_name": null
     }
   ],
-  "exported_at": "2026-07-08T08:14:00",
+  "exported_at": "2026-07-08T11:28:00",
   "groups": [
     {
       "deleted": 0,
@@ -1692,6 +1728,24 @@
           "returned_at": null,
           "slot": "TAG",
           "start_date": "2026-07-08",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Felix Weber",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-14",
+          "id": 88,
+          "notes": "",
+          "project": "",
+          "resource_id": 16,
+          "resource_name": "Benning VDE Installationstester IT115",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-13",
           "user_id": null,
           "user_name": null
         }
@@ -2518,7 +2572,26 @@
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Christian Montag",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-09",
+          "id": 89,
+          "notes": "",
+          "project": "",
+          "resource_id": 66,
+          "resource_name": "Bosch Akku Heißluftpistole GHG18V-50",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-08",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 8,
@@ -2529,9 +2602,9 @@
       "name": "Bosch Akku Heißluftpistole GHG18V-50",
       "notes": "im Koffer ohne Akku",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-09 · bei Christian Montag",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
