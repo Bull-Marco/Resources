@@ -1192,12 +1192,12 @@
       "booked_by": "Christian Montag",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-07-09",
-      "id": 89,
+      "end_date": "2026-07-10",
+      "id": 91,
       "notes": "",
       "project": "",
-      "resource_id": 66,
-      "resource_name": "Bosch Akku Heißluftpistole GHG18V-50",
+      "resource_id": 76,
+      "resource_name": "Bosch Akku Set mit Ladegerät 0615V0005X",
       "resource_type": "Werkzeug",
       "returned": 0,
       "returned_at": null,
@@ -1217,10 +1217,28 @@
       "resource_id": 82,
       "resource_name": "Vevor Einziehband / Fiberglaskabel-Rad 150M D:7,9mm",
       "resource_type": "Werkzeug",
+      "returned": 1,
+      "returned_at": "2026-07-08T15:49:58",
+      "slot": "TAG",
+      "start_date": "2026-07-08",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Christian Montag",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-10",
+      "id": 90,
+      "notes": "",
+      "project": "",
+      "resource_id": 66,
+      "resource_name": "Bosch Akku Heißluftpistole GHG18V-50",
+      "resource_type": "Werkzeug",
       "returned": 0,
       "returned_at": null,
       "slot": "TAG",
-      "start_date": "2026-07-08",
+      "start_date": "2026-07-09",
       "user_id": null,
       "user_name": null
     },
@@ -1261,7 +1279,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-07-08T11:28:00",
+  "exported_at": "2026-07-09T07:53:46",
   "groups": [
     {
       "deleted": 0,
@@ -1557,8 +1575,8 @@
           "resource_id": 82,
           "resource_name": "Vevor Einziehband / Fiberglaskabel-Rad 150M D:7,9mm",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-08T15:49:58",
           "slot": "TAG",
           "start_date": "2026-07-08",
           "user_id": null,
@@ -1575,9 +1593,9 @@
       "name": "Vevor Einziehband / Fiberglaskabel-Rad 150M D:7,9mm",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-09 · bei Quentin Richert",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -1631,9 +1649,9 @@
       "name": "Amprobe Maschinen-Messgerät HT2034",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Hasan Ican",
-        "label": "Rückgabe heute"
+        "code": "overdue",
+        "detail": "Überfällig seit 2026-07-08 · bei Hasan Ican",
+        "label": "Überfällig"
       },
       "type": "Werkzeug"
     },
@@ -2413,9 +2431,9 @@
       "name": "Wiha VDE Installationstester MFT one 47216",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-09 · bei Christian Montag",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Christian Montag",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -2577,8 +2595,8 @@
           "booked_by": "Christian Montag",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-07-09",
-          "id": 89,
+          "end_date": "2026-07-10",
+          "id": 90,
           "notes": "",
           "project": "",
           "resource_id": 66,
@@ -2587,7 +2605,7 @@
           "returned": 0,
           "returned_at": null,
           "slot": "TAG",
-          "start_date": "2026-07-08",
+          "start_date": "2026-07-09",
           "user_id": null,
           "user_name": null
         }
@@ -2603,7 +2621,7 @@
       "notes": "im Koffer ohne Akku",
       "status": {
         "code": "out",
-        "detail": "Unterwegs bis 2026-07-09 · bei Christian Montag",
+        "detail": "Unterwegs bis 2026-07-10 · bei Christian Montag",
         "label": "Unterwegs"
       },
       "type": "Werkzeug"
@@ -2722,6 +2740,24 @@
           "start_date": "2026-06-24",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Christian Montag",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-10",
+          "id": 91,
+          "notes": "",
+          "project": "",
+          "resource_id": 76,
+          "resource_name": "Bosch Akku Set mit Ladegerät 0615V0005X",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-08",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -2734,9 +2770,9 @@
       "name": "Bosch Akku Set mit Ladegerät 0615V0005X",
       "notes": "im Karton mit Zubehör: 3St Akku EXBA18V-40 (621268908+621268899+621268901); 1St Ladegerät GAL12 (2607226773)",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-10 · bei Christian Montag",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -4104,7 +4140,7 @@
       "type": "Werkzeug"
     }
   ],
-  "today": "2026-07-08",
+  "today": "2026-07-09",
   "users": [
     {
       "active": 1,
