@@ -1127,8 +1127,8 @@
       "resource_id": 23,
       "resource_name": "Amprobe Maschinen-Messgerät HT2034",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-09T10:29:12",
       "slot": "TAG",
       "start_date": "2026-07-07",
       "user_id": null,
@@ -1171,24 +1171,6 @@
       "user_name": null
     },
     {
-      "booked_by": "Philipp Kappler",
-      "deleted": 0,
-      "deleted_at": null,
-      "end_date": "2026-07-10",
-      "id": 82,
-      "notes": "",
-      "project": "",
-      "resource_id": 16,
-      "resource_name": "Benning VDE Installationstester IT115",
-      "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
-      "slot": "TAG",
-      "start_date": "2026-07-08",
-      "user_id": null,
-      "user_name": null
-    },
-    {
       "booked_by": "Christian Montag",
       "deleted": 0,
       "deleted_at": null,
@@ -1221,6 +1203,42 @@
       "returned_at": "2026-07-08T15:49:58",
       "slot": "TAG",
       "start_date": "2026-07-08",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Emanuel Klotz",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-09",
+      "id": 94,
+      "notes": "",
+      "project": "Wipotec KL",
+      "resource_id": 91,
+      "resource_name": "8 Sitzer",
+      "resource_type": "Fahrzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-09",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Felix Weber",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-10",
+      "id": 92,
+      "notes": "",
+      "project": "",
+      "resource_id": 16,
+      "resource_name": "Benning VDE Installationstester IT115",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-09",
       "user_id": null,
       "user_name": null
     },
@@ -1277,9 +1295,27 @@
       "start_date": "2026-07-13",
       "user_id": null,
       "user_name": null
+    },
+    {
+      "booked_by": "Pascal Rivera",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-16",
+      "id": 93,
+      "notes": "",
+      "project": "",
+      "resource_id": 90,
+      "resource_name": "VW Crafter",
+      "resource_type": "Fahrzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-14",
+      "user_id": null,
+      "user_name": null
     }
   ],
-  "exported_at": "2026-07-09T07:53:46",
+  "exported_at": "2026-07-09T12:52:47",
   "groups": [
     {
       "deleted": 0,
@@ -1631,8 +1667,8 @@
           "resource_id": 23,
           "resource_name": "Amprobe Maschinen-Messgerät HT2034",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-09T10:29:12",
           "slot": "TAG",
           "start_date": "2026-07-07",
           "user_id": null,
@@ -1649,9 +1685,9 @@
       "name": "Amprobe Maschinen-Messgerät HT2034",
       "notes": "",
       "status": {
-        "code": "overdue",
-        "detail": "Überfällig seit 2026-07-08 · bei Hasan Ican",
-        "label": "Überfällig"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -1732,11 +1768,11 @@
           "user_name": "Jonathan Zöllner"
         },
         {
-          "booked_by": "Philipp Kappler",
+          "booked_by": "Felix Weber",
           "deleted": 0,
           "deleted_at": null,
           "end_date": "2026-07-10",
-          "id": 82,
+          "id": 92,
           "notes": "",
           "project": "",
           "resource_id": 16,
@@ -1745,7 +1781,7 @@
           "returned": 0,
           "returned_at": null,
           "slot": "TAG",
-          "start_date": "2026-07-08",
+          "start_date": "2026-07-09",
           "user_id": null,
           "user_name": null
         },
@@ -1779,7 +1815,7 @@
       "notes": "1St Ladegerät, 1St 3-Leiter Prüfleitung, 1St Prüfkabel mit Schukostecker, 1St Krokodilklemmen sw/blau/grün",
       "status": {
         "code": "out",
-        "detail": "Unterwegs bis 2026-07-10 · bei Philipp Kappler",
+        "detail": "Unterwegs bis 2026-07-10 · bei Felix Weber",
         "label": "Unterwegs"
       },
       "type": "Werkzeug"
@@ -3876,6 +3912,25 @@
     },
     {
       "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 7,
+      "group_name": "Sicherheitszubehör",
+      "id": 93,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Siemens NH Aufsteckgriff mit Stulpe 3NX1014",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
       "bookings": [
         {
           "booked_by": "Nico Wegner",
@@ -4138,6 +4193,101 @@
         "label": "Unterwegs"
       },
       "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [
+        {
+          "booked_by": "Emanuel Klotz",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-09",
+          "id": 94,
+          "notes": "",
+          "project": "Wipotec KL",
+          "resource_id": 91,
+          "resource_name": "8 Sitzer",
+          "resource_type": "Fahrzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-09",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": null,
+      "group_name": null,
+      "id": 91,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "8 Sitzer",
+      "notes": "",
+      "status": {
+        "code": "due",
+        "detail": "Rückgabe heute · bei Emanuel Klotz",
+        "label": "Rückgabe heute"
+      },
+      "type": "Fahrzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": null,
+      "group_name": null,
+      "id": 92,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "ID Buzz",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Fahrzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [
+        {
+          "booked_by": "Pascal Rivera",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-16",
+          "id": 93,
+          "notes": "",
+          "project": "",
+          "resource_id": 90,
+          "resource_name": "VW Crafter",
+          "resource_type": "Fahrzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-14",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": null,
+      "group_name": null,
+      "id": 90,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "VW Crafter",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Fahrzeug"
     }
   ],
   "today": "2026-07-09",
