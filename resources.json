@@ -497,8 +497,8 @@
       "resource_id": 15,
       "resource_name": "Janitza Netzanalysator UMG 604 (Wandlermessgerät)",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-10T06:55:40",
       "slot": "TAG",
       "start_date": "2026-06-22",
       "user_id": null,
@@ -1181,8 +1181,8 @@
       "resource_id": 76,
       "resource_name": "Bosch Akku Set mit Ladegerät 0615V0005X",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-10T07:56:49",
       "slot": "TAG",
       "start_date": "2026-07-08",
       "user_id": null,
@@ -1210,7 +1210,7 @@
       "booked_by": "Emanuel Klotz",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-07-09",
+      "end_date": "2026-07-17",
       "id": 94,
       "notes": "",
       "project": "Wipotec KL",
@@ -1235,8 +1235,8 @@
       "resource_id": 16,
       "resource_name": "Benning VDE Installationstester IT115",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-10T07:56:40",
       "slot": "TAG",
       "start_date": "2026-07-09",
       "user_id": null,
@@ -1253,10 +1253,46 @@
       "resource_id": 66,
       "resource_name": "Bosch Akku Heißluftpistole GHG18V-50",
       "resource_type": "Werkzeug",
+      "returned": 1,
+      "returned_at": "2026-07-10T07:56:33",
+      "slot": "TAG",
+      "start_date": "2026-07-09",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Felix Weber",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-13",
+      "id": 96,
+      "notes": "",
+      "project": "",
+      "resource_id": 57,
+      "resource_name": "Bosch Bohrhammer GBH5-40D",
+      "resource_type": "Werkzeug",
       "returned": 0,
       "returned_at": null,
       "slot": "TAG",
-      "start_date": "2026-07-09",
+      "start_date": "2026-07-10",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Gero Lind",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-21",
+      "id": 95,
+      "notes": "",
+      "project": "",
+      "resource_id": 15,
+      "resource_name": "Janitza Netzanalysator UMG 604 (Wandlermessgerät)",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-10",
       "user_id": null,
       "user_name": null
     },
@@ -1271,8 +1307,8 @@
       "resource_id": 18,
       "resource_name": "Wiha VDE Installationstester MFT one 47216",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-10T07:57:48",
       "slot": "TAG",
       "start_date": "2026-07-10",
       "user_id": null,
@@ -1315,7 +1351,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-07-09T12:52:47",
+  "exported_at": "2026-07-10T08:38:29",
   "groups": [
     {
       "deleted": 0,
@@ -1778,8 +1814,8 @@
           "resource_id": 16,
           "resource_name": "Benning VDE Installationstester IT115",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-10T07:56:40",
           "slot": "TAG",
           "start_date": "2026-07-09",
           "user_id": null,
@@ -1814,9 +1850,9 @@
       "name": "Benning VDE Installationstester IT115",
       "notes": "1St Ladegerät, 1St 3-Leiter Prüfleitung, 1St Prüfkabel mit Schukostecker, 1St Krokodilklemmen sw/blau/grün",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-10 · bei Felix Weber",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -2079,10 +2115,28 @@
           "resource_id": 15,
           "resource_name": "Janitza Netzanalysator UMG 604 (Wandlermessgerät)",
           "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-07-10T06:55:40",
+          "slot": "TAG",
+          "start_date": "2026-06-22",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Gero Lind",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-21",
+          "id": 95,
+          "notes": "",
+          "project": "",
+          "resource_id": 15,
+          "resource_name": "Janitza Netzanalysator UMG 604 (Wandlermessgerät)",
+          "resource_type": "Werkzeug",
           "returned": 0,
           "returned_at": null,
           "slot": "TAG",
-          "start_date": "2026-06-22",
+          "start_date": "2026-07-10",
           "user_id": null,
           "user_name": null
         }
@@ -2097,9 +2151,9 @@
       "name": "Janitza Netzanalysator UMG 604 (Wandlermessgerät)",
       "notes": "",
       "status": {
-        "code": "overdue",
-        "detail": "Überfällig seit 2026-06-26 · bei Christian Montag",
-        "label": "Überfällig"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-21 · bei Gero Lind",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -2449,8 +2503,8 @@
           "resource_id": 18,
           "resource_name": "Wiha VDE Installationstester MFT one 47216",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-10T07:57:48",
           "slot": "TAG",
           "start_date": "2026-07-10",
           "user_id": null,
@@ -2467,9 +2521,9 @@
       "name": "Wiha VDE Installationstester MFT one 47216",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Christian Montag",
-        "label": "Rückgabe heute"
+        "code": "overdue",
+        "detail": "Überfällig seit 2026-07-09 · bei Christian Montag",
+        "label": "Überfällig"
       },
       "type": "Werkzeug"
     },
@@ -2638,8 +2692,8 @@
           "resource_id": 66,
           "resource_name": "Bosch Akku Heißluftpistole GHG18V-50",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-10T07:56:33",
           "slot": "TAG",
           "start_date": "2026-07-09",
           "user_id": null,
@@ -2656,9 +2710,9 @@
       "name": "Bosch Akku Heißluftpistole GHG18V-50",
       "notes": "im Koffer ohne Akku",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-10 · bei Christian Montag",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -2788,8 +2842,8 @@
           "resource_id": 76,
           "resource_name": "Bosch Akku Set mit Ladegerät 0615V0005X",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-10T07:56:49",
           "slot": "TAG",
           "start_date": "2026-07-08",
           "user_id": null,
@@ -2806,9 +2860,9 @@
       "name": "Bosch Akku Set mit Ladegerät 0615V0005X",
       "notes": "im Karton mit Zubehör: 3St Akku EXBA18V-40 (621268908+621268899+621268901); 1St Ladegerät GAL12 (2607226773)",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-10 · bei Christian Montag",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -2844,9 +2898,9 @@
       "name": "Bosch Akku Set mit Ladegerät 1600A0373H",
       "notes": "im Koffer mit Zubehör: 1St.Ladegerät  2607226811 (Serien-Nr.526260734) 3St Akku 1607A35INU (Serien-Nr. 523217050+523216953+523216952)",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-10 · bei Sascha Feltes",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Sascha Feltes",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -2870,6 +2924,24 @@
           "start_date": "2026-06-22",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Felix Weber",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-13",
+          "id": 96,
+          "notes": "",
+          "project": "",
+          "resource_id": 57,
+          "resource_name": "Bosch Bohrhammer GBH5-40D",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-10",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -2882,9 +2954,9 @@
       "name": "Bosch Bohrhammer GBH5-40D",
       "notes": "im Koffer ",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-13 · bei Felix Weber",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -3015,9 +3087,9 @@
       "name": "Diewe Dosensenker Robust BM13",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-10 · bei Danny Spang",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Danny Spang",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -3072,9 +3144,9 @@
       "name": "Haupa Kerbzange H05",
       "notes": "6²-50²",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-10 · bei Sascha Feltes",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Sascha Feltes",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -3186,9 +3258,9 @@
       "name": "Hilti Akku-Schussapparat BX3-ME-22",
       "notes": "im Koffer mit Zubehör: 1St Akku, ohne Ladegerät",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-10 · bei Emil Vollmar",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Emil Vollmar",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -3356,9 +3428,9 @@
       "name": "Hilti Schlitzgerät DCH150-SL",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-10 · bei Danny Spang",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Danny Spang",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -3828,9 +3900,9 @@
       "name": "Rollprofi Flexipass-Koffer A90299",
       "notes": "im Koffer enthalten: 10St Klemmen",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-10 · bei Danny Spang",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Danny Spang",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -4201,7 +4273,7 @@
           "booked_by": "Emanuel Klotz",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-07-09",
+          "end_date": "2026-07-17",
           "id": 94,
           "notes": "",
           "project": "Wipotec KL",
@@ -4226,9 +4298,9 @@
       "name": "8 Sitzer",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Emanuel Klotz",
-        "label": "Rückgabe heute"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-17 · bei Emanuel Klotz",
+        "label": "Unterwegs"
       },
       "type": "Fahrzeug"
     },
@@ -4290,7 +4362,7 @@
       "type": "Fahrzeug"
     }
   ],
-  "today": "2026-07-09",
+  "today": "2026-07-10",
   "users": [
     {
       "active": 1,
