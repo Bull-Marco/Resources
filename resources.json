@@ -454,7 +454,7 @@
       "booked_by": "Emil Vollmar",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-07-10",
+      "end_date": "2026-07-17",
       "id": 49,
       "notes": "",
       "project": "903258 Köhler",
@@ -616,7 +616,7 @@
       "booked_by": "Danny Spang",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-07-10",
+      "end_date": "2026-08-31",
       "id": 60,
       "notes": "",
       "project": "WiWo",
@@ -670,7 +670,7 @@
       "booked_by": "Danny Spang",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-07-10",
+      "end_date": "2026-08-31",
       "id": 59,
       "notes": "",
       "project": "WiWo",
@@ -724,7 +724,7 @@
       "booked_by": "Danny Spang",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-07-10",
+      "end_date": "2026-08-31",
       "id": 61,
       "notes": "",
       "project": "WiWo",
@@ -893,8 +893,8 @@
       "resource_id": 19,
       "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-10T15:40:53",
       "slot": "TAG",
       "start_date": "2026-06-26",
       "user_id": null,
@@ -1019,8 +1019,8 @@
       "resource_id": 18,
       "resource_name": "Wiha VDE Installationstester MFT one 47216",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-10T12:32:49",
       "slot": "TAG",
       "start_date": "2026-07-03",
       "user_id": null,
@@ -1048,7 +1048,7 @@
       "booked_by": "Sascha Felten",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-07-11",
+      "end_date": "2026-07-17",
       "id": 75,
       "notes": "",
       "project": "",
@@ -1066,7 +1066,7 @@
       "booked_by": "Sascha Feltes",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-07-10",
+      "end_date": "2026-07-17",
       "id": 76,
       "notes": "",
       "project": "",
@@ -1271,6 +1271,24 @@
       "resource_id": 57,
       "resource_name": "Bosch Bohrhammer GBH5-40D",
       "resource_type": "Werkzeug",
+      "returned": 1,
+      "returned_at": "2026-07-13T08:37:36",
+      "slot": "TAG",
+      "start_date": "2026-07-10",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Fabian Ziegler-Kiefer",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-15",
+      "id": 97,
+      "notes": "",
+      "project": "Klaus Becker",
+      "resource_id": 24,
+      "resource_name": "HT VDE Installationstester Combi 521",
+      "resource_type": "Werkzeug",
       "returned": 0,
       "returned_at": null,
       "slot": "TAG",
@@ -1315,11 +1333,29 @@
       "user_name": null
     },
     {
+      "booked_by": "Jonathan Zöllner",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-13",
+      "id": 99,
+      "notes": "",
+      "project": "",
+      "resource_id": 19,
+      "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-13",
+      "user_id": null,
+      "user_name": null
+    },
+    {
       "booked_by": "Felix Weber",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-07-14",
-      "id": 88,
+      "end_date": "2026-07-17",
+      "id": 100,
       "notes": "",
       "project": "",
       "resource_id": 16,
@@ -1328,7 +1364,25 @@
       "returned": 0,
       "returned_at": null,
       "slot": "TAG",
-      "start_date": "2026-07-13",
+      "start_date": "2026-07-14",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Christian Montag",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-17",
+      "id": 101,
+      "notes": "",
+      "project": "",
+      "resource_id": 18,
+      "resource_name": "Wiha VDE Installationstester MFT one 47216",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-14",
       "user_id": null,
       "user_name": null
     },
@@ -1351,7 +1405,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-07-10T08:38:29",
+  "exported_at": "2026-07-13T14:25:22",
   "groups": [
     {
       "deleted": 0,
@@ -1825,8 +1879,8 @@
           "booked_by": "Felix Weber",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-07-14",
-          "id": 88,
+          "end_date": "2026-07-17",
+          "id": 100,
           "notes": "",
           "project": "",
           "resource_id": 16,
@@ -1835,7 +1889,7 @@
           "returned": 0,
           "returned_at": null,
           "slot": "TAG",
-          "start_date": "2026-07-13",
+          "start_date": "2026-07-14",
           "user_id": null,
           "user_name": null
         }
@@ -2007,6 +2061,24 @@
           "start_date": "2026-06-24",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Fabian Ziegler-Kiefer",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-15",
+          "id": 97,
+          "notes": "",
+          "project": "Klaus Becker",
+          "resource_id": 24,
+          "resource_name": "HT VDE Installationstester Combi 521",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-10",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -2019,9 +2091,9 @@
       "name": "HT VDE Installationstester Combi 521",
       "notes": "4St Messstrippen, 1St Akku-Ladegerät, 1St Schuko-Adapter 230V ",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-15 · bei Fabian Ziegler-Kiefer",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -2337,10 +2409,28 @@
           "resource_id": 19,
           "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
           "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-07-10T15:40:53",
+          "slot": "TAG",
+          "start_date": "2026-06-26",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Jonathan Zöllner",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-13",
+          "id": 99,
+          "notes": "",
+          "project": "",
+          "resource_id": 19,
+          "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
+          "resource_type": "Werkzeug",
           "returned": 0,
           "returned_at": null,
           "slot": "TAG",
-          "start_date": "2026-06-26",
+          "start_date": "2026-07-13",
           "user_id": null,
           "user_name": null
         }
@@ -2355,9 +2445,9 @@
       "name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
       "notes": "2St Messadapter, 2St Netzgeräte, 2St LAN-Kabel",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-17 · bei Thomas Weber",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Jonathan Zöllner",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -2485,8 +2575,8 @@
           "resource_id": 18,
           "resource_name": "Wiha VDE Installationstester MFT one 47216",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-10T12:32:49",
           "slot": "TAG",
           "start_date": "2026-07-03",
           "user_id": null,
@@ -2509,6 +2599,24 @@
           "start_date": "2026-07-10",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Christian Montag",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-17",
+          "id": 101,
+          "notes": "",
+          "project": "",
+          "resource_id": 18,
+          "resource_name": "Wiha VDE Installationstester MFT one 47216",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-14",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -2521,9 +2629,9 @@
       "name": "Wiha VDE Installationstester MFT one 47216",
       "notes": "",
       "status": {
-        "code": "overdue",
-        "detail": "Überfällig seit 2026-07-09 · bei Christian Montag",
-        "label": "Überfällig"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -2628,7 +2736,7 @@
           "booked_by": "Sascha Felten",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-07-11",
+          "end_date": "2026-07-17",
           "id": 75,
           "notes": "",
           "project": "",
@@ -2654,7 +2762,7 @@
       "notes": "im Koffer ohne Akku",
       "status": {
         "code": "out",
-        "detail": "Unterwegs bis 2026-07-11 · bei Sascha Felten",
+        "detail": "Unterwegs bis 2026-07-17 · bei Sascha Felten",
         "label": "Unterwegs"
       },
       "type": "Werkzeug"
@@ -2873,7 +2981,7 @@
           "booked_by": "Sascha Feltes",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-07-10",
+          "end_date": "2026-07-17",
           "id": 76,
           "notes": "",
           "project": "",
@@ -2898,9 +3006,9 @@
       "name": "Bosch Akku Set mit Ladegerät 1600A0373H",
       "notes": "im Koffer mit Zubehör: 1St.Ladegerät  2607226811 (Serien-Nr.526260734) 3St Akku 1607A35INU (Serien-Nr. 523217050+523216953+523216952)",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Sascha Feltes",
-        "label": "Rückgabe heute"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-17 · bei Sascha Feltes",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -2936,8 +3044,8 @@
           "resource_id": 57,
           "resource_name": "Bosch Bohrhammer GBH5-40D",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-13T08:37:36",
           "slot": "TAG",
           "start_date": "2026-07-10",
           "user_id": null,
@@ -2954,9 +3062,9 @@
       "name": "Bosch Bohrhammer GBH5-40D",
       "notes": "im Koffer ",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-13 · bei Felix Weber",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -3062,7 +3170,7 @@
           "booked_by": "Danny Spang",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-07-10",
+          "end_date": "2026-08-31",
           "id": 60,
           "notes": "",
           "project": "WiWo",
@@ -3087,9 +3195,9 @@
       "name": "Diewe Dosensenker Robust BM13",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Danny Spang",
-        "label": "Rückgabe heute"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-31 · bei Danny Spang",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -3144,9 +3252,9 @@
       "name": "Haupa Kerbzange H05",
       "notes": "6²-50²",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Sascha Feltes",
-        "label": "Rückgabe heute"
+        "code": "overdue",
+        "detail": "Überfällig seit 2026-07-10 · bei Sascha Feltes",
+        "label": "Überfällig"
       },
       "type": "Werkzeug"
     },
@@ -3233,7 +3341,7 @@
           "booked_by": "Emil Vollmar",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-07-10",
+          "end_date": "2026-07-17",
           "id": 49,
           "notes": "",
           "project": "903258 Köhler",
@@ -3258,9 +3366,9 @@
       "name": "Hilti Akku-Schussapparat BX3-ME-22",
       "notes": "im Koffer mit Zubehör: 1St Akku, ohne Ladegerät",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Emil Vollmar",
-        "label": "Rückgabe heute"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-17 · bei Emil Vollmar",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -3403,7 +3511,7 @@
           "booked_by": "Danny Spang",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-07-10",
+          "end_date": "2026-08-31",
           "id": 59,
           "notes": "",
           "project": "WiWo",
@@ -3428,9 +3536,9 @@
       "name": "Hilti Schlitzgerät DCH150-SL",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Danny Spang",
-        "label": "Rückgabe heute"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-31 · bei Danny Spang",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -3875,7 +3983,7 @@
           "booked_by": "Danny Spang",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-07-10",
+          "end_date": "2026-08-31",
           "id": 61,
           "notes": "",
           "project": "WiWo",
@@ -3900,9 +4008,9 @@
       "name": "Rollprofi Flexipass-Koffer A90299",
       "notes": "im Koffer enthalten: 10St Klemmen",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Danny Spang",
-        "label": "Rückgabe heute"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-31 · bei Danny Spang",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -4362,7 +4470,7 @@
       "type": "Fahrzeug"
     }
   ],
-  "today": "2026-07-10",
+  "today": "2026-07-13",
   "users": [
     {
       "active": 1,
