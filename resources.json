@@ -1001,8 +1001,8 @@
       "resource_id": 40,
       "resource_name": "Haupa Kerbzange H05",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-15T07:32:18",
       "slot": "TAG",
       "start_date": "2026-07-03",
       "user_id": null,
@@ -1343,8 +1343,8 @@
       "resource_id": 19,
       "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-13T15:33:59",
       "slot": "TAG",
       "start_date": "2026-07-13",
       "user_id": null,
@@ -1387,6 +1387,24 @@
       "user_name": null
     },
     {
+      "booked_by": "Dieter Wolf",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-07",
+      "id": 102,
+      "notes": "",
+      "project": "Fresenius",
+      "resource_id": 91,
+      "resource_name": "8 Sitzer",
+      "resource_type": "Fahrzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-20",
+      "user_id": null,
+      "user_name": null
+    },
+    {
       "booked_by": "Pascal Rivera",
       "deleted": 0,
       "deleted_at": null,
@@ -1405,7 +1423,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-07-13T15:32:57",
+  "exported_at": "2026-07-15T08:24:15",
   "groups": [
     {
       "deleted": 0,
@@ -1531,9 +1549,9 @@
       "name": "Phoenix Thermomark Go-Set 1221548-01",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-15 · bei Felix",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Felix",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -1904,9 +1922,9 @@
       "name": "Benning VDE Installationstester IT115",
       "notes": "1St Ladegerät, 1St 3-Leiter Prüfleitung, 1St Prüfkabel mit Schukostecker, 1St Krokodilklemmen sw/blau/grün",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-17 · bei Felix Weber",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -2091,9 +2109,9 @@
       "name": "HT VDE Installationstester Combi 521",
       "notes": "4St Messstrippen, 1St Akku-Ladegerät, 1St Schuko-Adapter 230V ",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-15 · bei Fabian Ziegler-Kiefer",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Fabian Ziegler-Kiefer",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -2427,8 +2445,8 @@
           "resource_id": 19,
           "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-13T15:33:59",
           "slot": "TAG",
           "start_date": "2026-07-13",
           "user_id": null,
@@ -2445,9 +2463,9 @@
       "name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
       "notes": "2St Messadapter, 2St Netzgeräte, 2St LAN-Kabel",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Jonathan Zöllner",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -2629,9 +2647,9 @@
       "name": "Wiha VDE Installationstester MFT one 47216",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-17 · bei Christian Montag",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -3234,8 +3252,8 @@
           "resource_id": 40,
           "resource_name": "Haupa Kerbzange H05",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-15T07:32:18",
           "slot": "TAG",
           "start_date": "2026-07-03",
           "user_id": null,
@@ -3252,9 +3270,9 @@
       "name": "Haupa Kerbzange H05",
       "notes": "6²-50²",
       "status": {
-        "code": "overdue",
-        "detail": "Überfällig seit 2026-07-10 · bei Sascha Feltes",
-        "label": "Überfällig"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -4394,6 +4412,24 @@
           "start_date": "2026-07-09",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Dieter Wolf",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-07",
+          "id": 102,
+          "notes": "",
+          "project": "Fresenius",
+          "resource_id": 91,
+          "resource_name": "8 Sitzer",
+          "resource_type": "Fahrzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-20",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -4470,7 +4506,7 @@
       "type": "Fahrzeug"
     }
   ],
-  "today": "2026-07-13",
+  "today": "2026-07-15",
   "users": [
     {
       "active": 1,
