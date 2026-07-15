@@ -1156,7 +1156,7 @@
       "booked_by": "Felix",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-07-15",
+      "end_date": "2026-07-20",
       "id": 87,
       "notes": "",
       "project": "",
@@ -1387,6 +1387,60 @@
       "user_name": null
     },
     {
+      "booked_by": "Jonathan Zöllner",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-31",
+      "id": 103,
+      "notes": "",
+      "project": "",
+      "resource_id": 32,
+      "resource_name": "Würth Fallschutz Set 0899032103_01",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-15",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Jonathan Zöllner",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-31",
+      "id": 104,
+      "notes": "",
+      "project": "",
+      "resource_id": 34,
+      "resource_name": "Würth Fallschutz Set 0899032103_02",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-15",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Jonathan Zöllner",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-31",
+      "id": 105,
+      "notes": "",
+      "project": "",
+      "resource_id": 71,
+      "resource_name": "Würth Fallschutz Set 0899032103_03",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-15",
+      "user_id": null,
+      "user_name": null
+    },
+    {
       "booked_by": "Dieter Wolf",
       "deleted": 0,
       "deleted_at": null,
@@ -1423,7 +1477,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-07-15T08:24:15",
+  "exported_at": "2026-07-15T11:10:46",
   "groups": [
     {
       "deleted": 0,
@@ -1524,7 +1578,7 @@
           "booked_by": "Felix",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-07-15",
+          "end_date": "2026-07-20",
           "id": 87,
           "notes": "",
           "project": "",
@@ -1549,9 +1603,9 @@
       "name": "Phoenix Thermomark Go-Set 1221548-01",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Felix",
-        "label": "Rückgabe heute"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-20 · bei Felix",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -4147,6 +4201,24 @@
           "start_date": "2026-06-16",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Jonathan Zöllner",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-31",
+          "id": 103,
+          "notes": "",
+          "project": "",
+          "resource_id": 32,
+          "resource_name": "Würth Fallschutz Set 0899032103_01",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-15",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -4159,9 +4231,9 @@
       "name": "Würth Fallschutz Set 0899032103_01",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-31 · bei Jonathan Zöllner",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -4185,6 +4257,24 @@
           "start_date": "2026-06-17",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Jonathan Zöllner",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-31",
+          "id": 104,
+          "notes": "",
+          "project": "",
+          "resource_id": 34,
+          "resource_name": "Würth Fallschutz Set 0899032103_02",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-15",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -4197,15 +4287,34 @@
       "name": "Würth Fallschutz Set 0899032103_02",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-31 · bei Jonathan Zöllner",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Jonathan Zöllner",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-31",
+          "id": 105,
+          "notes": "",
+          "project": "",
+          "resource_id": 71,
+          "resource_name": "Würth Fallschutz Set 0899032103_03",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-15",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 7,
@@ -4216,9 +4325,9 @@
       "name": "Würth Fallschutz Set 0899032103_03",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-31 · bei Jonathan Zöllner",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
