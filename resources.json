@@ -1048,7 +1048,7 @@
       "booked_by": "Sascha Felten",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-07-17",
+      "end_date": "2026-07-31",
       "id": 75,
       "notes": "",
       "project": "",
@@ -1066,7 +1066,7 @@
       "booked_by": "Sascha Feltes",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-07-17",
+      "end_date": "2026-07-31",
       "id": 76,
       "notes": "",
       "project": "",
@@ -1459,6 +1459,24 @@
       "user_name": null
     },
     {
+      "booked_by": "Felix Weber",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-17",
+      "id": 108,
+      "notes": "",
+      "project": "",
+      "resource_id": 90,
+      "resource_name": "VW Crafter",
+      "resource_type": "Fahrzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-17",
+      "user_id": null,
+      "user_name": null
+    },
+    {
       "booked_by": "Dieter Wolf",
       "deleted": 0,
       "deleted_at": null,
@@ -1469,6 +1487,24 @@
       "resource_id": 91,
       "resource_name": "8 Sitzer",
       "resource_type": "Fahrzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-20",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Edwin Tevs",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-31",
+      "id": 107,
+      "notes": "",
+      "project": "Wipotec Worms",
+      "resource_id": 30,
+      "resource_name": "Runpotec Kabelabroller-Set XB300",
+      "resource_type": "Werkzeug",
       "returned": 0,
       "returned_at": null,
       "slot": "TAG",
@@ -1495,7 +1531,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-07-16T08:21:25",
+  "exported_at": "2026-07-16T15:49:23",
   "groups": [
     {
       "deleted": 0,
@@ -1722,7 +1758,26 @@
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Edwin Tevs",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-31",
+          "id": 107,
+          "notes": "",
+          "project": "Wipotec Worms",
+          "resource_id": 30,
+          "resource_name": "Runpotec Kabelabroller-Set XB300",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-20",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 6,
@@ -2844,7 +2899,7 @@
           "booked_by": "Sascha Felten",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-07-17",
+          "end_date": "2026-07-31",
           "id": 75,
           "notes": "",
           "project": "",
@@ -2870,7 +2925,7 @@
       "notes": "im Koffer ohne Akku",
       "status": {
         "code": "out",
-        "detail": "Unterwegs bis 2026-07-17 · bei Sascha Felten",
+        "detail": "Unterwegs bis 2026-07-31 · bei Sascha Felten",
         "label": "Unterwegs"
       },
       "type": "Werkzeug"
@@ -3089,7 +3144,7 @@
           "booked_by": "Sascha Feltes",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-07-17",
+          "end_date": "2026-07-31",
           "id": 76,
           "notes": "",
           "project": "",
@@ -3115,7 +3170,7 @@
       "notes": "im Koffer mit Zubehör: 1St.Ladegerät  2607226811 (Serien-Nr.526260734) 3St Akku 1607A35INU (Serien-Nr. 523217050+523216953+523216952)",
       "status": {
         "code": "out",
-        "detail": "Unterwegs bis 2026-07-17 · bei Sascha Feltes",
+        "detail": "Unterwegs bis 2026-07-31 · bei Sascha Feltes",
         "label": "Unterwegs"
       },
       "type": "Werkzeug"
@@ -4615,6 +4670,24 @@
     {
       "archived": 0,
       "bookings": [
+        {
+          "booked_by": "Felix Weber",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-17",
+          "id": 108,
+          "notes": "",
+          "project": "",
+          "resource_id": 90,
+          "resource_name": "VW Crafter",
+          "resource_type": "Fahrzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-17",
+          "user_id": null,
+          "user_name": null
+        },
         {
           "booked_by": "Pascal Rivera",
           "deleted": 0,
