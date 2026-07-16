@@ -1289,8 +1289,8 @@
       "resource_id": 24,
       "resource_name": "HT VDE Installationstester Combi 521",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-16T08:12:00",
       "slot": "TAG",
       "start_date": "2026-07-10",
       "user_id": null,
@@ -1441,6 +1441,24 @@
       "user_name": null
     },
     {
+      "booked_by": "Felix Weber",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-17",
+      "id": 106,
+      "notes": "",
+      "project": "",
+      "resource_id": 19,
+      "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-16",
+      "user_id": null,
+      "user_name": null
+    },
+    {
       "booked_by": "Dieter Wolf",
       "deleted": 0,
       "deleted_at": null,
@@ -1477,7 +1495,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-07-15T15:36:00",
+  "exported_at": "2026-07-16T08:21:25",
   "groups": [
     {
       "deleted": 0,
@@ -2145,8 +2163,8 @@
           "resource_id": 24,
           "resource_name": "HT VDE Installationstester Combi 521",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-16T08:12:00",
           "slot": "TAG",
           "start_date": "2026-07-10",
           "user_id": null,
@@ -2163,9 +2181,9 @@
       "name": "HT VDE Installationstester Combi 521",
       "notes": "4St Messstrippen, 1St Akku-Ladegerät, 1St Schuko-Adapter 230V ",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Fabian Ziegler-Kiefer",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -2505,6 +2523,24 @@
           "start_date": "2026-07-13",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Felix Weber",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-17",
+          "id": 106,
+          "notes": "",
+          "project": "",
+          "resource_id": 19,
+          "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-16",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -2517,9 +2553,9 @@
       "name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
       "notes": "2St Messadapter, 2St Netzgeräte, 2St LAN-Kabel",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-17 · bei Felix Weber",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -4615,7 +4651,7 @@
       "type": "Fahrzeug"
     }
   ],
-  "today": "2026-07-15",
+  "today": "2026-07-16",
   "users": [
     {
       "active": 1,
