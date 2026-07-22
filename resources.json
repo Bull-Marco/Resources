@@ -335,8 +335,8 @@
       "resource_id": 73,
       "resource_name": "Würth Fallschutz Set 0899032103_05",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-20T13:59:05",
       "slot": "TAG",
       "start_date": "2026-06-19",
       "user_id": null,
@@ -353,8 +353,8 @@
       "resource_id": 74,
       "resource_name": "Würth Fallschutz Set 0899032103_06",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-20T13:59:09",
       "slot": "TAG",
       "start_date": "2026-06-19",
       "user_id": null,
@@ -371,8 +371,8 @@
       "resource_id": 75,
       "resource_name": "Würth Fallschutz Set 0899032103_07",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-20T14:03:00",
       "slot": "TAG",
       "start_date": "2026-06-19",
       "user_id": null,
@@ -767,8 +767,8 @@
       "resource_id": 72,
       "resource_name": "Würth Fallschutz Set 0899032103_04",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-20T14:03:07",
       "slot": "TAG",
       "start_date": "2026-06-24",
       "user_id": null,
@@ -1469,8 +1469,8 @@
       "resource_id": 90,
       "resource_name": "VW Crafter",
       "resource_type": "Fahrzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-22T09:10:05",
       "slot": "TAG",
       "start_date": "2026-07-17",
       "user_id": null,
@@ -1531,6 +1531,96 @@
       "user_name": null
     },
     {
+      "booked_by": "Thomas Lauerer",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-23",
+      "id": 113,
+      "notes": "",
+      "project": "",
+      "resource_id": 90,
+      "resource_name": "VW Crafter",
+      "resource_type": "Fahrzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-20",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Gero Lind",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-21",
+      "id": 110,
+      "notes": "",
+      "project": "",
+      "resource_id": 72,
+      "resource_name": "Würth Fallschutz Set 0899032103_04",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-20",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Fernando Becker",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-31",
+      "id": 111,
+      "notes": "",
+      "project": "Wipotec Worms",
+      "resource_id": 95,
+      "resource_name": "Hilti Staubsauger VC20M-X",
+      "resource_type": "Werkzeug",
+      "returned": 1,
+      "returned_at": "2026-07-21T11:30:19",
+      "slot": "TAG",
+      "start_date": "2026-07-21",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-07",
+      "id": 112,
+      "notes": "",
+      "project": "",
+      "resource_id": 96,
+      "resource_name": "Iwilcs Kegelsenker Bohrer Set 6tlg. 6,3-20,5mm/90°",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-22",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Fabian Ziegler-Kiefer",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-24",
+      "id": 114,
+      "notes": "",
+      "project": "",
+      "resource_id": 90,
+      "resource_name": "VW Crafter",
+      "resource_type": "Fahrzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-24",
+      "user_id": null,
+      "user_name": null
+    },
+    {
       "booked_by": "Pascal Rivera",
       "deleted": 0,
       "deleted_at": null,
@@ -1549,7 +1639,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-07-20T09:39:05",
+  "exported_at": "2026-07-22T09:11:18",
   "groups": [
     {
       "deleted": 0,
@@ -3167,9 +3257,9 @@
       "name": "Bosch Akku Set mit Ladegerät 0615V0005X",
       "notes": "im Karton mit Zubehör: 3St Akku EXBA18V-40 (621268908+621268899+621268901); 1St Ladegerät GAL12 (2607226773)",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Fabian Ziegler-Kiefer",
-        "label": "Rückgabe heute"
+        "code": "overdue",
+        "detail": "Überfällig seit 2026-07-20 · bei Fabian Ziegler-Kiefer",
+        "label": "Überfällig"
       },
       "type": "Werkzeug"
     },
@@ -3742,7 +3832,7 @@
       "type": "Werkzeug"
     },
     {
-      "archived": 0,
+      "archived": 1,
       "bookings": [
         {
           "booked_by": "Jonathan Zöllner",
@@ -3857,6 +3947,44 @@
       "archived": 0,
       "bookings": [
         {
+          "booked_by": "Fernando Becker",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-31",
+          "id": 111,
+          "notes": "",
+          "project": "Wipotec Worms",
+          "resource_id": 95,
+          "resource_name": "Hilti Staubsauger VC20M-X",
+          "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-07-21T11:30:19",
+          "slot": "TAG",
+          "start_date": "2026-07-21",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 95,
+      "inventory_no": "Serien-Nr.101024678",
+      "location": "Homburg",
+      "name": "Hilti Staubsauger VC20M-X",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [
+        {
           "booked_by": "Tobias Knopf",
           "deleted": 0,
           "deleted_at": null,
@@ -3892,7 +4020,7 @@
       "type": "Werkzeug"
     },
     {
-      "archived": 0,
+      "archived": 1,
       "bookings": [
         {
           "booked_by": "Felix Weber",
@@ -3964,6 +4092,44 @@
         "code": "available",
         "detail": "Verfügbar",
         "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-07",
+          "id": 112,
+          "notes": "",
+          "project": "",
+          "resource_id": 96,
+          "resource_name": "Iwilcs Kegelsenker Bohrer Set 6tlg. 6,3-20,5mm/90°",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-22",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 96,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Iwilcs Kegelsenker Bohrer Set 6tlg. 6,3-20,5mm/90°",
+      "notes": "in Metallbox",
+      "status": {
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-07 · bei Philipp Kappler",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -4296,6 +4462,25 @@
       "deleted_at": null,
       "group_id": 7,
       "group_name": "Sicherheitszubehör",
+      "id": 94,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Pylone orange_Set 5Stück",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 7,
+      "group_name": "Sicherheitszubehör",
       "id": 93,
       "inventory_no": "",
       "location": "Homburg",
@@ -4472,8 +4657,8 @@
           "resource_id": 72,
           "resource_name": "Würth Fallschutz Set 0899032103_04",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-20T14:03:07",
           "slot": "TAG",
           "start_date": "2026-06-24",
           "user_id": null,
@@ -4494,6 +4679,24 @@
           "returned_at": null,
           "slot": "TAG",
           "start_date": "2026-07-03",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Gero Lind",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-21",
+          "id": 110,
+          "notes": "",
+          "project": "",
+          "resource_id": 72,
+          "resource_name": "Würth Fallschutz Set 0899032103_04",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-20",
           "user_id": null,
           "user_name": null
         }
@@ -4528,8 +4731,8 @@
           "resource_id": 73,
           "resource_name": "Würth Fallschutz Set 0899032103_05",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-20T13:59:05",
           "slot": "TAG",
           "start_date": "2026-06-19",
           "user_id": null,
@@ -4546,9 +4749,9 @@
       "name": "Würth Fallschutz Set 0899032103_05",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-31 · bei Quentin Staub",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -4566,8 +4769,8 @@
           "resource_id": 74,
           "resource_name": "Würth Fallschutz Set 0899032103_06",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-20T13:59:09",
           "slot": "TAG",
           "start_date": "2026-06-19",
           "user_id": null,
@@ -4584,9 +4787,9 @@
       "name": "Würth Fallschutz Set 0899032103_06",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-31 · bei Quentin Staub",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -4604,8 +4807,8 @@
           "resource_id": 75,
           "resource_name": "Würth Fallschutz Set 0899032103_07",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-20T14:03:00",
           "slot": "TAG",
           "start_date": "2026-06-19",
           "user_id": null,
@@ -4622,9 +4825,9 @@
       "name": "Würth Fallschutz Set 0899032103_07",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-31 · bei Quentin Staub",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -4717,10 +4920,46 @@
           "resource_id": 90,
           "resource_name": "VW Crafter",
           "resource_type": "Fahrzeug",
+          "returned": 1,
+          "returned_at": "2026-07-22T09:10:05",
+          "slot": "TAG",
+          "start_date": "2026-07-17",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Thomas Lauerer",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-23",
+          "id": 113,
+          "notes": "",
+          "project": "",
+          "resource_id": 90,
+          "resource_name": "VW Crafter",
+          "resource_type": "Fahrzeug",
           "returned": 0,
           "returned_at": null,
           "slot": "TAG",
-          "start_date": "2026-07-17",
+          "start_date": "2026-07-20",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Fabian Ziegler-Kiefer",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-24",
+          "id": 114,
+          "notes": "",
+          "project": "",
+          "resource_id": 90,
+          "resource_name": "VW Crafter",
+          "resource_type": "Fahrzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-24",
           "user_id": null,
           "user_name": null
         },
@@ -4753,14 +4992,14 @@
       "name": "VW Crafter",
       "notes": "",
       "status": {
-        "code": "overdue",
-        "detail": "Überfällig seit 2026-07-17 · bei Felix Weber",
-        "label": "Überfällig"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-07-23 · bei Thomas Lauerer",
+        "label": "Unterwegs"
       },
       "type": "Fahrzeug"
     }
   ],
-  "today": "2026-07-20",
+  "today": "2026-07-22",
   "users": [
     {
       "active": 1,
