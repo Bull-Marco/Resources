@@ -1217,8 +1217,8 @@
       "resource_id": 91,
       "resource_name": "8 Sitzer",
       "resource_type": "Fahrzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-22T09:39:08",
       "slot": "TAG",
       "start_date": "2026-07-09",
       "user_id": null,
@@ -1552,7 +1552,7 @@
       "booked_by": "Gero Lind",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-07-21",
+      "end_date": "2026-07-22",
       "id": 110,
       "notes": "",
       "project": "",
@@ -1639,7 +1639,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-07-22T09:11:18",
+  "exported_at": "2026-07-22T13:26:30",
   "groups": [
     {
       "deleted": 0,
@@ -4460,6 +4460,44 @@
       "bookings": [],
       "deleted": 0,
       "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 97,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Würth Trapezblechzange 01",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 98,
+      "inventory_no": "096705",
+      "location": "Homburg",
+      "name": "Würth mechanische Handpresszange 6KT/6-50²  096705",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
       "group_id": 7,
       "group_name": "Sicherheitszubehör",
       "id": 94,
@@ -4686,7 +4724,7 @@
           "booked_by": "Gero Lind",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-07-21",
+          "end_date": "2026-07-22",
           "id": 110,
           "notes": "",
           "project": "",
@@ -4845,8 +4883,8 @@
           "resource_id": 91,
           "resource_name": "8 Sitzer",
           "resource_type": "Fahrzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-22T09:39:08",
           "slot": "TAG",
           "start_date": "2026-07-09",
           "user_id": null,
@@ -4881,9 +4919,9 @@
       "name": "8 Sitzer",
       "notes": "",
       "status": {
-        "code": "overdue",
-        "detail": "Überfällig seit 2026-07-17 · bei Emanuel Klotz",
-        "label": "Überfällig"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-07 · bei Dieter Wolf",
+        "label": "Unterwegs"
       },
       "type": "Fahrzeug"
     },
