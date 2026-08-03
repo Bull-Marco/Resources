@@ -461,8 +461,8 @@
       "resource_id": 46,
       "resource_name": "Hilti Akku-Schussapparat BX3-ME-22",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-31T08:56:25",
       "slot": "TAG",
       "start_date": "2026-06-22",
       "user_id": null,
@@ -742,7 +742,7 @@
       "booked_by": "Danny Spang",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-07-24",
+      "end_date": "2026-08-14",
       "id": 57,
       "notes": "",
       "project": "WiWo",
@@ -1048,7 +1048,7 @@
       "booked_by": "Sascha Felten",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-07-31",
+      "end_date": "2026-08-07",
       "id": 75,
       "notes": "",
       "project": "",
@@ -1066,7 +1066,7 @@
       "booked_by": "Sascha Feltes",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-07-31",
+      "end_date": "2026-08-07",
       "id": 76,
       "notes": "",
       "project": "",
@@ -1397,8 +1397,8 @@
       "resource_id": 32,
       "resource_name": "Würth Fallschutz Set 0899032103_01",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-31T07:54:06",
       "slot": "TAG",
       "start_date": "2026-07-15",
       "user_id": null,
@@ -1415,8 +1415,8 @@
       "resource_id": 34,
       "resource_name": "Würth Fallschutz Set 0899032103_02",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-31T07:54:08",
       "slot": "TAG",
       "start_date": "2026-07-15",
       "user_id": null,
@@ -1433,8 +1433,8 @@
       "resource_id": 71,
       "resource_name": "Würth Fallschutz Set 0899032103_03",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-07-31T07:54:09",
       "slot": "TAG",
       "start_date": "2026-07-15",
       "user_id": null,
@@ -1480,7 +1480,7 @@
       "booked_by": "Fabian Ziegler-Kiefer",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-07-20",
+      "end_date": "2026-08-07",
       "id": 109,
       "notes": "",
       "project": "",
@@ -1631,10 +1631,334 @@
       "resource_id": 90,
       "resource_name": "VW Crafter",
       "resource_type": "Fahrzeug",
+      "returned": 1,
+      "returned_at": "2026-07-29T13:22:03",
+      "slot": "TAG",
+      "start_date": "2026-07-24",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Dimitrios",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-05",
+      "id": 119,
+      "notes": "",
+      "project": "KSK",
+      "resource_id": 95,
+      "resource_name": "Hilti Staubsauger VC20M-X",
+      "resource_type": "Werkzeug",
+      "returned": 1,
+      "returned_at": "2026-07-31T15:20:00",
+      "slot": "TAG",
+      "start_date": "2026-07-27",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Fabian Ziegler-Kiefer",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-05",
+      "id": 121,
+      "notes": "",
+      "project": "",
+      "resource_id": 107,
+      "resource_name": "Audi A5",
+      "resource_type": "Fahrzeug",
       "returned": 0,
       "returned_at": null,
       "slot": "TAG",
-      "start_date": "2026-07-24",
+      "start_date": "2026-07-29",
+      "user_id": 7,
+      "user_name": "Fabian Ziegler-Kiefer"
+    },
+    {
+      "booked_by": "Dimitrios",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-31",
+      "id": 116,
+      "notes": "",
+      "project": "KSK",
+      "resource_id": 16,
+      "resource_name": "Benning VDE Installationstester IT115",
+      "resource_type": "Werkzeug",
+      "returned": 1,
+      "returned_at": "2026-07-31T15:18:12",
+      "slot": "TAG",
+      "start_date": "2026-07-29",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Dimitrios",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-31",
+      "id": 118,
+      "notes": "",
+      "project": "KSK",
+      "resource_id": 103,
+      "resource_name": "Runpotec Kabelabroller XB500_03",
+      "resource_type": "Werkzeug",
+      "returned": 1,
+      "returned_at": "2026-07-31T15:19:49",
+      "slot": "TAG",
+      "start_date": "2026-07-29",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-03",
+      "id": 128,
+      "notes": "",
+      "project": "",
+      "resource_id": 57,
+      "resource_name": "Bosch Bohrhammer GBH5-40D",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-31",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Emil Vollmar",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-07",
+      "id": 132,
+      "notes": "",
+      "project": "",
+      "resource_id": 50,
+      "resource_name": "Hilti Bohrständer Befestigungssatz Koffer-DD-Set-01",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-31",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Emil Vollmar",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-07",
+      "id": 129,
+      "notes": "",
+      "project": "Joneck & Fischer",
+      "resource_id": 51,
+      "resource_name": "Hilti Bohrständer Befestigungssatz Koffer-DD-Set-02",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-31",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Emil Vollmar",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-07",
+      "id": 131,
+      "notes": "",
+      "project": "",
+      "resource_id": 53,
+      "resource_name": "Hilti Wasserpumpe zum Kernbohrgerät DD150-U",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-31",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Emil Vollmer",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-07",
+      "id": 130,
+      "notes": "",
+      "project": "",
+      "resource_id": 52,
+      "resource_name": "Hilti ständergeführtes Kernbohrgerät DD150-U",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-31",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-07",
+      "id": 127,
+      "notes": "",
+      "project": "",
+      "resource_id": 29,
+      "resource_name": "Phoenix Thermomark Go-Set 1221548-01",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-07-31",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Dimitrios",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-07-31",
+      "id": 117,
+      "notes": "",
+      "project": "Gillen",
+      "resource_id": 19,
+      "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
+      "resource_type": "Werkzeug",
+      "returned": 1,
+      "returned_at": "2026-07-31T15:19:25",
+      "slot": "TAG",
+      "start_date": "2026-07-31",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-03",
+      "id": 126,
+      "notes": "",
+      "project": "",
+      "resource_id": 16,
+      "resource_name": "Benning VDE Installationstester IT115",
+      "resource_type": "Werkzeug",
+      "returned": 1,
+      "returned_at": "2026-08-03T08:13:02",
+      "slot": "TAG",
+      "start_date": "2026-08-03",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-03",
+      "id": 125,
+      "notes": "",
+      "project": "",
+      "resource_id": 24,
+      "resource_name": "HT VDE Installationstester Combi 521",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-03",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Ali Alwiso",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-03",
+      "id": 133,
+      "notes": "",
+      "project": "",
+      "resource_id": 92,
+      "resource_name": "ID Buzz",
+      "resource_type": "Fahrzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-03",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Emanuel Klotz",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-05",
+      "id": 120,
+      "notes": "",
+      "project": "Wipotec KL",
+      "resource_id": 19,
+      "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-03",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Jonathan Zöllner",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-04",
+      "id": 136,
+      "notes": "",
+      "project": "",
+      "resource_id": 98,
+      "resource_name": "Würth mechanische Handpresszange 6KT/6-50²  096705",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-03",
+      "user_id": 6,
+      "user_name": "Jonathan Zöllner"
+    },
+    {
+      "booked_by": "Maurice Staub",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-04",
+      "id": 135,
+      "notes": "",
+      "project": "",
+      "resource_id": 16,
+      "resource_name": "Benning VDE Installationstester IT115",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-04",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Gero Lind",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-06",
+      "id": 123,
+      "notes": "",
+      "project": "",
+      "resource_id": 82,
+      "resource_name": "Vevor Einziehband / Fiberglaskabel-Rad 150M D:7,9mm",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-04",
       "user_id": null,
       "user_name": null
     },
@@ -1655,15 +1979,40 @@
       "start_date": "2026-08-14",
       "user_id": null,
       "user_name": null
+    },
+    {
+      "booked_by": "Nico Wegner",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-19",
+      "id": 134,
+      "notes": "",
+      "project": "",
+      "resource_id": 90,
+      "resource_name": "VW Crafter",
+      "resource_type": "Fahrzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-19",
+      "user_id": null,
+      "user_name": null
     }
   ],
-  "exported_at": "2026-07-27T08:11:24",
+  "exported_at": "2026-08-03T15:34:05",
   "groups": [
     {
       "deleted": 0,
       "deleted_at": null,
       "id": 5,
       "name": "Beschriftungsgeräte",
+      "type": "Werkzeuggruppe"
+    },
+    {
+      "deleted": 0,
+      "deleted_at": null,
+      "id": 9,
+      "name": "Heizgeräte",
       "type": "Werkzeuggruppe"
     },
     {
@@ -1771,6 +2120,24 @@
           "start_date": "2026-07-07",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-07",
+          "id": 127,
+          "notes": "",
+          "project": "",
+          "resource_id": 29,
+          "resource_name": "Phoenix Thermomark Go-Set 1221548-01",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-31",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -1783,9 +2150,9 @@
       "name": "Phoenix Thermomark Go-Set 1221548-01",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-07 · bei Philipp Kappler",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -1855,6 +2222,25 @@
       "inventory_no": "Serien-Nummer 2116002096",
       "location": "Homburg",
       "name": "Phoenix Thermomark Go-Set 1221548-02",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 9,
+      "group_name": "Heizgeräte",
+      "id": 112,
+      "inventory_no": "1420Z2786",
+      "location": "Homburg",
+      "name": "Remko Heizlüfter HitLine EM2000  2,0kW/230V",
       "notes": "",
       "status": {
         "code": "available",
@@ -1960,7 +2346,26 @@
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Dimitrios",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-31",
+          "id": 118,
+          "notes": "",
+          "project": "KSK",
+          "resource_id": 103,
+          "resource_name": "Runpotec Kabelabroller XB500_03",
+          "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-07-31T15:19:49",
+          "slot": "TAG",
+          "start_date": "2026-07-29",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 6,
@@ -2009,9 +2414,9 @@
       "name": "Runpotec Kabelabroller-Set XB300",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-31 · bei Edwin Tevs",
-        "label": "Unterwegs"
+        "code": "overdue",
+        "detail": "Überfällig seit 2026-07-31 · bei Edwin Tevs",
+        "label": "Überfällig"
       },
       "type": "Werkzeug"
     },
@@ -2022,7 +2427,7 @@
           "booked_by": "Danny Spang",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-07-24",
+          "end_date": "2026-08-14",
           "id": 57,
           "notes": "",
           "project": "WiWo",
@@ -2047,9 +2452,9 @@
       "name": "Vevor Einziehband / Fiberglaskabel-Rad 150M D:7,9mm",
       "notes": "",
       "status": {
-        "code": "overdue",
-        "detail": "Überfällig seit 2026-07-24 · bei Danny Spang",
-        "label": "Überfällig"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-14 · bei Danny Spang",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -2071,6 +2476,24 @@
           "returned_at": "2026-07-08T15:49:58",
           "slot": "TAG",
           "start_date": "2026-07-08",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Gero Lind",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-06",
+          "id": 123,
+          "notes": "",
+          "project": "",
+          "resource_id": 82,
+          "resource_name": "Vevor Einziehband / Fiberglaskabel-Rad 150M D:7,9mm",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-04",
           "user_id": null,
           "user_name": null
         }
@@ -2276,6 +2699,60 @@
           "start_date": "2026-07-24",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Dimitrios",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-31",
+          "id": 116,
+          "notes": "",
+          "project": "KSK",
+          "resource_id": 16,
+          "resource_name": "Benning VDE Installationstester IT115",
+          "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-07-31T15:18:12",
+          "slot": "TAG",
+          "start_date": "2026-07-29",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-03",
+          "id": 126,
+          "notes": "",
+          "project": "",
+          "resource_id": 16,
+          "resource_name": "Benning VDE Installationstester IT115",
+          "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-08-03T08:13:02",
+          "slot": "TAG",
+          "start_date": "2026-08-03",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Maurice Staub",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-04",
+          "id": 135,
+          "notes": "",
+          "project": "",
+          "resource_id": 16,
+          "resource_name": "Benning VDE Installationstester IT115",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-04",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -2463,6 +2940,24 @@
           "start_date": "2026-07-10",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-03",
+          "id": 125,
+          "notes": "",
+          "project": "",
+          "resource_id": 24,
+          "resource_name": "HT VDE Installationstester Combi 521",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-03",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -2475,9 +2970,9 @@
       "name": "HT VDE Installationstester Combi 521",
       "notes": "4St Messstrippen, 1St Akku-Ladegerät, 1St Schuko-Adapter 230V ",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Philipp Kappler",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -2835,6 +3330,42 @@
           "start_date": "2026-07-16",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Dimitrios",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-07-31",
+          "id": 117,
+          "notes": "",
+          "project": "Gillen",
+          "resource_id": 19,
+          "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
+          "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-07-31T15:19:25",
+          "slot": "TAG",
+          "start_date": "2026-07-31",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Emanuel Klotz",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-05",
+          "id": 120,
+          "notes": "",
+          "project": "Wipotec KL",
+          "resource_id": 19,
+          "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-03",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -2847,9 +3378,9 @@
       "name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
       "notes": "2St Messadapter, 2St Netzgeräte, 2St LAN-Kabel",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-05 · bei Emanuel Klotz",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -3138,7 +3669,7 @@
           "booked_by": "Sascha Felten",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-07-31",
+          "end_date": "2026-08-07",
           "id": 75,
           "notes": "",
           "project": "",
@@ -3164,7 +3695,7 @@
       "notes": "im Koffer ohne Akku",
       "status": {
         "code": "out",
-        "detail": "Unterwegs bis 2026-07-31 · bei Sascha Felten",
+        "detail": "Unterwegs bis 2026-08-07 · bei Sascha Felten",
         "label": "Unterwegs"
       },
       "type": "Werkzeug"
@@ -3363,7 +3894,7 @@
           "booked_by": "Fabian Ziegler-Kiefer",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-07-20",
+          "end_date": "2026-08-07",
           "id": 109,
           "notes": "",
           "project": "",
@@ -3388,9 +3919,9 @@
       "name": "Bosch Akku Set mit Ladegerät 0615V0005X",
       "notes": "im Karton mit Zubehör: 3St Akku EXBA18V-40 (621268908+621268899+621268901); 1St Ladegerät GAL12 (2607226773)",
       "status": {
-        "code": "overdue",
-        "detail": "Überfällig seit 2026-07-20 · bei Fabian Ziegler-Kiefer",
-        "label": "Überfällig"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-07 · bei Fabian Ziegler-Kiefer",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -3401,7 +3932,7 @@
           "booked_by": "Sascha Feltes",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-07-31",
+          "end_date": "2026-08-07",
           "id": 76,
           "notes": "",
           "project": "",
@@ -3427,7 +3958,7 @@
       "notes": "im Koffer mit Zubehör: 1St.Ladegerät  2607226811 (Serien-Nr.526260734) 3St Akku 1607A35INU (Serien-Nr. 523217050+523216953+523216952)",
       "status": {
         "code": "out",
-        "detail": "Unterwegs bis 2026-07-31 · bei Sascha Feltes",
+        "detail": "Unterwegs bis 2026-08-07 · bei Sascha Feltes",
         "label": "Unterwegs"
       },
       "type": "Werkzeug"
@@ -3470,6 +4001,24 @@
           "start_date": "2026-07-10",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-03",
+          "id": 128,
+          "notes": "",
+          "project": "",
+          "resource_id": 57,
+          "resource_name": "Bosch Bohrhammer GBH5-40D",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-31",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -3482,9 +4031,9 @@
       "name": "Bosch Bohrhammer GBH5-40D",
       "notes": "im Koffer ",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Philipp Kappler",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -3742,6 +4291,44 @@
       "deleted_at": null,
       "group_id": 8,
       "group_name": "Pool-Werkzeug",
+      "id": 110,
+      "inventory_no": "Inv#15030/Serien#520560",
+      "location": "Homburg",
+      "name": "Hilti Akku-Bohrhammer TE6-A-22",
+      "notes": "im Koffer ohne Akku",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 111,
+      "inventory_no": "Inv#15040/Serien#2251351",
+      "location": "Homburg",
+      "name": "Hilti Akku-Bohrschrauber Set 15040",
+      "notes": "im Koffer mit Zubehör: 1St. Bohrschrauber SF4-22Kof (Serien#220760085), 1St. Ladegerät C6-22 230V(Serien#213100502), 1St. Akku-Datenmodul IC CDM-22 (Serien#257225083), 2St. Akku B22-85 Li-ion (Serien#219110071+219110089)",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
       "id": 43,
       "inventory_no": "Serien-Nr.088171",
       "location": "Homburg",
@@ -3768,8 +4355,8 @@
           "resource_id": 46,
           "resource_name": "Hilti Akku-Schussapparat BX3-ME-22",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-31T08:56:25",
           "slot": "TAG",
           "start_date": "2026-06-22",
           "user_id": null,
@@ -3786,15 +4373,34 @@
       "name": "Hilti Akku-Schussapparat BX3-ME-22",
       "notes": "im Koffer mit Zubehör: 1St Akku, ohne Ladegerät",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-08-07 · bei Emil Vollmar",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Emil Vollmar",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-07",
+          "id": 132,
+          "notes": "",
+          "project": "",
+          "resource_id": 50,
+          "resource_name": "Hilti Bohrständer Befestigungssatz Koffer-DD-Set-01",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-31",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 8,
@@ -3805,9 +4411,9 @@
       "name": "Hilti Bohrständer Befestigungssatz Koffer-DD-Set-01",
       "notes": "gemäß Bild im Koffer",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-07 · bei Emil Vollmar",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -3831,6 +4437,24 @@
           "start_date": "2026-06-26",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Emil Vollmar",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-07",
+          "id": 129,
+          "notes": "",
+          "project": "Joneck & Fischer",
+          "resource_id": 51,
+          "resource_name": "Hilti Bohrständer Befestigungssatz Koffer-DD-Set-02",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-31",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -3843,9 +4467,9 @@
       "name": "Hilti Bohrständer Befestigungssatz Koffer-DD-Set-02",
       "notes": "gemäß Bild im Koffer",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-07 · bei Emil Vollmar",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -3898,6 +4522,25 @@
       "location": "Homburg",
       "name": "Hilti Dornpresse NCR60 D22",
       "notes": "im Koffer",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 108,
+      "inventory_no": "",
+      "location": "Pirmasens",
+      "name": "Hilti Geräte Set 2530 im Koffer",
+      "notes": "1St. Akku-Winkelschleifer AG 4S-22-125 (Serien#39682), 1St. Akku-Bohrhammer TE6-22Sch (Serien#195458), 1St. Staubabsaugung TE DRS-4/6Sch (Serien#2331002264), 1St. Akku-Arbeitsleuchte SL2-22Sch (Serien#62644), 1St. Akku-Bohrschrauber SF4-22Sch (Serien#232450601), 1St. Ladegerät C6-22 230VSch (Serien#2317001453), 1St. Akku-Datenmodul IC CDM-22 (Serien#314235094), 3St.  Akku B22-85Li-ion (Serien#228460788+228460791+228460779), 1St.Akku B22-170 Li-ion (Serien#332613972)",
       "status": {
         "code": "available",
         "detail": "Verfügbar",
@@ -4094,6 +4737,24 @@
           "start_date": "2026-07-21",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Dimitrios",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-05",
+          "id": 119,
+          "notes": "",
+          "project": "KSK",
+          "resource_id": 95,
+          "resource_name": "Hilti Staubsauger VC20M-X",
+          "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-07-31T15:20:00",
+          "slot": "TAG",
+          "start_date": "2026-07-27",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -4132,6 +4793,24 @@
           "start_date": "2026-06-25",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Emil Vollmar",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-07",
+          "id": 131,
+          "notes": "",
+          "project": "",
+          "resource_id": 53,
+          "resource_name": "Hilti Wasserpumpe zum Kernbohrgerät DD150-U",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-31",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -4144,9 +4823,9 @@
       "name": "Hilti Wasserpumpe zum Kernbohrgerät DD150-U",
       "notes": "Pumpe inkl. 4Mtr Wasserschlauch",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-07 · bei Emil Vollmar",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -4208,6 +4887,24 @@
           "start_date": "2026-06-26",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Emil Vollmer",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-07",
+          "id": 130,
+          "notes": "",
+          "project": "",
+          "resource_id": 52,
+          "resource_name": "Hilti ständergeführtes Kernbohrgerät DD150-U",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-31",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -4220,9 +4917,9 @@
       "name": "Hilti ständergeführtes Kernbohrgerät DD150-U",
       "notes": "im Koffer mit Zubehör: 1St Bohrkronen-Verlängerung",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-07 · bei Emil Vollmer",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -4631,10 +5328,10 @@
       "deleted_at": null,
       "group_id": 8,
       "group_name": "Pool-Werkzeug",
-      "id": 97,
-      "inventory_no": "",
+      "id": 109,
+      "inventory_no": "0891003",
       "location": "Homburg",
-      "name": "Würth Trapezblechzange 01",
+      "name": "Würth Auspresspistole H297WIN",
       "notes": "",
       "status": {
         "code": "available",
@@ -4650,15 +5347,53 @@
       "deleted_at": null,
       "group_id": 8,
       "group_name": "Pool-Werkzeug",
+      "id": 97,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Würth Trapezblechzange 01",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [
+        {
+          "booked_by": "Jonathan Zöllner",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-04",
+          "id": 136,
+          "notes": "",
+          "project": "",
+          "resource_id": 98,
+          "resource_name": "Würth mechanische Handpresszange 6KT/6-50²  096705",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-03",
+          "user_id": 6,
+          "user_name": "Jonathan Zöllner"
+        }
+      ],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
       "id": 98,
       "inventory_no": "096705",
       "location": "Homburg",
       "name": "Würth mechanische Handpresszange 6KT/6-50²  096705",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-04 · bei Jonathan Zöllner",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -4751,8 +5486,8 @@
           "resource_id": 32,
           "resource_name": "Würth Fallschutz Set 0899032103_01",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-31T07:54:06",
           "slot": "TAG",
           "start_date": "2026-07-15",
           "user_id": null,
@@ -4769,9 +5504,9 @@
       "name": "Würth Fallschutz Set 0899032103_01",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-31 · bei Jonathan Zöllner",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -4807,8 +5542,8 @@
           "resource_id": 34,
           "resource_name": "Würth Fallschutz Set 0899032103_02",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-31T07:54:08",
           "slot": "TAG",
           "start_date": "2026-07-15",
           "user_id": null,
@@ -4825,9 +5560,9 @@
       "name": "Würth Fallschutz Set 0899032103_02",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-31 · bei Jonathan Zöllner",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -4845,8 +5580,8 @@
           "resource_id": 71,
           "resource_name": "Würth Fallschutz Set 0899032103_03",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-31T07:54:09",
           "slot": "TAG",
           "start_date": "2026-07-15",
           "user_id": null,
@@ -4863,9 +5598,9 @@
       "name": "Würth Fallschutz Set 0899032103_03",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-07-31 · bei Jonathan Zöllner",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -5115,7 +5850,26 @@
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Fabian Ziegler-Kiefer",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-05",
+          "id": 121,
+          "notes": "",
+          "project": "",
+          "resource_id": 107,
+          "resource_name": "Audi A5",
+          "resource_type": "Fahrzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-07-29",
+          "user_id": 7,
+          "user_name": "Fabian Ziegler-Kiefer"
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": null,
@@ -5126,15 +5880,34 @@
       "name": "Audi A5",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-05 · bei Fabian Ziegler-Kiefer",
+        "label": "Unterwegs"
       },
       "type": "Fahrzeug"
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Ali Alwiso",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-03",
+          "id": 133,
+          "notes": "",
+          "project": "",
+          "resource_id": 92,
+          "resource_name": "ID Buzz",
+          "resource_type": "Fahrzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-03",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": null,
@@ -5145,9 +5918,9 @@
       "name": "ID Buzz",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Ali Alwiso",
+        "label": "Rückgabe heute"
       },
       "type": "Fahrzeug"
     },
@@ -5201,8 +5974,8 @@
           "resource_id": 90,
           "resource_name": "VW Crafter",
           "resource_type": "Fahrzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-07-29T13:22:03",
           "slot": "TAG",
           "start_date": "2026-07-24",
           "user_id": null,
@@ -5225,6 +5998,24 @@
           "start_date": "2026-08-14",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Nico Wegner",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-19",
+          "id": 134,
+          "notes": "",
+          "project": "",
+          "resource_id": 90,
+          "resource_name": "VW Crafter",
+          "resource_type": "Fahrzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-19",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -5237,14 +6028,14 @@
       "name": "VW Crafter",
       "notes": "",
       "status": {
-        "code": "overdue",
-        "detail": "Überfällig seit 2026-07-26 · bei Fabian Ziegler-Kiefer",
-        "label": "Überfällig"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Fahrzeug"
     }
   ],
-  "today": "2026-07-27",
+  "today": "2026-08-03",
   "users": [
     {
       "active": 1,
