@@ -1984,7 +1984,7 @@
       "booked_by": "Jörg Schneider - zum auslesen",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-08-12",
+      "end_date": "2026-08-14",
       "id": 139,
       "notes": "",
       "project": "",
@@ -2119,24 +2119,6 @@
       "resource_type": "Werkzeug",
       "returned": 1,
       "returned_at": "2026-08-12T07:04:49",
-      "slot": "TAG",
-      "start_date": "2026-08-11",
-      "user_id": null,
-      "user_name": null
-    },
-    {
-      "booked_by": "Quentin Richert",
-      "deleted": 0,
-      "deleted_at": null,
-      "end_date": "2026-08-12",
-      "id": 149,
-      "notes": "",
-      "project": "",
-      "resource_id": 57,
-      "resource_name": "Bosch Bohrhammer GBH5-40D",
-      "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
       "slot": "TAG",
       "start_date": "2026-08-11",
       "user_id": null,
@@ -2279,18 +2261,54 @@
       "resource_id": 22,
       "resource_name": "Würth Leitungssucher LS27",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-08-13T08:21:46",
       "slot": "TAG",
       "start_date": "2026-08-11",
       "user_id": 6,
       "user_name": "Jonathan Zöllner"
     },
     {
+      "booked_by": "Dieter Wolf",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-12-31",
+      "id": 168,
+      "notes": "",
+      "project": "Karlsberg",
+      "resource_id": 119,
+      "resource_name": "ALFRA Hand-Hydraulikstanzen-Set  Knack#01",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-12",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-12",
+      "id": 167,
+      "notes": "",
+      "project": "",
+      "resource_id": 16,
+      "resource_name": "Benning VDE Installationstester IT115",
+      "resource_type": "Werkzeug",
+      "returned": 1,
+      "returned_at": "2026-08-12T11:22:16",
+      "slot": "TAG",
+      "start_date": "2026-08-12",
+      "user_id": null,
+      "user_name": null
+    },
+    {
       "booked_by": "Mirko Niklaus",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-08-13",
+      "end_date": "2026-08-17",
       "id": 152,
       "notes": "",
       "project": "",
@@ -2308,7 +2326,7 @@
       "booked_by": "Gero Lind",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-08-12",
+      "end_date": "2026-08-21",
       "id": 162,
       "notes": "",
       "project": "",
@@ -2333,8 +2351,8 @@
       "resource_id": 36,
       "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-08-13T08:17:33",
       "slot": "TAG",
       "start_date": "2026-08-12",
       "user_id": null,
@@ -2351,8 +2369,8 @@
       "resource_id": 93,
       "resource_name": "Siemens NH Aufsteckgriff mit Stulpe 3NX1014",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-08-13T08:20:24",
       "slot": "TAG",
       "start_date": "2026-08-12",
       "user_id": 6,
@@ -2387,8 +2405,8 @@
       "resource_id": 90,
       "resource_name": "VW Crafter",
       "resource_type": "Fahrzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-08-13T09:24:07",
       "slot": "TAG",
       "start_date": "2026-08-12",
       "user_id": null,
@@ -2398,7 +2416,7 @@
       "booked_by": "Mirko Niklaus",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-08-13",
+      "end_date": "2026-08-17",
       "id": 151,
       "notes": "",
       "project": "",
@@ -2413,20 +2431,74 @@
       "user_name": null
     },
     {
-      "booked_by": "Philipp Kappler",
+      "booked_by": "Thomas Lauerer",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-08-12",
-      "id": 161,
+      "end_date": "2026-08-13",
+      "id": 170,
       "notes": "",
       "project": "",
-      "resource_id": 17,
-      "resource_name": "Wiha Gerätetester PAT one 47222",
+      "resource_id": 16,
+      "resource_name": "Benning VDE Installationstester IT115",
       "resource_type": "Werkzeug",
       "returned": 0,
       "returned_at": null,
       "slot": "TAG",
-      "start_date": "2026-08-12",
+      "start_date": "2026-08-13",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-13",
+      "id": 172,
+      "notes": "",
+      "project": "",
+      "resource_id": 36,
+      "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-13",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-13",
+      "id": 169,
+      "notes": "",
+      "project": "",
+      "resource_id": 29,
+      "resource_name": "Phoenix Thermomark Go-Set 1221548-01",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-13",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Dimitrios",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-14",
+      "id": 176,
+      "notes": "",
+      "project": "",
+      "resource_id": 16,
+      "resource_name": "Benning VDE Installationstester IT115",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-14",
       "user_id": null,
       "user_name": null
     },
@@ -2440,6 +2512,42 @@
       "project": "",
       "resource_id": 61,
       "resource_name": "Bosch Schlitzfräse GNF35CA",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-14",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Emil Vollmar",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-19",
+      "id": 175,
+      "notes": "",
+      "project": "",
+      "resource_id": 14,
+      "resource_name": "Fluke Barcodelaser zu Fluke Gerätetester",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-14",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Emil Vollmer",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-19",
+      "id": 174,
+      "notes": "",
+      "project": "",
+      "resource_id": 11,
+      "resource_name": "Fluke Gerätetester 6500 Appliance Tester",
       "resource_type": "Werkzeug",
       "returned": 0,
       "returned_at": null,
@@ -2467,16 +2575,16 @@
       "user_name": null
     },
     {
-      "booked_by": "Pascal Rivera",
+      "booked_by": "Mirko Niklaus",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-08-16",
-      "id": 93,
+      "end_date": "2026-08-17",
+      "id": 173,
       "notes": "",
       "project": "",
-      "resource_id": 90,
-      "resource_name": "VW Crafter",
-      "resource_type": "Fahrzeug",
+      "resource_id": 36,
+      "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
+      "resource_type": "Werkzeug",
       "returned": 0,
       "returned_at": null,
       "slot": "TAG",
@@ -2539,8 +2647,15 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-08-12T08:00:56",
+  "exported_at": "2026-08-13T15:30:06",
   "groups": [
+    {
+      "deleted": 0,
+      "deleted_at": null,
+      "id": 10,
+      "name": "Auto Zubehör",
+      "type": "Werkzeuggruppe"
+    },
     {
       "deleted": 0,
       "deleted_at": null,
@@ -2586,6 +2701,101 @@
   ],
   "history": [],
   "resources": [
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 10,
+      "group_name": "Auto Zubehör",
+      "id": 114,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Schneider Reifenfüller RF-RMG-K  #D004014",
+      "notes": "im Karton",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 10,
+      "group_name": "Auto Zubehör",
+      "id": 115,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "VW Wagenheber PKW DL16-0440",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 10,
+      "group_name": "Auto Zubehör",
+      "id": 113,
+      "inventory_no": "07147122",
+      "location": "Homburg",
+      "name": "Würth Drehmomentschlüssel 1/2\" 07147122",
+      "notes": "EAN#79118116888",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 10,
+      "group_name": "Auto Zubehör",
+      "id": 116,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Würth Hydr.Wagenheber 2.5t 071554925",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 10,
+      "group_name": "Auto Zubehör",
+      "id": 117,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Würth Starter- / Überbrückungskabel",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
     {
       "archived": 0,
       "bookings": [
@@ -2732,6 +2942,24 @@
           "start_date": "2026-08-11",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-13",
+          "id": 169,
+          "notes": "",
+          "project": "",
+          "resource_id": 29,
+          "resource_name": "Phoenix Thermomark Go-Set 1221548-01",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-13",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -2744,9 +2972,9 @@
       "name": "Phoenix Thermomark Go-Set 1221548-01",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Philipp Kappler",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -3095,7 +3323,7 @@
           "booked_by": "Mirko Niklaus",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-08-13",
+          "end_date": "2026-08-17",
           "id": 151,
           "notes": "",
           "project": "",
@@ -3121,7 +3349,7 @@
       "notes": "",
       "status": {
         "code": "out",
-        "detail": "Unterwegs bis 2026-08-13 · bei Mirko Niklaus",
+        "detail": "Unterwegs bis 2026-08-17 · bei Mirko Niklaus",
         "label": "Unterwegs"
       },
       "type": "Werkzeug"
@@ -3403,6 +3631,60 @@
           "user_name": null
         },
         {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-12",
+          "id": 167,
+          "notes": "",
+          "project": "",
+          "resource_id": 16,
+          "resource_name": "Benning VDE Installationstester IT115",
+          "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-08-12T11:22:16",
+          "slot": "TAG",
+          "start_date": "2026-08-12",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Thomas Lauerer",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-13",
+          "id": 170,
+          "notes": "",
+          "project": "",
+          "resource_id": 16,
+          "resource_name": "Benning VDE Installationstester IT115",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-13",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Dimitrios",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-14",
+          "id": 176,
+          "notes": "",
+          "project": "",
+          "resource_id": 16,
+          "resource_name": "Benning VDE Installationstester IT115",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-14",
+          "user_id": null,
+          "user_name": null
+        },
+        {
           "booked_by": "Felix Weber",
           "deleted": 0,
           "deleted_at": null,
@@ -3431,15 +3713,34 @@
       "name": "Benning VDE Installationstester IT115",
       "notes": "1St Ladegerät, 1St 3-Leiter Prüfleitung, 1St Prüfkabel mit Schukostecker, 1St Krokodilklemmen sw/blau/grün",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Thomas Lauerer",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Emil Vollmar",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-19",
+          "id": 175,
+          "notes": "",
+          "project": "",
+          "resource_id": 14,
+          "resource_name": "Fluke Barcodelaser zu Fluke Gerätetester",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-14",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 4,
@@ -3458,7 +3759,26 @@
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Emil Vollmer",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-19",
+          "id": 174,
+          "notes": "",
+          "project": "",
+          "resource_id": 11,
+          "resource_name": "Fluke Gerätetester 6500 Appliance Tester",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-14",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 4,
@@ -3761,7 +4081,7 @@
           "booked_by": "Jörg Schneider - zum auslesen",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-08-12",
+          "end_date": "2026-08-14",
           "id": 139,
           "notes": "",
           "project": "",
@@ -3786,9 +4106,9 @@
       "name": "Janitza Netzanalysator UMG 604 (Wandlermessgerät)",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Jörg Schneider - zum auslesen",
-        "label": "Rückgabe heute"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-14 · bei Jörg Schneider - zum auslesen",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -4106,24 +4426,6 @@
           "start_date": "2026-07-02",
           "user_id": null,
           "user_name": null
-        },
-        {
-          "booked_by": "Philipp Kappler",
-          "deleted": 0,
-          "deleted_at": null,
-          "end_date": "2026-08-12",
-          "id": 161,
-          "notes": "",
-          "project": "",
-          "resource_id": 17,
-          "resource_name": "Wiha Gerätetester PAT one 47222",
-          "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
-          "slot": "TAG",
-          "start_date": "2026-08-12",
-          "user_id": null,
-          "user_name": null
         }
       ],
       "deleted": 0,
@@ -4136,9 +4438,9 @@
       "name": "Wiha Gerätetester PAT one 47222",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Philipp Kappler",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -4320,8 +4622,8 @@
           "resource_id": 22,
           "resource_name": "Würth Leitungssucher LS27",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-08-13T08:21:46",
           "slot": "TAG",
           "start_date": "2026-08-11",
           "user_id": 6,
@@ -4338,9 +4640,66 @@
       "name": "Würth Leitungssucher LS27",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Jonathan Zöllner",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [
+        {
+          "booked_by": "Dieter Wolf",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-12-31",
+          "id": 168,
+          "notes": "",
+          "project": "Karlsberg",
+          "resource_id": 119,
+          "resource_name": "ALFRA Hand-Hydraulikstanzen-Set  Knack#01",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-12",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 119,
+      "inventory_no": "",
+      "location": "Baustelle Karlsberg",
+      "name": "ALFRA Hand-Hydraulikstanzen-Set  Knack#01",
+      "notes": "im orangenen Koffer mit Zubehör",
+      "status": {
+        "code": "out",
+        "detail": "Unterwegs bis 2026-12-31 · bei Dieter Wolf",
+        "label": "Unterwegs"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 120,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "ALFRA Hand-Hydraulikstanzen-Set  Knack#02",
+      "notes": "im schwarzen Koffer",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -4776,24 +5135,6 @@
           "start_date": "2026-07-31",
           "user_id": null,
           "user_name": null
-        },
-        {
-          "booked_by": "Quentin Richert",
-          "deleted": 0,
-          "deleted_at": null,
-          "end_date": "2026-08-12",
-          "id": 149,
-          "notes": "",
-          "project": "",
-          "resource_id": 57,
-          "resource_name": "Bosch Bohrhammer GBH5-40D",
-          "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
-          "slot": "TAG",
-          "start_date": "2026-08-11",
-          "user_id": null,
-          "user_name": null
         }
       ],
       "deleted": 0,
@@ -4806,9 +5147,9 @@
       "name": "Bosch Bohrhammer GBH5-40D",
       "notes": "im Koffer ",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Quentin Richert",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -5327,7 +5668,7 @@
           "booked_by": "Mirko Niklaus",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-08-13",
+          "end_date": "2026-08-17",
           "id": 152,
           "notes": "",
           "project": "",
@@ -5353,7 +5694,7 @@
       "notes": "im Koffer",
       "status": {
         "code": "out",
-        "detail": "Unterwegs bis 2026-08-13 · bei Mirko Niklaus",
+        "detail": "Unterwegs bis 2026-08-17 · bei Mirko Niklaus",
         "label": "Unterwegs"
       },
       "type": "Werkzeug"
@@ -5589,7 +5930,7 @@
           "booked_by": "Gero Lind",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-08-12",
+          "end_date": "2026-08-21",
           "id": 162,
           "notes": "",
           "project": "",
@@ -5614,9 +5955,9 @@
       "name": "Hilti Staubsauger VC20M-X",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Gero Lind",
-        "label": "Rückgabe heute"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-21 · bei Gero Lind",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -5932,10 +6273,46 @@
           "resource_id": 36,
           "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
           "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-08-13T08:17:33",
+          "slot": "TAG",
+          "start_date": "2026-08-12",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-13",
+          "id": 172,
+          "notes": "",
+          "project": "",
+          "resource_id": 36,
+          "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
+          "resource_type": "Werkzeug",
           "returned": 0,
           "returned_at": null,
           "slot": "TAG",
-          "start_date": "2026-08-12",
+          "start_date": "2026-08-13",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Mirko Niklaus",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-17",
+          "id": 173,
+          "notes": "",
+          "project": "",
+          "resource_id": 36,
+          "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-14",
           "user_id": null,
           "user_name": null
         }
@@ -5950,9 +6327,9 @@
       "name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-08-13 · bei Mirko Niklaus",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Philipp Kappler",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -6091,6 +6468,25 @@
     },
     {
       "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 121,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Proxxon Ratschkasten 06-24  #01",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
       "bookings": [
         {
           "booked_by": "Danny Spang",
@@ -6191,6 +6587,25 @@
       "deleted_at": null,
       "group_id": 8,
       "group_name": "Pool-Werkzeug",
+      "id": 118,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Stabila Wasserwaage 120cm #70_03",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
       "id": 86,
       "inventory_no": "",
       "location": "Homburg",
@@ -6234,6 +6649,25 @@
       "location": "Homburg",
       "name": "Thorsman Spreizzange 01",
       "notes": "im Koffer ohne Zubehör",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 122,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "UHU Heißklebepistole inkl. Klebepatronen",
+      "notes": "",
       "status": {
         "code": "available",
         "detail": "Verfügbar",
@@ -6388,8 +6822,8 @@
           "resource_id": 93,
           "resource_name": "Siemens NH Aufsteckgriff mit Stulpe 3NX1014",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-08-13T08:20:24",
           "slot": "TAG",
           "start_date": "2026-08-12",
           "user_id": 6,
@@ -6406,9 +6840,9 @@
       "name": "Siemens NH Aufsteckgriff mit Stulpe 3NX1014",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Jonathan Zöllner",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -7058,28 +7492,10 @@
           "resource_id": 90,
           "resource_name": "VW Crafter",
           "resource_type": "Fahrzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-08-13T09:24:07",
           "slot": "TAG",
           "start_date": "2026-08-12",
-          "user_id": null,
-          "user_name": null
-        },
-        {
-          "booked_by": "Pascal Rivera",
-          "deleted": 0,
-          "deleted_at": null,
-          "end_date": "2026-08-16",
-          "id": 93,
-          "notes": "",
-          "project": "",
-          "resource_id": 90,
-          "resource_name": "VW Crafter",
-          "resource_type": "Fahrzeug",
-          "returned": 0,
-          "returned_at": null,
-          "slot": "TAG",
-          "start_date": "2026-08-14",
           "user_id": null,
           "user_name": null
         },
@@ -7112,14 +7528,14 @@
       "name": "VW Crafter",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Sascha Feltes",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Fahrzeug"
     }
   ],
-  "today": "2026-08-12",
+  "today": "2026-08-13",
   "users": [
     {
       "active": 1,
