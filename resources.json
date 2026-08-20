@@ -742,7 +742,7 @@
       "booked_by": "Danny Spang",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-08-14",
+      "end_date": "2026-08-28",
       "id": 57,
       "notes": "",
       "project": "WiWo",
@@ -1487,8 +1487,8 @@
       "resource_id": 76,
       "resource_name": "Bosch Akku Set mit Ladegerät 0615V0005X",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-08-18T07:05:21",
       "slot": "TAG",
       "start_date": "2026-07-18",
       "user_id": 7,
@@ -1667,8 +1667,8 @@
       "resource_id": 107,
       "resource_name": "Audi A5",
       "resource_type": "Fahrzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-08-19T08:44:20",
       "slot": "TAG",
       "start_date": "2026-07-29",
       "user_id": 7,
@@ -2038,7 +2038,7 @@
       "booked_by": "Sascha Feltes",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-08-14",
+      "end_date": "2026-08-20",
       "id": 143,
       "notes": "",
       "project": "Wipotec Worms",
@@ -2315,8 +2315,8 @@
       "resource_id": 65,
       "resource_name": "Hilti Dornpresse NCR60 D22",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-08-18T07:05:50",
       "slot": "TAG",
       "start_date": "2026-08-12",
       "user_id": null,
@@ -2423,8 +2423,8 @@
       "resource_id": 82,
       "resource_name": "Vevor Einziehband / Fiberglaskabel-Rad 150M D:7,9mm",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-08-18T07:05:48",
       "slot": "TAG",
       "start_date": "2026-08-12",
       "user_id": null,
@@ -2639,8 +2639,8 @@
       "resource_id": 36,
       "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-08-18T07:06:01",
       "slot": "TAG",
       "start_date": "2026-08-14",
       "user_id": null,
@@ -2675,6 +2675,132 @@
       "resource_id": 16,
       "resource_name": "Benning VDE Installationstester IT115",
       "resource_type": "Werkzeug",
+      "returned": 1,
+      "returned_at": "2026-08-19T07:33:14",
+      "slot": "TAG",
+      "start_date": "2026-08-17",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-21",
+      "id": 189,
+      "notes": "",
+      "project": "",
+      "resource_id": 61,
+      "resource_name": "Bosch Schlitzfräse GNF35CA",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-17",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-21",
+      "id": 188,
+      "notes": "",
+      "project": "",
+      "resource_id": 50,
+      "resource_name": "Hilti Bohrständer Befestigungssatz Koffer-DD-Set-01",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-17",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-21",
+      "id": 187,
+      "notes": "",
+      "project": "",
+      "resource_id": 51,
+      "resource_name": "Hilti Bohrständer Befestigungssatz Koffer-DD-Set-02",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-17",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-21",
+      "id": 184,
+      "notes": "",
+      "project": "",
+      "resource_id": 95,
+      "resource_name": "Hilti Staubsauger VC20M-X",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-17",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-21",
+      "id": 186,
+      "notes": "",
+      "project": "",
+      "resource_id": 53,
+      "resource_name": "Hilti Wasserpumpe zum Kernbohrgerät DD150-U",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-17",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-21",
+      "id": 185,
+      "notes": "",
+      "project": "",
+      "resource_id": 52,
+      "resource_name": "Hilti ständergeführtes Kernbohrgerät DD150-U",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-17",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-21",
+      "id": 190,
+      "notes": "",
+      "project": "",
+      "resource_id": 103,
+      "resource_name": "Runpotec Kabelabroller XB500_03",
+      "resource_type": "Werkzeug",
       "returned": 0,
       "returned_at": null,
       "slot": "TAG",
@@ -2693,8 +2819,8 @@
       "resource_id": 18,
       "resource_name": "Wiha VDE Installationstester MFT one 47216",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-08-19T07:33:02",
       "slot": "TAG",
       "start_date": "2026-08-17",
       "user_id": null,
@@ -2704,15 +2830,15 @@
       "booked_by": "Jonathan Zöllner",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-08-18",
+      "end_date": "2026-08-19",
       "id": 183,
       "notes": "",
       "project": "",
       "resource_id": 55,
       "resource_name": "Würth Brandschutzschaum-Auspresspistole 0893303201",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-08-19T12:28:40",
       "slot": "TAG",
       "start_date": "2026-08-17",
       "user_id": null,
@@ -2729,10 +2855,100 @@
       "resource_id": 36,
       "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
       "resource_type": "Werkzeug",
+      "returned": 1,
+      "returned_at": "2026-08-19T16:06:28",
+      "slot": "TAG",
+      "start_date": "2026-08-18",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Felix Weber",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-18",
+      "id": 192,
+      "notes": "",
+      "project": "",
+      "resource_id": 109,
+      "resource_name": "Würth Auspresspistole H297WIN",
+      "resource_type": "Werkzeug",
+      "returned": 1,
+      "returned_at": "2026-08-18T16:07:26",
+      "slot": "TAG",
+      "start_date": "2026-08-18",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Tanja Ender - Werkstatt",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-21",
+      "id": 199,
+      "notes": "",
+      "project": "",
+      "resource_id": 107,
+      "resource_name": "Audi A5",
+      "resource_type": "Fahrzeug",
       "returned": 0,
       "returned_at": null,
       "slot": "TAG",
-      "start_date": "2026-08-18",
+      "start_date": "2026-08-19",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-19",
+      "id": 197,
+      "notes": "",
+      "project": "",
+      "resource_id": 16,
+      "resource_name": "Benning VDE Installationstester IT115",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-19",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-21",
+      "id": 198,
+      "notes": "",
+      "project": "",
+      "resource_id": 125,
+      "resource_name": "Eibenstock Diamantbohrmaschine (Dosensenker) EHD1500SET",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-19",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Dimitrios",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-19",
+      "id": 195,
+      "notes": "",
+      "project": "",
+      "resource_id": 19,
+      "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-19",
       "user_id": null,
       "user_name": null
     },
@@ -2740,7 +2956,7 @@
       "booked_by": "Nico Wegner",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-08-19",
+      "end_date": "2026-08-20",
       "id": 134,
       "notes": "",
       "project": "",
@@ -2753,9 +2969,135 @@
       "start_date": "2026-08-19",
       "user_id": null,
       "user_name": null
+    },
+    {
+      "booked_by": "Gero Lind",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-20",
+      "id": 200,
+      "notes": "",
+      "project": "",
+      "resource_id": 56,
+      "resource_name": "Bosch Akku Kabelschere GKH 18V-50",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-20",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Mirko Nikolaus",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-26",
+      "id": 194,
+      "notes": "",
+      "project": "",
+      "resource_id": 65,
+      "resource_name": "Hilti Dornpresse NCR60 D22",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-20",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Mirko Nikolaus",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-26",
+      "id": 193,
+      "notes": "",
+      "project": "",
+      "resource_id": 36,
+      "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-20",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Thomas Weber",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-26",
+      "id": 196,
+      "notes": "",
+      "project": "",
+      "resource_id": 19,
+      "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-20",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Quentin Richert",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-20",
+      "id": 201,
+      "notes": "",
+      "project": "",
+      "resource_id": 18,
+      "resource_name": "Wiha VDE Installationstester MFT one 47216",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-20",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Quentin Richert",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-25",
+      "id": 202,
+      "notes": "",
+      "project": "",
+      "resource_id": 125,
+      "resource_name": "Eibenstock Diamantbohrmaschine (Dosensenker) EHD1500SET",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-22",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Quentin Richert",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-25",
+      "id": 203,
+      "notes": "",
+      "project": "",
+      "resource_id": 95,
+      "resource_name": "Hilti Staubsauger VC20M-X",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-22",
+      "user_id": null,
+      "user_name": null
     }
   ],
-  "exported_at": "2026-08-17T09:54:17",
+  "exported_at": "2026-08-20T08:48:31",
   "groups": [
     {
       "deleted": 0,
@@ -3294,6 +3636,24 @@
           "start_date": "2026-07-29",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-21",
+          "id": 190,
+          "notes": "",
+          "project": "",
+          "resource_id": 103,
+          "resource_name": "Runpotec Kabelabroller XB500_03",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-17",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -3304,6 +3664,44 @@
       "inventory_no": "",
       "location": "Homburg",
       "name": "Runpotec Kabelabroller XB500_03",
+      "notes": "",
+      "status": {
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-21 · bei Philipp Kappler",
+        "label": "Unterwegs"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 6,
+      "group_name": "Kabel-Einzugshilfen",
+      "id": 126,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Runpotec Kabelabroller XB500_04",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 6,
+      "group_name": "Kabel-Einzugshilfen",
+      "id": 127,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Runpotec Kabelabroller XB500_05",
       "notes": "",
       "status": {
         "code": "available",
@@ -3357,7 +3755,7 @@
           "booked_by": "Danny Spang",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-08-14",
+          "end_date": "2026-08-28",
           "id": 57,
           "notes": "",
           "project": "WiWo",
@@ -3382,9 +3780,9 @@
       "name": "Vevor Einziehband / Fiberglaskabel-Rad 150M D:7,9mm",
       "notes": "",
       "status": {
-        "code": "overdue",
-        "detail": "Überfällig seit 2026-08-14 · bei Danny Spang",
-        "label": "Überfällig"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-28 · bei Danny Spang",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -3438,8 +3836,8 @@
           "resource_id": 82,
           "resource_name": "Vevor Einziehband / Fiberglaskabel-Rad 150M D:7,9mm",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-08-18T07:05:48",
           "slot": "TAG",
           "start_date": "2026-08-12",
           "user_id": null,
@@ -3456,9 +3854,9 @@
       "name": "Vevor Einziehband / Fiberglaskabel-Rad 150M D:7,9mm",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Mirko Niklaus",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -3803,10 +4201,28 @@
           "resource_id": 16,
           "resource_name": "Benning VDE Installationstester IT115",
           "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-08-19T07:33:14",
+          "slot": "TAG",
+          "start_date": "2026-08-17",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-19",
+          "id": 197,
+          "notes": "",
+          "project": "",
+          "resource_id": 16,
+          "resource_name": "Benning VDE Installationstester IT115",
+          "resource_type": "Werkzeug",
           "returned": 0,
           "returned_at": null,
           "slot": "TAG",
-          "start_date": "2026-08-17",
+          "start_date": "2026-08-19",
           "user_id": null,
           "user_name": null
         }
@@ -3821,9 +4237,9 @@
       "name": "Benning VDE Installationstester IT115",
       "notes": "1St Ladegerät, 1St 3-Leiter Prüfleitung, 1St Prüfkabel mit Schukostecker, 1St Krokodilklemmen sw/blau/grün",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-08-19 · bei Felix Weber",
-        "label": "Unterwegs"
+        "code": "overdue",
+        "detail": "Überfällig seit 2026-08-19 · bei Philipp Kappler",
+        "label": "Überfällig"
       },
       "type": "Werkzeug"
     },
@@ -3859,9 +4275,9 @@
       "name": "Fluke Barcodelaser zu Fluke Gerätetester",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-08-19 · bei Emil Vollmar",
-        "label": "Unterwegs"
+        "code": "overdue",
+        "detail": "Überfällig seit 2026-08-19 · bei Emil Vollmar",
+        "label": "Überfällig"
       },
       "type": "Werkzeug"
     },
@@ -4214,9 +4630,9 @@
       "name": "Janitza Netzanalysator UMG 604 (Wandlermessgerät)",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Jörg Schneider - zum auslesen",
-        "label": "Rückgabe heute"
+        "code": "overdue",
+        "detail": "Überfällig seit 2026-08-17 · bei Jörg Schneider - zum auslesen",
+        "label": "Überfällig"
       },
       "type": "Werkzeug"
     },
@@ -4478,6 +4894,42 @@
           "start_date": "2026-08-03",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Dimitrios",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-19",
+          "id": 195,
+          "notes": "",
+          "project": "",
+          "resource_id": 19,
+          "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-19",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Thomas Weber",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-26",
+          "id": 196,
+          "notes": "",
+          "project": "",
+          "resource_id": 19,
+          "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-20",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -4490,9 +4942,9 @@
       "name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
       "notes": "2St Messadapter, 2St Netzgeräte, 2St LAN-Kabel",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "overdue",
+        "detail": "Überfällig seit 2026-08-19 · bei Dimitrios",
+        "label": "Überfällig"
       },
       "type": "Werkzeug"
     },
@@ -4692,10 +5144,28 @@
           "resource_id": 18,
           "resource_name": "Wiha VDE Installationstester MFT one 47216",
           "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-08-19T07:33:02",
+          "slot": "TAG",
+          "start_date": "2026-08-17",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Quentin Richert",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-20",
+          "id": 201,
+          "notes": "",
+          "project": "",
+          "resource_id": 18,
+          "resource_name": "Wiha VDE Installationstester MFT one 47216",
+          "resource_type": "Werkzeug",
           "returned": 0,
           "returned_at": null,
           "slot": "TAG",
-          "start_date": "2026-08-17",
+          "start_date": "2026-08-20",
           "user_id": null,
           "user_name": null
         }
@@ -4710,9 +5180,9 @@
       "name": "Wiha VDE Installationstester MFT one 47216",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-08-18 · bei Christian Montag",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Quentin Richert",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -4832,6 +5302,25 @@
     },
     {
       "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 124,
+      "inventory_no": "3611J24000 / Serien-Nr.523016325",
+      "location": "Homburg",
+      "name": "Bosch Akku Bohr-/Schlaghammer GBH18V-22",
+      "notes": "im Koffer mit Zubehör: 1St Absaugung GDE18V-12 (Serien-Nr.522001272)",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
       "bookings": [
         {
           "booked_by": "Quentin Staub",
@@ -4926,7 +5415,26 @@
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Gero Lind",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-20",
+          "id": 200,
+          "notes": "",
+          "project": "",
+          "resource_id": 56,
+          "resource_name": "Bosch Akku Kabelschere GKH 18V-50",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-20",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 8,
@@ -4937,9 +5445,9 @@
       "name": "Bosch Akku Kabelschere GKH 18V-50",
       "notes": "im Koffer mit Zubehör: 2St Akku, 1St Ladegerät",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Gero Lind",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -5125,8 +5633,8 @@
           "resource_id": 76,
           "resource_name": "Bosch Akku Set mit Ladegerät 0615V0005X",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-08-18T07:05:21",
           "slot": "TAG",
           "start_date": "2026-07-18",
           "user_id": 7,
@@ -5143,9 +5651,9 @@
       "name": "Bosch Akku Set mit Ladegerät 0615V0005X",
       "notes": "im Karton mit Zubehör: 3St Akku EXBA18V-40 (621268908+621268899+621268901); 1St Ladegerät GAL12 (2607226773)",
       "status": {
-        "code": "overdue",
-        "detail": "Überfällig seit 2026-08-07 · bei Fabian Ziegler-Kiefer",
-        "label": "Überfällig"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -5287,6 +5795,44 @@
       "deleted_at": null,
       "group_id": 8,
       "group_name": "Pool-Werkzeug",
+      "id": 128,
+      "inventory_no": "Serien-Nr.432010645",
+      "location": "Homburg",
+      "name": "Bosch Linienlaser 360° GLL 12V-100-33CG",
+      "notes": "im Koffer mit Zubehör: 1St Akku 1607A3515C (Serien-Nr.431089934), 1St Deckenklemme 1600A02G16 (Serien-Nr.431036032), 1St Laserzieltafel, 1St Universalhalter 3601K92C00 (Serien-Nr.431007649), 1St Ladegerät GAL12V-40 (Serien-Nr.522080003)",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 130,
+      "inventory_no": "604004414",
+      "location": "Homburg",
+      "name": "Bosch Messrad GWM32",
+      "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
       "id": 60,
       "inventory_no": "",
       "location": "Homburg",
@@ -5337,6 +5883,24 @@
           "start_date": "2026-08-14",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-21",
+          "id": 189,
+          "notes": "",
+          "project": "",
+          "resource_id": 61,
+          "resource_name": "Bosch Schlitzfräse GNF35CA",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-17",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -5348,6 +5912,25 @@
       "location": "Homburg",
       "name": "Bosch Schlitzfräse GNF35CA",
       "notes": "im Koffer",
+      "status": {
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-21 · bei Philipp Kappler",
+        "label": "Unterwegs"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 129,
+      "inventory_no": "Serien-Nr.427017999",
+      "location": "Homburg",
+      "name": "Bosch Stativ BT150 zu Linien-Laser",
+      "notes": "",
       "status": {
         "code": "available",
         "detail": "Verfügbar",
@@ -5367,6 +5950,25 @@
       "location": "Homburg",
       "name": "Bosch Stichsäge PST800PEL",
       "notes": "im Koffer",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 123,
+      "inventory_no": "Serien-Nr.211004348",
+      "location": "Homburg",
+      "name": "Bosch Säbelsäge (Fuchsschwanz) PSA700E",
+      "notes": "",
       "status": {
         "code": "available",
         "detail": "Verfügbar",
@@ -5426,6 +6028,62 @@
       "status": {
         "code": "out",
         "detail": "Unterwegs bis 2026-09-30 · bei Emil Vollmar",
+        "label": "Unterwegs"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-21",
+          "id": 198,
+          "notes": "",
+          "project": "",
+          "resource_id": 125,
+          "resource_name": "Eibenstock Diamantbohrmaschine (Dosensenker) EHD1500SET",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-19",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Quentin Richert",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-25",
+          "id": 202,
+          "notes": "",
+          "project": "",
+          "resource_id": 125,
+          "resource_name": "Eibenstock Diamantbohrmaschine (Dosensenker) EHD1500SET",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-22",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 125,
+      "inventory_no": "",
+      "location": "Homburg",
+      "name": "Eibenstock Diamantbohrmaschine (Dosensenker) EHD1500SET",
+      "notes": "im Koffer inkl. Staubabsaugung HB und Bohrkrone",
+      "status": {
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-21 · bei Philipp Kappler",
         "label": "Unterwegs"
       },
       "type": "Werkzeug"
@@ -5659,6 +6317,24 @@
           "start_date": "2026-07-31",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-21",
+          "id": 188,
+          "notes": "",
+          "project": "",
+          "resource_id": 50,
+          "resource_name": "Hilti Bohrständer Befestigungssatz Koffer-DD-Set-01",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-17",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -5671,9 +6347,9 @@
       "name": "Hilti Bohrständer Befestigungssatz Koffer-DD-Set-01",
       "notes": "gemäß Bild im Koffer",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-21 · bei Philipp Kappler",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -5715,6 +6391,24 @@
           "start_date": "2026-07-31",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-21",
+          "id": 187,
+          "notes": "",
+          "project": "",
+          "resource_id": 51,
+          "resource_name": "Hilti Bohrständer Befestigungssatz Koffer-DD-Set-02",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-17",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -5727,9 +6421,9 @@
       "name": "Hilti Bohrständer Befestigungssatz Koffer-DD-Set-02",
       "notes": "gemäß Bild im Koffer",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-21 · bei Philipp Kappler",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -5801,10 +6495,28 @@
           "resource_id": 65,
           "resource_name": "Hilti Dornpresse NCR60 D22",
           "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-08-18T07:05:50",
+          "slot": "TAG",
+          "start_date": "2026-08-12",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Mirko Nikolaus",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-26",
+          "id": 194,
+          "notes": "",
+          "project": "",
+          "resource_id": 65,
+          "resource_name": "Hilti Dornpresse NCR60 D22",
+          "resource_type": "Werkzeug",
           "returned": 0,
           "returned_at": null,
           "slot": "TAG",
-          "start_date": "2026-08-12",
+          "start_date": "2026-08-20",
           "user_id": null,
           "user_name": null
         }
@@ -5819,9 +6531,9 @@
       "name": "Hilti Dornpresse NCR60 D22",
       "notes": "im Koffer",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Mirko Niklaus",
-        "label": "Rückgabe heute"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-26 · bei Mirko Nikolaus",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -6105,6 +6817,42 @@
           "start_date": "2026-08-14",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-21",
+          "id": 184,
+          "notes": "",
+          "project": "",
+          "resource_id": 95,
+          "resource_name": "Hilti Staubsauger VC20M-X",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-17",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Quentin Richert",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-25",
+          "id": 203,
+          "notes": "",
+          "project": "",
+          "resource_id": 95,
+          "resource_name": "Hilti Staubsauger VC20M-X",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-22",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -6117,9 +6865,9 @@
       "name": "Hilti Staubsauger VC20M-X",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-21 · bei Philipp Kappler",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -6161,6 +6909,24 @@
           "start_date": "2026-07-31",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-21",
+          "id": 186,
+          "notes": "",
+          "project": "",
+          "resource_id": 53,
+          "resource_name": "Hilti Wasserpumpe zum Kernbohrgerät DD150-U",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-17",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -6173,9 +6939,9 @@
       "name": "Hilti Wasserpumpe zum Kernbohrgerät DD150-U",
       "notes": "Pumpe inkl. 4Mtr Wasserschlauch",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-21 · bei Philipp Kappler",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -6273,6 +7039,24 @@
           "start_date": "2026-08-14",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-21",
+          "id": 185,
+          "notes": "",
+          "project": "",
+          "resource_id": 52,
+          "resource_name": "Hilti ständergeführtes Kernbohrgerät DD150-U",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-17",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -6285,9 +7069,9 @@
       "name": "Hilti ständergeführtes Kernbohrgerät DD150-U",
       "notes": "im Koffer mit Zubehör: 1St Bohrkronen-Verlängerung",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-21 · bei Philipp Kappler",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -6489,8 +7273,8 @@
           "resource_id": 36,
           "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-08-18T07:06:01",
           "slot": "TAG",
           "start_date": "2026-08-14",
           "user_id": null,
@@ -6507,10 +7291,28 @@
           "resource_id": 36,
           "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
           "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-08-19T16:06:28",
+          "slot": "TAG",
+          "start_date": "2026-08-18",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Mirko Nikolaus",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-26",
+          "id": 193,
+          "notes": "",
+          "project": "",
+          "resource_id": 36,
+          "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
+          "resource_type": "Werkzeug",
           "returned": 0,
           "returned_at": null,
           "slot": "TAG",
-          "start_date": "2026-08-18",
+          "start_date": "2026-08-20",
           "user_id": null,
           "user_name": null
         }
@@ -6525,9 +7327,9 @@
       "name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Mirko Niklaus",
-        "label": "Rückgabe heute"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-26 · bei Mirko Nikolaus",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -6753,9 +7555,9 @@
       "name": "Stabila Wasserwaage 120cm #70_01",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-08-19 · bei Emil Vollmar",
-        "label": "Unterwegs"
+        "code": "overdue",
+        "detail": "Überfällig seit 2026-08-19 · bei Emil Vollmar",
+        "label": "Überfällig"
       },
       "type": "Werkzeug"
     },
@@ -6875,7 +7677,26 @@
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Felix Weber",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-18",
+          "id": 192,
+          "notes": "",
+          "project": "",
+          "resource_id": 109,
+          "resource_name": "Würth Auspresspistole H297WIN",
+          "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-08-18T16:07:26",
+          "slot": "TAG",
+          "start_date": "2026-08-18",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 8,
@@ -6899,15 +7720,15 @@
           "booked_by": "Jonathan Zöllner",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-08-18",
+          "end_date": "2026-08-19",
           "id": 183,
           "notes": "",
           "project": "",
           "resource_id": 55,
           "resource_name": "Würth Brandschutzschaum-Auspresspistole 0893303201",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-08-19T12:28:40",
           "slot": "TAG",
           "start_date": "2026-08-17",
           "user_id": null,
@@ -6924,9 +7745,9 @@
       "name": "Würth Brandschutzschaum-Auspresspistole 0893303201",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-08-18 · bei Jonathan Zöllner",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -7462,7 +8283,7 @@
           "booked_by": "Sascha Feltes",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-08-14",
+          "end_date": "2026-08-20",
           "id": 143,
           "notes": "",
           "project": "Wipotec Worms",
@@ -7487,9 +8308,9 @@
       "name": "8 Sitzer",
       "notes": "",
       "status": {
-        "code": "overdue",
-        "detail": "Überfällig seit 2026-08-14 · bei Sascha Feltes",
-        "label": "Überfällig"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Sascha Feltes",
+        "label": "Rückgabe heute"
       },
       "type": "Fahrzeug"
     },
@@ -7507,12 +8328,30 @@
           "resource_id": 107,
           "resource_name": "Audi A5",
           "resource_type": "Fahrzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-08-19T08:44:20",
           "slot": "TAG",
           "start_date": "2026-07-29",
           "user_id": 7,
           "user_name": "Fabian Ziegler-Kiefer"
+        },
+        {
+          "booked_by": "Tanja Ender - Werkstatt",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-21",
+          "id": 199,
+          "notes": "",
+          "project": "",
+          "resource_id": 107,
+          "resource_name": "Audi A5",
+          "resource_type": "Fahrzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-19",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -7526,7 +8365,7 @@
       "notes": "",
       "status": {
         "code": "out",
-        "detail": "Unterwegs bis 2026-08-18 · bei Fabian Ziegler-Kiefer",
+        "detail": "Unterwegs bis 2026-08-21 · bei Tanja Ender - Werkstatt",
         "label": "Unterwegs"
       },
       "type": "Fahrzeug"
@@ -7720,7 +8559,7 @@
           "booked_by": "Nico Wegner",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-08-19",
+          "end_date": "2026-08-20",
           "id": 134,
           "notes": "",
           "project": "",
@@ -7745,14 +8584,14 @@
       "name": "VW Crafter",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Nico Wegner",
+        "label": "Rückgabe heute"
       },
       "type": "Fahrzeug"
     }
   ],
-  "today": "2026-08-17",
+  "today": "2026-08-20",
   "users": [
     {
       "active": 1,
