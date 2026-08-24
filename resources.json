@@ -3071,8 +3071,8 @@
       "resource_id": 16,
       "resource_name": "Benning VDE Installationstester IT115",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-08-21T14:08:52",
       "slot": "TAG",
       "start_date": "2026-08-21",
       "user_id": null,
@@ -3147,6 +3147,24 @@
       "returned_at": null,
       "slot": "TAG",
       "start_date": "2026-08-22",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Mirko Nikolaus",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-27",
+      "id": 212,
+      "notes": "",
+      "project": "",
+      "resource_id": 91,
+      "resource_name": "8 Sitzer",
+      "resource_type": "Fahrzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-24",
       "user_id": null,
       "user_name": null
     },
@@ -3241,7 +3259,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-08-21T13:25:02",
+  "exported_at": "2026-08-24T08:13:49",
   "groups": [
     {
       "deleted": 0,
@@ -4418,8 +4436,8 @@
           "resource_id": 16,
           "resource_name": "Benning VDE Installationstester IT115",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-08-21T14:08:52",
           "slot": "TAG",
           "start_date": "2026-08-21",
           "user_id": null,
@@ -4436,9 +4454,9 @@
       "name": "Benning VDE Installationstester IT115",
       "notes": "1St Ladegerät, 1St 3-Leiter Prüfleitung, 1St Prüfkabel mit Schukostecker, 1St Krokodilklemmen sw/blau/grün",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Felix Weber",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -6353,9 +6371,9 @@
       "name": "Eibenstock Diamantbohrmaschine (Dosensenker) EHD1500SET",
       "notes": "im Koffer inkl. Staubabsaugung HB und Bohrkrone",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-25 · bei Quentin Richert",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -7154,9 +7172,9 @@
       "name": "Hilti Staubsauger VC20M-X",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-25 · bei Quentin Richert",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -8585,6 +8603,24 @@
           "start_date": "2026-08-10",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Mirko Nikolaus",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-27",
+          "id": 212,
+          "notes": "",
+          "project": "",
+          "resource_id": 91,
+          "resource_name": "8 Sitzer",
+          "resource_type": "Fahrzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-24",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -8592,14 +8628,14 @@
       "group_id": null,
       "group_name": null,
       "id": 91,
-      "inventory_no": "",
-      "location": "Homburg",
+      "inventory_no": "HOM-B-8320",
+      "location": "Homburg / Fahrtenbuch",
       "name": "8 Sitzer",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-27 · bei Mirko Nikolaus",
+        "label": "Unterwegs"
       },
       "type": "Fahrzeug"
     },
@@ -8649,7 +8685,7 @@
       "group_name": null,
       "id": 107,
       "inventory_no": "HOM-PH-869",
-      "location": "",
+      "location": "Homburg / Fahrtenbuch",
       "name": "Audi A5",
       "notes": "",
       "status": {
@@ -8723,7 +8759,7 @@
       "group_name": null,
       "id": 92,
       "inventory_no": "HOM-B-351E",
-      "location": "Homburg",
+      "location": "Homburg / Fahrtenbuch",
       "name": "ID Buzz",
       "notes": "",
       "status": {
@@ -8880,7 +8916,7 @@
       "type": "Fahrzeug"
     }
   ],
-  "today": "2026-08-21",
+  "today": "2026-08-24",
   "users": [
     {
       "active": 1,
