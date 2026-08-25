@@ -2891,8 +2891,8 @@
       "resource_id": 107,
       "resource_name": "Audi A5",
       "resource_type": "Fahrzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-08-25T07:59:23",
       "slot": "TAG",
       "start_date": "2026-08-19",
       "user_id": null,
@@ -2974,7 +2974,7 @@
       "booked_by": "Gero Lind",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-08-20",
+      "end_date": "2026-08-27",
       "id": 200,
       "notes": "",
       "project": "",
@@ -3089,8 +3089,8 @@
       "resource_id": 61,
       "resource_name": "Bosch Schlitzfräse GNF35CA",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-08-24T09:12:03",
       "slot": "TAG",
       "start_date": "2026-08-21",
       "user_id": null,
@@ -3125,8 +3125,8 @@
       "resource_id": 125,
       "resource_name": "Eibenstock Diamantbohrmaschine (Dosensenker) EHD1500SET",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-08-24T09:12:18",
       "slot": "TAG",
       "start_date": "2026-08-22",
       "user_id": null,
@@ -3143,8 +3143,8 @@
       "resource_id": 95,
       "resource_name": "Hilti Staubsauger VC20M-X",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-08-24T09:12:28",
       "slot": "TAG",
       "start_date": "2026-08-22",
       "user_id": null,
@@ -3165,6 +3165,96 @@
       "returned_at": null,
       "slot": "TAG",
       "start_date": "2026-08-24",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Zöllner Jonathan",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-25",
+      "id": 213,
+      "notes": "",
+      "project": "Saarlouis SLS",
+      "resource_id": 31,
+      "resource_name": "Phoenix Thermomark Go-Set 1221548-02",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-24",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Julia Wegner",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-25",
+      "id": 215,
+      "notes": "",
+      "project": "",
+      "resource_id": 92,
+      "resource_name": "ID Buzz",
+      "resource_type": "Fahrzeug",
+      "returned": 1,
+      "returned_at": "2026-08-25T09:31:03",
+      "slot": "TAG",
+      "start_date": "2026-08-25",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Felix Weber",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-25",
+      "id": 217,
+      "notes": "",
+      "project": "",
+      "resource_id": 121,
+      "resource_name": "Proxxon Ratschkasten 06-24  #01",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-25",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Christian Montag",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-25",
+      "id": 214,
+      "notes": "",
+      "project": "",
+      "resource_id": 90,
+      "resource_name": "VW Crafter",
+      "resource_type": "Fahrzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-25",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Jonathan Zöllner",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-08-25",
+      "id": 216,
+      "notes": "",
+      "project": "",
+      "resource_id": 55,
+      "resource_name": "Würth Brandschutzschaum-Auspresspistole 0893303201",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-08-25",
       "user_id": null,
       "user_name": null
     },
@@ -3259,7 +3349,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-08-24T08:13:49",
+  "exported_at": "2026-08-25T12:50:49",
   "groups": [
     {
       "deleted": 0,
@@ -3664,6 +3754,24 @@
           "start_date": "2026-06-29",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Zöllner Jonathan",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-25",
+          "id": 213,
+          "notes": "",
+          "project": "Saarlouis SLS",
+          "resource_id": 31,
+          "resource_name": "Phoenix Thermomark Go-Set 1221548-02",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-24",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -3676,9 +3784,9 @@
       "name": "Phoenix Thermomark Go-Set 1221548-02",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Zöllner Jonathan",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -4865,9 +4973,9 @@
       "name": "Janitza Netzanalysator UMG 604 (Wandlermessgerät)",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-08-25 · bei Jörg Schneider - zum auslesen",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Jörg Schneider - zum auslesen",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -5655,7 +5763,7 @@
           "booked_by": "Gero Lind",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-08-20",
+          "end_date": "2026-08-27",
           "id": 200,
           "notes": "",
           "project": "",
@@ -5680,9 +5788,9 @@
       "name": "Bosch Akku Kabelschere GKH 18V-50",
       "notes": "im Koffer mit Zubehör: 2St Akku, 1St Ladegerät",
       "status": {
-        "code": "overdue",
-        "detail": "Überfällig seit 2026-08-20 · bei Gero Lind",
-        "label": "Überfällig"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-08-27 · bei Gero Lind",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -6082,6 +6190,25 @@
     },
     {
       "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 132,
+      "inventory_no": "628000760",
+      "location": "Pirmasens",
+      "name": "Bosch Schlitzfräse GNF20-40 (10-40mm) 3601FC5100",
+      "notes": "im Koffer mit Zubehör: 2St Sägeblätter 2608615061, 1St Handmeisel, 4St Distanzscheiben 5mm, 3St Distanzscheiben 3mm, 1St. Aufnahmeflansch, 1St. Schnellspannmutter",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
       "bookings": [
         {
           "booked_by": "Felix Weber",
@@ -6148,8 +6275,8 @@
           "resource_id": 61,
           "resource_name": "Bosch Schlitzfräse GNF35CA",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-08-24T09:12:03",
           "slot": "TAG",
           "start_date": "2026-08-21",
           "user_id": null,
@@ -6184,9 +6311,9 @@
       "name": "Bosch Schlitzfräse GNF35CA",
       "notes": "im Koffer",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-08-25 · bei Quentin Richert",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -6202,6 +6329,25 @@
       "location": "Homburg",
       "name": "Bosch Stativ BT150 zu Linien-Laser",
       "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 133,
+      "inventory_no": "Serien-Nr.627160612",
+      "location": "Pirmasens",
+      "name": "Bosch Staubsauger GAS35M AFC (3601JC3100)",
+      "notes": "Zubehör: 1St. Schlauch, 1St. Absaugadapter, 1St. Düse, 1St. Bodendüse",
       "status": {
         "code": "available",
         "detail": "Verfügbar",
@@ -6238,8 +6384,27 @@
       "id": 123,
       "inventory_no": "Serien-Nr.211004348",
       "location": "Homburg",
-      "name": "Bosch Säbelsäge (Fuchsschwanz) PSA700E",
+      "name": "Bosch Säbelsäge(Fuchsschwanz)PSA700E-01",
       "notes": "",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 131,
+      "inventory_no": "226007871",
+      "location": "Homburg",
+      "name": "Bosch Säbelsäge(Fuchsschwanz)PSA700E-02",
+      "notes": "im Karton ",
       "status": {
         "code": "available",
         "detail": "Verfügbar",
@@ -6335,8 +6500,8 @@
           "resource_id": 125,
           "resource_name": "Eibenstock Diamantbohrmaschine (Dosensenker) EHD1500SET",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-08-24T09:12:18",
           "slot": "TAG",
           "start_date": "2026-08-22",
           "user_id": null,
@@ -6371,9 +6536,9 @@
       "name": "Eibenstock Diamantbohrmaschine (Dosensenker) EHD1500SET",
       "notes": "im Koffer inkl. Staubabsaugung HB und Bohrkrone",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-08-25 · bei Quentin Richert",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -7136,8 +7301,8 @@
           "resource_id": 95,
           "resource_name": "Hilti Staubsauger VC20M-X",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-08-24T09:12:28",
           "slot": "TAG",
           "start_date": "2026-08-22",
           "user_id": null,
@@ -7172,9 +7337,9 @@
       "name": "Hilti Staubsauger VC20M-X",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-08-25 · bei Quentin Richert",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -7775,7 +7940,26 @@
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Felix Weber",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-25",
+          "id": 217,
+          "notes": "",
+          "project": "",
+          "resource_id": 121,
+          "resource_name": "Proxxon Ratschkasten 06-24  #01",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-25",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 8,
@@ -7786,9 +7970,9 @@
       "name": "Proxxon Ratschkasten 06-24  #01",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Felix Weber",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -8040,6 +8224,24 @@
           "start_date": "2026-08-17",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Jonathan Zöllner",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-25",
+          "id": 216,
+          "notes": "",
+          "project": "",
+          "resource_id": 55,
+          "resource_name": "Würth Brandschutzschaum-Auspresspistole 0893303201",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-25",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -8052,9 +8254,9 @@
       "name": "Würth Brandschutzschaum-Auspresspistole 0893303201",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Jonathan Zöllner",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -8671,8 +8873,8 @@
           "resource_id": 107,
           "resource_name": "Audi A5",
           "resource_type": "Fahrzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-08-25T07:59:23",
           "slot": "TAG",
           "start_date": "2026-08-19",
           "user_id": null,
@@ -8689,9 +8891,9 @@
       "name": "Audi A5",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-08-25 · bei Tanja Ender - Werkstatt",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Fahrzeug"
     },
@@ -8749,6 +8951,24 @@
           "returned_at": "2026-08-17T08:28:48",
           "slot": "TAG",
           "start_date": "2026-08-14",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Julia Wegner",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-25",
+          "id": 215,
+          "notes": "",
+          "project": "",
+          "resource_id": 92,
+          "resource_name": "ID Buzz",
+          "resource_type": "Fahrzeug",
+          "returned": 1,
+          "returned_at": "2026-08-25T09:31:03",
+          "slot": "TAG",
+          "start_date": "2026-08-25",
           "user_id": null,
           "user_name": null
         }
@@ -8897,6 +9117,24 @@
           "start_date": "2026-08-19",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Christian Montag",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-08-25",
+          "id": 214,
+          "notes": "",
+          "project": "",
+          "resource_id": 90,
+          "resource_name": "VW Crafter",
+          "resource_type": "Fahrzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-08-25",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -8909,14 +9147,14 @@
       "name": "VW Crafter",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Christian Montag",
+        "label": "Rückgabe heute"
       },
       "type": "Fahrzeug"
     }
   ],
-  "today": "2026-08-24",
+  "today": "2026-08-25",
   "users": [
     {
       "active": 1,
