@@ -3809,8 +3809,8 @@
       "resource_id": 90,
       "resource_name": "VW Crafter",
       "resource_type": "Fahrzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-02T13:36:16",
       "slot": "TAG",
       "start_date": "2026-09-01",
       "user_id": null,
@@ -3907,6 +3907,42 @@
       "user_name": null
     },
     {
+      "booked_by": "Quentin Richert",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-07",
+      "id": 252,
+      "notes": "",
+      "project": "",
+      "resource_id": 78,
+      "resource_name": "Hilti Schlitzgerät DCH150-SL",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-04",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Quentin Richert",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-07",
+      "id": 253,
+      "notes": "",
+      "project": "",
+      "resource_id": 95,
+      "resource_name": "Hilti Staubsauger VC20M-X",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-04",
+      "user_id": null,
+      "user_name": null
+    },
+    {
       "booked_by": "Julia Wegner",
       "deleted": 0,
       "deleted_at": null,
@@ -3943,7 +3979,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-09-02T12:27:08",
+  "exported_at": "2026-09-02T15:56:50",
   "groups": [
     {
       "deleted": 0,
@@ -8084,6 +8120,24 @@
           "start_date": "2026-08-14",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Quentin Richert",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-07",
+          "id": 252,
+          "notes": "",
+          "project": "",
+          "resource_id": 78,
+          "resource_name": "Hilti Schlitzgerät DCH150-SL",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-04",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -8340,6 +8394,24 @@
           "returned_at": "2026-08-31T10:46:34",
           "slot": "TAG",
           "start_date": "2026-08-31",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Quentin Richert",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-07",
+          "id": 253,
+          "notes": "",
+          "project": "",
+          "resource_id": 95,
+          "resource_name": "Hilti Staubsauger VC20M-X",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-04",
           "user_id": null,
           "user_name": null
         }
@@ -10436,8 +10508,8 @@
           "resource_id": 90,
           "resource_name": "VW Crafter",
           "resource_type": "Fahrzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-02T13:36:16",
           "slot": "TAG",
           "start_date": "2026-09-01",
           "user_id": null,
@@ -10454,9 +10526,9 @@
       "name": "VW Crafter",
       "notes": "",
       "status": {
-        "code": "overdue",
-        "detail": "Überfällig seit 2026-09-01 · bei Jörg Schneider",
-        "label": "Überfällig"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Fahrzeug"
     }
