@@ -2567,8 +2567,8 @@
       "resource_id": 78,
       "resource_name": "Hilti Schlitzgerät DCH150-SL",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-01T09:47:28",
       "slot": "TAG",
       "start_date": "2026-08-14",
       "user_id": null,
@@ -3161,8 +3161,8 @@
       "resource_id": 91,
       "resource_name": "8 Sitzer",
       "resource_type": "Fahrzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-01T07:30:58",
       "slot": "TAG",
       "start_date": "2026-08-24",
       "user_id": null,
@@ -3172,7 +3172,7 @@
       "booked_by": "Zöllner Jonathan",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-08-31",
+      "end_date": "2026-09-02",
       "id": 213,
       "notes": "",
       "project": "Saarlouis SLS",
@@ -3244,7 +3244,7 @@
       "booked_by": "Jonathan Zöllner",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-08-31",
+      "end_date": "2026-09-02",
       "id": 216,
       "notes": "",
       "project": "",
@@ -3647,8 +3647,8 @@
       "resource_id": 90,
       "resource_name": "VW Crafter",
       "resource_type": "Fahrzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-08-31T15:17:55",
       "slot": "TAG",
       "start_date": "2026-08-31",
       "user_id": null,
@@ -3691,10 +3691,100 @@
       "user_name": null
     },
     {
-      "booked_by": "Christian Montag",
+      "booked_by": "Felix Weber",
       "deleted": 0,
       "deleted_at": null,
       "end_date": "2026-09-01",
+      "id": 243,
+      "notes": "",
+      "project": "",
+      "resource_id": 16,
+      "resource_name": "Benning VDE Installationstester IT115",
+      "resource_type": "Werkzeug",
+      "returned": 1,
+      "returned_at": "2026-09-01T16:14:35",
+      "slot": "TAG",
+      "start_date": "2026-09-01",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Felix Weber",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-02",
+      "id": 247,
+      "notes": "",
+      "project": "",
+      "resource_id": 16,
+      "resource_name": "Benning VDE Installationstester IT115",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-01",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Gero Lind",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-04",
+      "id": 244,
+      "notes": "",
+      "project": "",
+      "resource_id": 56,
+      "resource_name": "Bosch Akku Kabelschere GKH 18V-50",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-01",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Emil Vollmar",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-04",
+      "id": 242,
+      "notes": "",
+      "project": "",
+      "resource_id": 139,
+      "resource_name": "Bosch Laser GCL 2-50 G",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-01",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Mirko Nikolaus",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-03",
+      "id": 246,
+      "notes": "",
+      "project": "Wipotec Worms",
+      "resource_id": 36,
+      "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-01",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Christian Montag",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-02",
       "id": 240,
       "notes": "",
       "project": "",
@@ -3705,6 +3795,114 @@
       "returned_at": null,
       "slot": "TAG",
       "start_date": "2026-09-01",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Jörg Schneider",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-01",
+      "id": 241,
+      "notes": "",
+      "project": "",
+      "resource_id": 90,
+      "resource_name": "VW Crafter",
+      "resource_type": "Fahrzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-01",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Nico Wegner",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-03",
+      "id": 249,
+      "notes": "",
+      "project": "",
+      "resource_id": 125,
+      "resource_name": "Eibenstock Diamantbohrmaschine (Dosensenker) EHD1500SET",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-02",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Jörg Schneider",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-03",
+      "id": 250,
+      "notes": "",
+      "project": "",
+      "resource_id": 11,
+      "resource_name": "Fluke Gerätetester 6500 Appliance Tester",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-02",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Felix Weber",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-03",
+      "id": 248,
+      "notes": "",
+      "project": "",
+      "resource_id": 38,
+      "resource_name": "Klauke Rohrkabelschuh-Presse K09",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-02",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Emanuel Klotz - Reifenwechsel",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-04",
+      "id": 251,
+      "notes": "",
+      "project": "",
+      "resource_id": 107,
+      "resource_name": "Audi A5",
+      "resource_type": "Fahrzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-03",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Kappler P",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-03",
+      "id": 245,
+      "notes": "",
+      "project": "",
+      "resource_id": 24,
+      "resource_name": "HT VDE Installationstester Combi 521",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-03",
       "user_id": null,
       "user_name": null
     },
@@ -3745,7 +3943,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-08-31T15:05:23",
+  "exported_at": "2026-09-02T12:27:08",
   "groups": [
     {
       "deleted": 0,
@@ -4211,7 +4409,7 @@
           "booked_by": "Zöllner Jonathan",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-08-31",
+          "end_date": "2026-09-02",
           "id": 213,
           "notes": "",
           "project": "Saarlouis SLS",
@@ -5038,6 +5236,42 @@
           "start_date": "2026-08-28",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Felix Weber",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-01",
+          "id": 243,
+          "notes": "",
+          "project": "",
+          "resource_id": 16,
+          "resource_name": "Benning VDE Installationstester IT115",
+          "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-09-01T16:14:35",
+          "slot": "TAG",
+          "start_date": "2026-09-01",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Felix Weber",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-02",
+          "id": 247,
+          "notes": "",
+          "project": "",
+          "resource_id": 16,
+          "resource_name": "Benning VDE Installationstester IT115",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-01",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -5050,15 +5284,34 @@
       "name": "Benning VDE Installationstester IT115",
       "notes": "1St Ladegerät, 1St 3-Leiter Prüfleitung, 1St Prüfkabel mit Schukostecker, 1St Krokodilklemmen sw/blau/grün",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Felix Weber",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Emil Vollmar",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-04",
+          "id": 242,
+          "notes": "",
+          "project": "",
+          "resource_id": 139,
+          "resource_name": "Bosch Laser GCL 2-50 G",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-01",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 4,
@@ -5069,9 +5322,9 @@
       "name": "Bosch Laser GCL 2-50 G",
       "notes": "im Koffer mit Zubehör: 1St. RM10 (Serien-Nr.526001505), 1St. DK10 (Serien-Nr.524000104), 1St. Zieltafel",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-09-04 · bei Emil Vollmar",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -5115,7 +5368,26 @@
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Jörg Schneider",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-03",
+          "id": 250,
+          "notes": "",
+          "project": "",
+          "resource_id": 11,
+          "resource_name": "Fluke Gerätetester 6500 Appliance Tester",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-02",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 4,
@@ -5126,9 +5398,9 @@
       "name": "Fluke Gerätetester 6500 Appliance Tester",
       "notes": "1St Kaltgerätestecker, 3St Prüfspitze",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-09-03 · bei Jörg Schneider",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -5298,6 +5570,24 @@
           "returned_at": "2026-08-05T08:08:07",
           "slot": "TAG",
           "start_date": "2026-08-03",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Kappler P",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-03",
+          "id": 245,
+          "notes": "",
+          "project": "",
+          "resource_id": 24,
+          "resource_name": "HT VDE Installationstester Combi 521",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-03",
           "user_id": null,
           "user_name": null
         }
@@ -5841,7 +6131,7 @@
           "booked_by": "Christian Montag",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-09-01",
+          "end_date": "2026-09-02",
           "id": 240,
           "notes": "",
           "project": "",
@@ -5866,9 +6156,9 @@
       "name": "VCELINK RJ45 CABLE TESTER #GJ468-01",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Christian Montag",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -6394,6 +6684,24 @@
           "start_date": "2026-08-20",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Gero Lind",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-04",
+          "id": 244,
+          "notes": "",
+          "project": "",
+          "resource_id": 56,
+          "resource_name": "Bosch Akku Kabelschere GKH 18V-50",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-01",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -6406,9 +6714,9 @@
       "name": "Bosch Akku Kabelschere GKH 18V-50",
       "notes": "im Koffer mit Zubehör: 2St Akku, 1St Ladegerät",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-09-04 · bei Gero Lind",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -7178,6 +7486,24 @@
           "start_date": "2026-08-31",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Nico Wegner",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-03",
+          "id": 249,
+          "notes": "",
+          "project": "",
+          "resource_id": 125,
+          "resource_name": "Eibenstock Diamantbohrmaschine (Dosensenker) EHD1500SET",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-02",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -7190,9 +7516,9 @@
       "name": "Eibenstock Diamantbohrmaschine (Dosensenker) EHD1500SET",
       "notes": "im Koffer inkl. Staubabsaugung HB und Bohrkrone",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-09-03 · bei Nico Wegner",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -7752,8 +8078,8 @@
           "resource_id": 78,
           "resource_name": "Hilti Schlitzgerät DCH150-SL",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-01T09:47:28",
           "slot": "TAG",
           "start_date": "2026-08-14",
           "user_id": null,
@@ -7770,9 +8096,9 @@
       "name": "Hilti Schlitzgerät DCH150-SL",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-09-30 · bei Emil Vollmar",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -8533,6 +8859,24 @@
           "start_date": "2026-08-20",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Mirko Nikolaus",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-03",
+          "id": 246,
+          "notes": "",
+          "project": "Wipotec Worms",
+          "resource_id": 36,
+          "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-01",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -8545,9 +8889,9 @@
       "name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-09-03 · bei Mirko Nikolaus",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -8629,7 +8973,26 @@
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Felix Weber",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-03",
+          "id": 248,
+          "notes": "",
+          "project": "",
+          "resource_id": 38,
+          "resource_name": "Klauke Rohrkabelschuh-Presse K09",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-02",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 8,
@@ -8640,9 +9003,9 @@
       "name": "Klauke Rohrkabelschuh-Presse K09",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-09-03 · bei Felix Weber",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -8993,7 +9356,7 @@
           "booked_by": "Jonathan Zöllner",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-08-31",
+          "end_date": "2026-09-02",
           "id": 216,
           "notes": "",
           "project": "",
@@ -9617,8 +9980,8 @@
           "resource_id": 91,
           "resource_name": "8 Sitzer",
           "resource_type": "Fahrzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-01T07:30:58",
           "slot": "TAG",
           "start_date": "2026-08-24",
           "user_id": null,
@@ -9635,9 +9998,9 @@
       "name": "8 Sitzer",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-12-31 · bei Mirko Nikolaus",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Fahrzeug"
     },
@@ -9677,6 +10040,24 @@
           "returned_at": "2026-08-25T07:59:23",
           "slot": "TAG",
           "start_date": "2026-08-19",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Emanuel Klotz - Reifenwechsel",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-04",
+          "id": 251,
+          "notes": "",
+          "project": "",
+          "resource_id": 107,
+          "resource_name": "Audi A5",
+          "resource_type": "Fahrzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-03",
           "user_id": null,
           "user_name": null
         }
@@ -10037,10 +10418,28 @@
           "resource_id": 90,
           "resource_name": "VW Crafter",
           "resource_type": "Fahrzeug",
+          "returned": 1,
+          "returned_at": "2026-08-31T15:17:55",
+          "slot": "TAG",
+          "start_date": "2026-08-31",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Jörg Schneider",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-01",
+          "id": 241,
+          "notes": "",
+          "project": "",
+          "resource_id": 90,
+          "resource_name": "VW Crafter",
+          "resource_type": "Fahrzeug",
           "returned": 0,
           "returned_at": null,
           "slot": "TAG",
-          "start_date": "2026-08-31",
+          "start_date": "2026-09-01",
           "user_id": null,
           "user_name": null
         }
@@ -10055,14 +10454,14 @@
       "name": "VW Crafter",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-09-01 · bei Dieter Wolf",
-        "label": "Unterwegs"
+        "code": "overdue",
+        "detail": "Überfällig seit 2026-09-01 · bei Jörg Schneider",
+        "label": "Überfällig"
       },
       "type": "Fahrzeug"
     }
   ],
-  "today": "2026-08-31",
+  "today": "2026-09-02",
   "users": [
     {
       "active": 1,
