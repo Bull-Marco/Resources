@@ -3208,7 +3208,7 @@
       "booked_by": "Felix Weber",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-09-21",
+      "end_date": "2026-09-25",
       "id": 217,
       "notes": "",
       "project": "",
@@ -4162,7 +4162,7 @@
       "booked_by": "Schneider",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-09-21",
+      "end_date": "2026-09-25",
       "id": 280,
       "notes": "Gerät muss ausgelesen werden !",
       "project": "ATEB 903162 ",
@@ -4331,8 +4331,8 @@
       "resource_id": 19,
       "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-22T15:50:14",
       "slot": "TAG",
       "start_date": "2026-09-10",
       "user_id": null,
@@ -4738,7 +4738,7 @@
       "booked_by": "Weber Felix",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-09-24",
+      "end_date": "2026-09-30",
       "id": 310,
       "notes": "",
       "project": "",
@@ -4889,8 +4889,8 @@
       "resource_id": 36,
       "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-24T07:10:03",
       "slot": "TAG",
       "start_date": "2026-09-17",
       "user_id": null,
@@ -4900,7 +4900,7 @@
       "booked_by": "Mirko Nikolaus",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-09-23",
+      "end_date": "2026-10-02",
       "id": 318,
       "notes": "",
       "project": "25054 Wipotec",
@@ -5105,8 +5105,8 @@
       "resource_id": 125,
       "resource_name": "Eibenstock Diamantbohrmaschine (Dosensenker) EHD1500SET",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-23T12:36:10",
       "slot": "TAG",
       "start_date": "2026-09-21",
       "user_id": null,
@@ -5123,8 +5123,8 @@
       "resource_id": 24,
       "resource_name": "HT VDE Installationstester Combi 521",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-22T13:18:43",
       "slot": "TAG",
       "start_date": "2026-09-21",
       "user_id": null,
@@ -5141,8 +5141,8 @@
       "resource_id": 49,
       "resource_name": "Hilt Kernbohrständer DD-St150-UCTL03",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-23T12:34:59",
       "slot": "TAG",
       "start_date": "2026-09-21",
       "user_id": null,
@@ -5177,8 +5177,8 @@
       "resource_id": 51,
       "resource_name": "Hilti Bohrständer Befestigungssatz Koffer-DD-Set-02",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-23T12:35:10",
       "slot": "TAG",
       "start_date": "2026-09-21",
       "user_id": null,
@@ -5195,8 +5195,8 @@
       "resource_id": 78,
       "resource_name": "Hilti Schlitzgerät DCH150-SL",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-23T12:37:43",
       "slot": "TAG",
       "start_date": "2026-09-21",
       "user_id": null,
@@ -5213,8 +5213,8 @@
       "resource_id": 95,
       "resource_name": "Hilti Staubsauger VC20M-X",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-23T12:34:02",
       "slot": "TAG",
       "start_date": "2026-09-21",
       "user_id": null,
@@ -5231,8 +5231,8 @@
       "resource_id": 53,
       "resource_name": "Hilti Wasserpumpe zum Kernbohrgerät DD150-U",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-23T12:36:28",
       "slot": "TAG",
       "start_date": "2026-09-21",
       "user_id": null,
@@ -5249,19 +5249,37 @@
       "resource_id": 52,
       "resource_name": "Hilti ständergeführtes Kernbohrgerät DD150-U",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-23T12:36:34",
       "slot": "TAG",
       "start_date": "2026-09-21",
       "user_id": null,
       "user_name": null
     },
     {
-      "booked_by": "Julia Wegner",
+      "booked_by": "Felix Weber",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-09-22",
-      "id": 237,
+      "end_date": "2026-09-30",
+      "id": 343,
+      "notes": "",
+      "project": "",
+      "resource_id": 65,
+      "resource_name": "Hilti Dornpresse NCR60 D22",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-22",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Fabian Berger",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-25",
+      "id": 337,
       "notes": "",
       "project": "",
       "resource_id": 92,
@@ -5271,6 +5289,204 @@
       "returned_at": null,
       "slot": "TAG",
       "start_date": "2026-09-22",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Christian Montag",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-24",
+      "id": 340,
+      "notes": "",
+      "project": "",
+      "resource_id": 16,
+      "resource_name": "Benning VDE Installationstester IT115",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-23",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Felix Weber",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-25",
+      "id": 344,
+      "notes": "",
+      "project": "",
+      "resource_id": 24,
+      "resource_name": "HT VDE Installationstester Combi 521",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-23",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Fabian Berger",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-25",
+      "id": 335,
+      "notes": "",
+      "project": "",
+      "resource_id": 92,
+      "resource_name": "ID Buzz",
+      "resource_type": "Fahrzeug",
+      "returned": 1,
+      "returned_at": "2026-09-21T13:59:54",
+      "slot": "TAG",
+      "start_date": "2026-09-23",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Christian Montag",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-10-09",
+      "id": 338,
+      "notes": "",
+      "project": "",
+      "resource_id": 94,
+      "resource_name": "Pylone orange_Set 5Stück",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-23",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Tobias Knopf",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-10-02",
+      "id": 342,
+      "notes": "",
+      "project": "",
+      "resource_id": 19,
+      "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-23",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Christian Montag",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-10-09",
+      "id": 339,
+      "notes": "",
+      "project": "",
+      "resource_id": 32,
+      "resource_name": "Würth Fallschutz Set 0899032103_01",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-23",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-24",
+      "id": 347,
+      "notes": "",
+      "project": "",
+      "resource_id": 36,
+      "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-24",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-24",
+      "id": 348,
+      "notes": "",
+      "project": "",
+      "resource_id": 38,
+      "resource_name": "Klauke Rohrkabelschuh-Presse K09",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-24",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Pascal Rivera Campos",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-28",
+      "id": 349,
+      "notes": "",
+      "project": "",
+      "resource_id": 91,
+      "resource_name": "8 Sitzer",
+      "resource_type": "Fahrzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-25",
+      "user_id": 8,
+      "user_name": "Pascal Rivera Campos"
+    },
+    {
+      "booked_by": "Andreas Schneiders",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-10-01",
+      "id": 346,
+      "notes": "Buche beide auf Andreas, da eins der beiden Gerätetester beschädigt/ nicht voll funtionsfähig ist.",
+      "project": "",
+      "resource_id": 11,
+      "resource_name": "Fluke Gerätetester 6500 Appliance Tester",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-27",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Andreas Schneiders",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-10-01",
+      "id": 345,
+      "notes": "Ich buche beide Fluke Gerätetester 6500, auf Andreas, da einer der beiden beschädigt ist, Probleme auf weißt und ich nicht weiß welcher",
+      "project": "",
+      "resource_id": 12,
+      "resource_name": "Fluke Gerätetester 6500-2 Appliance Tester",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-27",
       "user_id": null,
       "user_name": null
     },
@@ -5291,9 +5507,27 @@
       "start_date": "2026-09-28",
       "user_id": null,
       "user_name": null
+    },
+    {
+      "booked_by": "Jörg Schneider",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-10-06",
+      "id": 341,
+      "notes": "",
+      "project": "",
+      "resource_id": 92,
+      "resource_name": "ID Buzz",
+      "resource_type": "Fahrzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-10-05",
+      "user_id": null,
+      "user_name": null
     }
   ],
-  "exported_at": "2026-09-21T13:35:02",
+  "exported_at": "2026-09-24T09:43:59",
   "groups": [
     {
       "deleted": 0,
@@ -5814,7 +6048,7 @@
           "booked_by": "Weber Felix",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-09-24",
+          "end_date": "2026-09-30",
           "id": 310,
           "notes": "",
           "project": "",
@@ -5840,7 +6074,7 @@
       "notes": "",
       "status": {
         "code": "out",
-        "detail": "Unterwegs bis 2026-09-24 · bei Weber Felix",
+        "detail": "Unterwegs bis 2026-09-30 · bei Weber Felix",
         "label": "Unterwegs"
       },
       "type": "Werkzeug"
@@ -6355,7 +6589,7 @@
           "booked_by": "Schneider",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-09-21",
+          "end_date": "2026-09-25",
           "id": 280,
           "notes": "Gerät muss ausgelesen werden !",
           "project": "ATEB 903162 ",
@@ -6380,9 +6614,9 @@
       "name": "Amprobe Maschinen-Messgerät HT2034",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Schneider",
-        "label": "Rückgabe heute"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-09-25 · bei Schneider",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -6821,6 +7055,24 @@
           "start_date": "2026-09-16",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Christian Montag",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-24",
+          "id": 340,
+          "notes": "",
+          "project": "",
+          "resource_id": 16,
+          "resource_name": "Benning VDE Installationstester IT115",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-23",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -6833,9 +7085,9 @@
       "name": "Benning VDE Installationstester IT115",
       "notes": "1St Ladegerät, 1St 3-Leiter Prüfleitung, 1St Prüfkabel mit Schukostecker, 1St Krokodilklemmen sw/blau/grün",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Christian Montag",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -6935,6 +7187,24 @@
           "start_date": "2026-09-02",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Andreas Schneiders",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-10-01",
+          "id": 346,
+          "notes": "Buche beide auf Andreas, da eins der beiden Gerätetester beschädigt/ nicht voll funtionsfähig ist.",
+          "project": "",
+          "resource_id": 11,
+          "resource_name": "Fluke Gerätetester 6500 Appliance Tester",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-27",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -6989,6 +7259,24 @@
           "returned_at": "2026-09-03T14:32:35",
           "slot": "TAG",
           "start_date": "2026-09-03",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Andreas Schneiders",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-10-01",
+          "id": 345,
+          "notes": "Ich buche beide Fluke Gerätetester 6500, auf Andreas, da einer der beiden beschädigt ist, Probleme auf weißt und ich nicht weiß welcher",
+          "project": "",
+          "resource_id": 12,
+          "resource_name": "Fluke Gerätetester 6500-2 Appliance Tester",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-27",
           "user_id": null,
           "user_name": null
         }
@@ -7188,10 +7476,28 @@
           "resource_id": 24,
           "resource_name": "HT VDE Installationstester Combi 521",
           "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-09-22T13:18:43",
+          "slot": "TAG",
+          "start_date": "2026-09-21",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Felix Weber",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-25",
+          "id": 344,
+          "notes": "",
+          "project": "",
+          "resource_id": 24,
+          "resource_name": "HT VDE Installationstester Combi 521",
+          "resource_type": "Werkzeug",
           "returned": 0,
           "returned_at": null,
           "slot": "TAG",
-          "start_date": "2026-09-21",
+          "start_date": "2026-09-23",
           "user_id": null,
           "user_name": null
         },
@@ -7224,9 +7530,9 @@
       "name": "HT VDE Installationstester Combi 521",
       "notes": "4St Messstrippen, 1St Akku-Ladegerät, 1St Schuko-Adapter 230V ",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Felix Weber",
-        "label": "Rückgabe heute"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-09-25 · bei Felix Weber",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -7759,10 +8065,28 @@
           "resource_id": 19,
           "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
           "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-09-22T15:50:14",
+          "slot": "TAG",
+          "start_date": "2026-09-10",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Tobias Knopf",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-10-02",
+          "id": 342,
+          "notes": "",
+          "project": "",
+          "resource_id": 19,
+          "resource_name": "TrendNetworks Lan-Zertifizierer LanTEK IV-S 500",
+          "resource_type": "Werkzeug",
           "returned": 0,
           "returned_at": null,
           "slot": "TAG",
-          "start_date": "2026-09-10",
+          "start_date": "2026-09-23",
           "user_id": null,
           "user_name": null
         }
@@ -7778,7 +8102,7 @@
       "notes": "2St Messadapter, 2St Netzgeräte, 2St LAN-Kabel",
       "status": {
         "code": "out",
-        "detail": "Unterwegs bis 2026-09-22 · bei Mirko Nikolaus",
+        "detail": "Unterwegs bis 2026-10-02 · bei Tobias Knopf",
         "label": "Unterwegs"
       },
       "type": "Werkzeug"
@@ -8975,6 +9299,25 @@
     },
     {
       "archived": 0,
+      "bookings": [],
+      "deleted": 0,
+      "deleted_at": null,
+      "group_id": 8,
+      "group_name": "Pool-Werkzeug",
+      "id": 141,
+      "inventory_no": "Serien-Nr.626002613",
+      "location": "Pirmasens",
+      "name": "Bosch Linienlaser 360° GLL12V-100-33CG",
+      "notes": "im Koffer mit Zubehör: 1St Akku 1607A3515C (Serien-Nr.YF-06-624292848), 1St Deckenklemme 1600A02G16 (Serien-Nr.623005220), 1St Laserzieltafel, 1St Universalhalter 3601K92C00 (Serien-Nr.624009954), 1St Ladegerät GAL12V-40 (Serien-Nr.0K06-622040083)",
+      "status": {
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
+      },
+      "type": "Werkzeug"
+    },
+    {
+      "archived": 0,
       "bookings": [
         {
           "booked_by": "Zöllner Jonathan",
@@ -9561,8 +9904,8 @@
           "resource_id": 125,
           "resource_name": "Eibenstock Diamantbohrmaschine (Dosensenker) EHD1500SET",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-23T12:36:10",
           "slot": "TAG",
           "start_date": "2026-09-21",
           "user_id": null,
@@ -9579,9 +9922,9 @@
       "name": "Eibenstock Diamantbohrmaschine (Dosensenker) EHD1500SET",
       "notes": "im Koffer inkl. Staubabsaugung HB und Bohrkrone",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-09-23 · bei Kappler P.",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -9692,8 +10035,8 @@
           "resource_id": 49,
           "resource_name": "Hilt Kernbohrständer DD-St150-UCTL03",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-23T12:34:59",
           "slot": "TAG",
           "start_date": "2026-09-21",
           "user_id": null,
@@ -9710,9 +10053,9 @@
       "name": "Hilt Kernbohrständer DD-St150-UCTL03",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-09-25 · bei Kappler P",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -10028,8 +10371,8 @@
           "resource_id": 51,
           "resource_name": "Hilti Bohrständer Befestigungssatz Koffer-DD-Set-02",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-23T12:35:10",
           "slot": "TAG",
           "start_date": "2026-09-21",
           "user_id": null,
@@ -10046,9 +10389,9 @@
       "name": "Hilti Bohrständer Befestigungssatz Koffer-DD-Set-02",
       "notes": "gemäß Bild im Koffer",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-09-25 · bei Kappler P",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -10144,6 +10487,24 @@
           "start_date": "2026-08-20",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Felix Weber",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-30",
+          "id": 343,
+          "notes": "",
+          "project": "",
+          "resource_id": 65,
+          "resource_name": "Hilti Dornpresse NCR60 D22",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-22",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -10156,9 +10517,9 @@
       "name": "Hilti Dornpresse NCR60 D22",
       "notes": "im Koffer",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-09-30 · bei Felix Weber",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -10322,8 +10683,8 @@
           "resource_id": 78,
           "resource_name": "Hilti Schlitzgerät DCH150-SL",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-23T12:37:43",
           "slot": "TAG",
           "start_date": "2026-09-21",
           "user_id": null,
@@ -10340,9 +10701,9 @@
       "name": "Hilti Schlitzgerät DCH150-SL",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-09-23 · bei Kappler P.",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -10670,8 +11031,8 @@
           "resource_id": 95,
           "resource_name": "Hilti Staubsauger VC20M-X",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-23T12:34:02",
           "slot": "TAG",
           "start_date": "2026-09-21",
           "user_id": null,
@@ -10688,9 +11049,9 @@
       "name": "Hilti Staubsauger VC20M-X",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-09-23 · bei Kappler P.",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -10798,8 +11159,8 @@
           "resource_id": 53,
           "resource_name": "Hilti Wasserpumpe zum Kernbohrgerät DD150-U",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-23T12:36:28",
           "slot": "TAG",
           "start_date": "2026-09-21",
           "user_id": null,
@@ -10816,9 +11177,9 @@
       "name": "Hilti Wasserpumpe zum Kernbohrgerät DD150-U",
       "notes": "Pumpe inkl. 4Mtr Wasserschlauch",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-09-25 · bei Kappler P",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -11038,8 +11399,8 @@
           "resource_id": 52,
           "resource_name": "Hilti ständergeführtes Kernbohrgerät DD150-U",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-23T12:36:34",
           "slot": "TAG",
           "start_date": "2026-09-21",
           "user_id": null,
@@ -11056,9 +11417,9 @@
       "name": "Hilti ständergeführtes Kernbohrgerät DD150-U",
       "notes": "im Koffer mit Zubehör: 1St Bohrkronen-Verlängerung",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-09-25 · bei Kappler P",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -11350,10 +11711,28 @@
           "resource_id": 36,
           "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
           "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-09-24T07:10:03",
+          "slot": "TAG",
+          "start_date": "2026-09-17",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-24",
+          "id": 347,
+          "notes": "",
+          "project": "",
+          "resource_id": 36,
+          "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
+          "resource_type": "Werkzeug",
           "returned": 0,
           "returned_at": null,
           "slot": "TAG",
-          "start_date": "2026-09-17",
+          "start_date": "2026-09-24",
           "user_id": null,
           "user_name": null
         }
@@ -11368,9 +11747,9 @@
       "name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-09-23 · bei Mirko Nikolaus",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Philipp Kappler",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -11437,7 +11816,7 @@
           "booked_by": "Mirko Nikolaus",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-09-23",
+          "end_date": "2026-10-02",
           "id": 318,
           "notes": "",
           "project": "25054 Wipotec",
@@ -11463,7 +11842,7 @@
       "notes": "",
       "status": {
         "code": "out",
-        "detail": "Unterwegs bis 2026-09-23 · bei Mirko Nikolaus",
+        "detail": "Unterwegs bis 2026-10-02 · bei Mirko Nikolaus",
         "label": "Unterwegs"
       },
       "type": "Werkzeug"
@@ -11506,6 +11885,24 @@
           "start_date": "2026-09-03",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-24",
+          "id": 348,
+          "notes": "",
+          "project": "",
+          "resource_id": 38,
+          "resource_name": "Klauke Rohrkabelschuh-Presse K09",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-24",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -11518,9 +11915,9 @@
       "name": "Klauke Rohrkabelschuh-Presse K09",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Philipp Kappler",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -11569,7 +11966,7 @@
           "booked_by": "Felix Weber",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-09-21",
+          "end_date": "2026-09-25",
           "id": 217,
           "notes": "",
           "project": "",
@@ -11594,9 +11991,9 @@
       "name": "Proxxon Ratschkasten 06-24  #01",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Felix Weber",
-        "label": "Rückgabe heute"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-09-25 · bei Felix Weber",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -11998,7 +12395,26 @@
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Christian Montag",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-10-09",
+          "id": 338,
+          "notes": "",
+          "project": "",
+          "resource_id": 94,
+          "resource_name": "Pylone orange_Set 5Stück",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-23",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 7,
@@ -12009,9 +12425,9 @@
       "name": "Pylone orange_Set 5Stück",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-10-09 · bei Christian Montag",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -12127,6 +12543,24 @@
           "start_date": "2026-08-31",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Christian Montag",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-10-09",
+          "id": 339,
+          "notes": "",
+          "project": "",
+          "resource_id": 32,
+          "resource_name": "Würth Fallschutz Set 0899032103_01",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-23",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -12139,9 +12573,9 @@
       "name": "Würth Fallschutz Set 0899032103_01",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-10-09 · bei Christian Montag",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -12591,6 +13025,24 @@
           "start_date": "2026-08-24",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Pascal Rivera Campos",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-28",
+          "id": 349,
+          "notes": "",
+          "project": "",
+          "resource_id": 91,
+          "resource_name": "8 Sitzer",
+          "resource_type": "Fahrzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-25",
+          "user_id": 8,
+          "user_name": "Pascal Rivera Campos"
         }
       ],
       "deleted": 0,
@@ -12867,11 +13319,11 @@
           "user_name": null
         },
         {
-          "booked_by": "Julia Wegner",
+          "booked_by": "Fabian Berger",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-09-22",
-          "id": 237,
+          "end_date": "2026-09-25",
+          "id": 337,
           "notes": "",
           "project": "",
           "resource_id": 92,
@@ -12881,6 +13333,42 @@
           "returned_at": null,
           "slot": "TAG",
           "start_date": "2026-09-22",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Fabian Berger",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-25",
+          "id": 335,
+          "notes": "",
+          "project": "",
+          "resource_id": 92,
+          "resource_name": "ID Buzz",
+          "resource_type": "Fahrzeug",
+          "returned": 1,
+          "returned_at": "2026-09-21T13:59:54",
+          "slot": "TAG",
+          "start_date": "2026-09-23",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Jörg Schneider",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-10-06",
+          "id": 341,
+          "notes": "",
+          "project": "",
+          "resource_id": 92,
+          "resource_name": "ID Buzz",
+          "resource_type": "Fahrzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-10-05",
           "user_id": null,
           "user_name": null
         }
@@ -12895,9 +13383,9 @@
       "name": "ID Buzz",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-09-25 · bei Fabian Berger",
+        "label": "Unterwegs"
       },
       "type": "Fahrzeug"
     },
@@ -13192,7 +13680,7 @@
       "type": "Fahrzeug"
     }
   ],
-  "today": "2026-09-21",
+  "today": "2026-09-24",
   "users": [
     {
       "active": 1,
@@ -13259,6 +13747,17 @@
       "phone": null,
       "role": "Monteur",
       "shortname": "MON"
+    },
+    {
+      "active": 1,
+      "department": "GF",
+      "email": "",
+      "id": 8,
+      "location": "",
+      "name": "Pascal Rivera Campos",
+      "phone": "",
+      "role": "Admin",
+      "shortname": "PRC"
     },
     {
       "active": 1,
