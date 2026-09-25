@@ -3208,7 +3208,7 @@
       "booked_by": "Felix Weber",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-09-25",
+      "end_date": "2026-10-02",
       "id": 217,
       "notes": "",
       "project": "",
@@ -5267,8 +5267,8 @@
       "resource_id": 65,
       "resource_name": "Hilti Dornpresse NCR60 D22",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-24T16:05:42",
       "slot": "TAG",
       "start_date": "2026-09-22",
       "user_id": null,
@@ -5303,8 +5303,8 @@
       "resource_id": 16,
       "resource_name": "Benning VDE Installationstester IT115",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-24T12:46:38",
       "slot": "TAG",
       "start_date": "2026-09-23",
       "user_id": null,
@@ -5314,7 +5314,7 @@
       "booked_by": "Felix Weber",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-09-25",
+      "end_date": "2026-09-29",
       "id": 344,
       "notes": "",
       "project": "",
@@ -5401,18 +5401,36 @@
       "user_name": null
     },
     {
-      "booked_by": "Philipp Kappler",
+      "booked_by": "Kirsch Marco",
       "deleted": 0,
       "deleted_at": null,
       "end_date": "2026-09-24",
-      "id": 347,
+      "id": 350,
+      "notes": "",
+      "project": "Fahrt nach Saarbrücken / Dauer ca 2 Stunden",
+      "resource_id": 91,
+      "resource_name": "8 Sitzer",
+      "resource_type": "Fahrzeug",
+      "returned": 1,
+      "returned_at": "2026-09-24T16:05:32",
+      "slot": "TAG",
+      "start_date": "2026-09-24",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-25",
+      "id": 351,
       "notes": "",
       "project": "",
-      "resource_id": 36,
-      "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
+      "resource_id": 16,
+      "resource_name": "Benning VDE Installationstester IT115",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-25T12:28:59",
       "slot": "TAG",
       "start_date": "2026-09-24",
       "user_id": null,
@@ -5423,14 +5441,32 @@
       "deleted": 0,
       "deleted_at": null,
       "end_date": "2026-09-24",
+      "id": 347,
+      "notes": "",
+      "project": "",
+      "resource_id": 36,
+      "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
+      "resource_type": "Werkzeug",
+      "returned": 1,
+      "returned_at": "2026-09-25T12:22:51",
+      "slot": "TAG",
+      "start_date": "2026-09-24",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-29",
       "id": 348,
       "notes": "",
       "project": "",
       "resource_id": 38,
       "resource_name": "Klauke Rohrkabelschuh-Presse K09",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-25T12:28:56",
       "slot": "TAG",
       "start_date": "2026-09-24",
       "user_id": null,
@@ -5453,6 +5489,60 @@
       "start_date": "2026-09-25",
       "user_id": 8,
       "user_name": "Pascal Rivera Campos"
+    },
+    {
+      "booked_by": "Dat",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-30",
+      "id": 357,
+      "notes": "",
+      "project": "",
+      "resource_id": 14,
+      "resource_name": "Fluke Barcodelaser zu Fluke Gerätetester",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-25",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Hasan Ican",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-28",
+      "id": 354,
+      "notes": "",
+      "project": "",
+      "resource_id": 56,
+      "resource_name": "Bosch Akku Kabelschere GKH 18V-50",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-26",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Hasan Ican",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-26",
+      "id": 355,
+      "notes": "",
+      "project": "",
+      "resource_id": 36,
+      "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-26",
+      "user_id": null,
+      "user_name": null
     },
     {
       "booked_by": "Andreas Schneiders",
@@ -5491,20 +5581,56 @@
       "user_name": null
     },
     {
-      "booked_by": "Weber Felix",
+      "booked_by": "Felix Weber",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-09-29",
-      "id": 331,
+      "end_date": "2026-09-30",
+      "id": 356,
       "notes": "",
       "project": "",
-      "resource_id": 24,
-      "resource_name": "HT VDE Installationstester Combi 521",
+      "resource_id": 36,
+      "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
       "resource_type": "Werkzeug",
       "returned": 0,
       "returned_at": null,
       "slot": "TAG",
       "start_date": "2026-09-28",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Quentin Richert",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-10-01",
+      "id": 352,
+      "notes": "",
+      "project": "",
+      "resource_id": 125,
+      "resource_name": "Eibenstock Diamantbohrmaschine (Dosensenker) EHD1500SET",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-30",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Quentin Richert",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-10-01",
+      "id": 353,
+      "notes": "",
+      "project": "",
+      "resource_id": 95,
+      "resource_name": "Hilti Staubsauger VC20M-X",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-30",
       "user_id": null,
       "user_name": null
     },
@@ -5527,7 +5653,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-09-24T09:43:59",
+  "exported_at": "2026-09-25T15:49:23",
   "groups": [
     {
       "deleted": 0,
@@ -6430,9 +6556,9 @@
       "name": "Vevor Einziehband / Fiberglaskabel-Rad 150M D:7,9mm",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-09-25 · bei Emil Vollmar",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Emil Vollmar",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -6614,9 +6740,9 @@
       "name": "Amprobe Maschinen-Messgerät HT2034",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-09-25 · bei Schneider",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Schneider",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -7067,10 +7193,28 @@
           "resource_id": 16,
           "resource_name": "Benning VDE Installationstester IT115",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-24T12:46:38",
           "slot": "TAG",
           "start_date": "2026-09-23",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-25",
+          "id": 351,
+          "notes": "",
+          "project": "",
+          "resource_id": 16,
+          "resource_name": "Benning VDE Installationstester IT115",
+          "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-09-25T12:28:59",
+          "slot": "TAG",
+          "start_date": "2026-09-24",
           "user_id": null,
           "user_name": null
         }
@@ -7085,9 +7229,9 @@
       "name": "Benning VDE Installationstester IT115",
       "notes": "1St Ladegerät, 1St 3-Leiter Prüfleitung, 1St Prüfkabel mit Schukostecker, 1St Krokodilklemmen sw/blau/grün",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Christian Montag",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -7123,9 +7267,9 @@
       "name": "Bosch Laser GCL 2-50 G",
       "notes": "im Koffer mit Zubehör: 1St. RM10 (Serien-Nr.526001505), 1St. DK10 (Serien-Nr.524000104), 1St. Zieltafel",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-09-25 · bei Emil Vollmar",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Emil Vollmar",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -7149,6 +7293,24 @@
           "start_date": "2026-08-14",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Dat",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-30",
+          "id": 357,
+          "notes": "",
+          "project": "",
+          "resource_id": 14,
+          "resource_name": "Fluke Barcodelaser zu Fluke Gerätetester",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-25",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -7161,9 +7323,9 @@
       "name": "Fluke Barcodelaser zu Fluke Gerätetester",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-09-30 · bei Dat",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -7487,7 +7649,7 @@
           "booked_by": "Felix Weber",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-09-25",
+          "end_date": "2026-09-29",
           "id": 344,
           "notes": "",
           "project": "",
@@ -7498,24 +7660,6 @@
           "returned_at": null,
           "slot": "TAG",
           "start_date": "2026-09-23",
-          "user_id": null,
-          "user_name": null
-        },
-        {
-          "booked_by": "Weber Felix",
-          "deleted": 0,
-          "deleted_at": null,
-          "end_date": "2026-09-29",
-          "id": 331,
-          "notes": "",
-          "project": "",
-          "resource_id": 24,
-          "resource_name": "HT VDE Installationstester Combi 521",
-          "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
-          "slot": "TAG",
-          "start_date": "2026-09-28",
           "user_id": null,
           "user_name": null
         }
@@ -7531,7 +7675,7 @@
       "notes": "4St Messstrippen, 1St Akku-Ladegerät, 1St Schuko-Adapter 230V ",
       "status": {
         "code": "out",
-        "detail": "Unterwegs bis 2026-09-25 · bei Felix Weber",
+        "detail": "Unterwegs bis 2026-09-29 · bei Felix Weber",
         "label": "Unterwegs"
       },
       "type": "Werkzeug"
@@ -8813,6 +8957,24 @@
           "start_date": "2026-09-01",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Hasan Ican",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-28",
+          "id": 354,
+          "notes": "",
+          "project": "",
+          "resource_id": 56,
+          "resource_name": "Bosch Akku Kabelschere GKH 18V-50",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-26",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -9291,9 +9453,9 @@
       "name": "Bosch Linienlaser 360° GLL 12V-100-33CG",
       "notes": "im Koffer mit Zubehör: 1St Akku 1607A3515C (Serien-Nr.431089934), 1St Deckenklemme 1600A02G16 (Serien-Nr.431036032), 1St Laserzieltafel, 1St Universalhalter 3601K92C00 (Serien-Nr.431007649), 1St Ladegerät GAL12V-40 (Serien-Nr.522080003)",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-09-25 · bei Dimitrios",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Dimitrios",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -9571,9 +9733,9 @@
       "name": "Bosch Stativ BT150 zu Linien-Laser",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-09-25 · bei Dimitrios",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Dimitrios",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -9908,6 +10070,24 @@
           "returned_at": "2026-09-23T12:36:10",
           "slot": "TAG",
           "start_date": "2026-09-21",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Quentin Richert",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-10-01",
+          "id": 352,
+          "notes": "",
+          "project": "",
+          "resource_id": 125,
+          "resource_name": "Eibenstock Diamantbohrmaschine (Dosensenker) EHD1500SET",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-30",
           "user_id": null,
           "user_name": null
         }
@@ -10499,8 +10679,8 @@
           "resource_id": 65,
           "resource_name": "Hilti Dornpresse NCR60 D22",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-24T16:05:42",
           "slot": "TAG",
           "start_date": "2026-09-22",
           "user_id": null,
@@ -10517,9 +10697,9 @@
       "name": "Hilti Dornpresse NCR60 D22",
       "notes": "im Koffer",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-09-30 · bei Felix Weber",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -11035,6 +11215,24 @@
           "returned_at": "2026-09-23T12:34:02",
           "slot": "TAG",
           "start_date": "2026-09-21",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Quentin Richert",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-10-01",
+          "id": 353,
+          "notes": "",
+          "project": "",
+          "resource_id": 95,
+          "resource_name": "Hilti Staubsauger VC20M-X",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-30",
           "user_id": null,
           "user_name": null
         }
@@ -11729,10 +11927,46 @@
           "resource_id": 36,
           "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
           "resource_type": "Werkzeug",
+          "returned": 1,
+          "returned_at": "2026-09-25T12:22:51",
+          "slot": "TAG",
+          "start_date": "2026-09-24",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Hasan Ican",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-26",
+          "id": 355,
+          "notes": "",
+          "project": "",
+          "resource_id": 36,
+          "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
+          "resource_type": "Werkzeug",
           "returned": 0,
           "returned_at": null,
           "slot": "TAG",
-          "start_date": "2026-09-24",
+          "start_date": "2026-09-26",
+          "user_id": null,
+          "user_name": null
+        },
+        {
+          "booked_by": "Felix Weber",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-30",
+          "id": 356,
+          "notes": "",
+          "project": "",
+          "resource_id": 36,
+          "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-28",
           "user_id": null,
           "user_name": null
         }
@@ -11747,9 +11981,9 @@
       "name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Philipp Kappler",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -11890,15 +12124,15 @@
           "booked_by": "Philipp Kappler",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-09-24",
+          "end_date": "2026-09-29",
           "id": 348,
           "notes": "",
           "project": "",
           "resource_id": 38,
           "resource_name": "Klauke Rohrkabelschuh-Presse K09",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-25T12:28:56",
           "slot": "TAG",
           "start_date": "2026-09-24",
           "user_id": null,
@@ -11915,9 +12149,9 @@
       "name": "Klauke Rohrkabelschuh-Presse K09",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Philipp Kappler",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -11966,7 +12200,7 @@
           "booked_by": "Felix Weber",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-09-25",
+          "end_date": "2026-10-02",
           "id": 217,
           "notes": "",
           "project": "",
@@ -11992,7 +12226,7 @@
       "notes": "",
       "status": {
         "code": "out",
-        "detail": "Unterwegs bis 2026-09-25 · bei Felix Weber",
+        "detail": "Unterwegs bis 2026-10-02 · bei Felix Weber",
         "label": "Unterwegs"
       },
       "type": "Werkzeug"
@@ -13027,6 +13261,24 @@
           "user_name": null
         },
         {
+          "booked_by": "Kirsch Marco",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-24",
+          "id": 350,
+          "notes": "",
+          "project": "Fahrt nach Saarbrücken / Dauer ca 2 Stunden",
+          "resource_id": 91,
+          "resource_name": "8 Sitzer",
+          "resource_type": "Fahrzeug",
+          "returned": 1,
+          "returned_at": "2026-09-24T16:05:32",
+          "slot": "TAG",
+          "start_date": "2026-09-24",
+          "user_id": null,
+          "user_name": null
+        },
+        {
           "booked_by": "Pascal Rivera Campos",
           "deleted": 0,
           "deleted_at": null,
@@ -13055,9 +13307,9 @@
       "name": "8 Sitzer",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-09-28 · bei Pascal Rivera Campos",
+        "label": "Unterwegs"
       },
       "type": "Fahrzeug"
     },
@@ -13383,9 +13635,9 @@
       "name": "ID Buzz",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-09-25 · bei Fabian Berger",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Fabian Berger",
+        "label": "Rückgabe heute"
       },
       "type": "Fahrzeug"
     },
@@ -13673,14 +13925,14 @@
       "name": "VW Crafter",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-09-25 · bei Pascal Rivera Campos",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Pascal Rivera Campos",
+        "label": "Rückgabe heute"
       },
       "type": "Fahrzeug"
     }
   ],
-  "today": "2026-09-24",
+  "today": "2026-09-25",
   "users": [
     {
       "active": 1,
