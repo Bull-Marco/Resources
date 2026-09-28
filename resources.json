@@ -3755,8 +3755,8 @@
       "resource_id": 139,
       "resource_name": "Bosch Laser GCL 2-50 G",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-28T08:19:08",
       "slot": "TAG",
       "start_date": "2026-09-01",
       "user_id": null,
@@ -3971,8 +3971,8 @@
       "resource_id": 128,
       "resource_name": "Bosch Linienlaser 360° GLL 12V-100-33CG",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-28T08:20:29",
       "slot": "TAG",
       "start_date": "2026-09-04",
       "user_id": null,
@@ -3989,8 +3989,8 @@
       "resource_id": 129,
       "resource_name": "Bosch Stativ BT150 zu Linien-Laser",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-28T08:20:30",
       "slot": "TAG",
       "start_date": "2026-09-04",
       "user_id": null,
@@ -4162,7 +4162,7 @@
       "booked_by": "Schneider",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-09-25",
+      "end_date": "2026-10-02",
       "id": 280,
       "notes": "Gerät muss ausgelesen werden !",
       "project": "ATEB 903162 ",
@@ -4781,8 +4781,8 @@
       "resource_id": 90,
       "resource_name": "VW Crafter",
       "resource_type": "Fahrzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-28T07:36:29",
       "slot": "TAG",
       "start_date": "2026-09-16",
       "user_id": null,
@@ -5159,8 +5159,8 @@
       "resource_id": 110,
       "resource_name": "Hilti Akku-Bohrhammer TE6-A-22",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-28T08:19:49",
       "slot": "TAG",
       "start_date": "2026-09-21",
       "user_id": null,
@@ -5278,7 +5278,7 @@
       "booked_by": "Fabian Berger",
       "deleted": 0,
       "deleted_at": null,
-      "end_date": "2026-09-25",
+      "end_date": "2026-09-30",
       "id": 337,
       "notes": "",
       "project": "",
@@ -5519,8 +5519,8 @@
       "resource_id": 56,
       "resource_name": "Bosch Akku Kabelschere GKH 18V-50",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-28T07:21:03",
       "slot": "TAG",
       "start_date": "2026-09-26",
       "user_id": null,
@@ -5537,8 +5537,8 @@
       "resource_id": 36,
       "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-28T07:08:27",
       "slot": "TAG",
       "start_date": "2026-09-26",
       "user_id": null,
@@ -5581,6 +5581,24 @@
       "user_name": null
     },
     {
+      "booked_by": "Jonathan Zöllner",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-10-02",
+      "id": 359,
+      "notes": "",
+      "project": "",
+      "resource_id": 138,
+      "resource_name": "Hilti handgeführtes Kernbohrgerät DD110",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-28",
+      "user_id": null,
+      "user_name": null
+    },
+    {
       "booked_by": "Felix Weber",
       "deleted": 0,
       "deleted_at": null,
@@ -5595,6 +5613,24 @@
       "returned_at": null,
       "slot": "TAG",
       "start_date": "2026-09-28",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Thomas Weber",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-10-02",
+      "id": 358,
+      "notes": "",
+      "project": "",
+      "resource_id": 39,
+      "resource_name": "Klauke Kerbzange K07",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-29",
       "user_id": null,
       "user_name": null
     },
@@ -5653,7 +5689,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-09-25T15:49:23",
+  "exported_at": "2026-09-28T08:22:07",
   "groups": [
     {
       "deleted": 0,
@@ -6556,9 +6592,9 @@
       "name": "Vevor Einziehband / Fiberglaskabel-Rad 150M D:7,9mm",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Emil Vollmar",
-        "label": "Rückgabe heute"
+        "code": "overdue",
+        "detail": "Überfällig seit 2026-09-25 · bei Emil Vollmar",
+        "label": "Überfällig"
       },
       "type": "Werkzeug"
     },
@@ -6715,7 +6751,7 @@
           "booked_by": "Schneider",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-09-25",
+          "end_date": "2026-10-02",
           "id": 280,
           "notes": "Gerät muss ausgelesen werden !",
           "project": "ATEB 903162 ",
@@ -6740,9 +6776,9 @@
       "name": "Amprobe Maschinen-Messgerät HT2034",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Schneider",
-        "label": "Rückgabe heute"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-10-02 · bei Schneider",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -7249,8 +7285,8 @@
           "resource_id": 139,
           "resource_name": "Bosch Laser GCL 2-50 G",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-28T08:19:08",
           "slot": "TAG",
           "start_date": "2026-09-01",
           "user_id": null,
@@ -7267,9 +7303,9 @@
       "name": "Bosch Laser GCL 2-50 G",
       "notes": "im Koffer mit Zubehör: 1St. RM10 (Serien-Nr.526001505), 1St. DK10 (Serien-Nr.524000104), 1St. Zieltafel",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Emil Vollmar",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -7379,9 +7415,9 @@
       "name": "Fluke Gerätetester 6500 Appliance Tester",
       "notes": "1St Kaltgerätestecker, 3St Prüfspitze",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-10-01 · bei Andreas Schneiders",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -7453,9 +7489,9 @@
       "name": "Fluke Gerätetester 6500-2 Appliance Tester",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-10-01 · bei Andreas Schneiders",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -8969,8 +9005,8 @@
           "resource_id": 56,
           "resource_name": "Bosch Akku Kabelschere GKH 18V-50",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-28T07:21:03",
           "slot": "TAG",
           "start_date": "2026-09-26",
           "user_id": null,
@@ -9435,8 +9471,8 @@
           "resource_id": 128,
           "resource_name": "Bosch Linienlaser 360° GLL 12V-100-33CG",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-28T08:20:29",
           "slot": "TAG",
           "start_date": "2026-09-04",
           "user_id": null,
@@ -9453,9 +9489,9 @@
       "name": "Bosch Linienlaser 360° GLL 12V-100-33CG",
       "notes": "im Koffer mit Zubehör: 1St Akku 1607A3515C (Serien-Nr.431089934), 1St Deckenklemme 1600A02G16 (Serien-Nr.431036032), 1St Laserzieltafel, 1St Universalhalter 3601K92C00 (Serien-Nr.431007649), 1St Ladegerät GAL12V-40 (Serien-Nr.522080003)",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Dimitrios",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -9715,8 +9751,8 @@
           "resource_id": 129,
           "resource_name": "Bosch Stativ BT150 zu Linien-Laser",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-28T08:20:30",
           "slot": "TAG",
           "start_date": "2026-09-04",
           "user_id": null,
@@ -9733,9 +9769,9 @@
       "name": "Bosch Stativ BT150 zu Linien-Laser",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Dimitrios",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -10291,8 +10327,8 @@
           "resource_id": 110,
           "resource_name": "Hilti Akku-Bohrhammer TE6-A-22",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-28T08:19:49",
           "slot": "TAG",
           "start_date": "2026-09-21",
           "user_id": null,
@@ -10309,9 +10345,9 @@
       "name": "Hilti Akku-Bohrhammer TE6-A-22",
       "notes": "im Koffer ohne Akku",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-10-09 · bei Dimitrios Zagklaris",
-        "label": "Unterwegs"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -11419,6 +11455,24 @@
           "start_date": "2026-09-19",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Jonathan Zöllner",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-10-02",
+          "id": 359,
+          "notes": "",
+          "project": "",
+          "resource_id": 138,
+          "resource_name": "Hilti handgeführtes Kernbohrgerät DD110",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-28",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -11431,9 +11485,9 @@
       "name": "Hilti handgeführtes Kernbohrgerät DD110",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-10-02 · bei Jonathan Zöllner",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -11945,8 +11999,8 @@
           "resource_id": 36,
           "resource_name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-28T07:08:27",
           "slot": "TAG",
           "start_date": "2026-09-26",
           "user_id": null,
@@ -11981,9 +12035,9 @@
       "name": "Klauke Akku Aderendhülsen-Presse EKWF120ML",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-09-30 · bei Felix Weber",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -12008,7 +12062,26 @@
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Thomas Weber",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-10-02",
+          "id": 358,
+          "notes": "",
+          "project": "",
+          "resource_id": 39,
+          "resource_name": "Klauke Kerbzange K07",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-29",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 8,
@@ -13307,9 +13380,9 @@
       "name": "8 Sitzer",
       "notes": "",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-09-28 · bei Pascal Rivera Campos",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Pascal Rivera Campos",
+        "label": "Rückgabe heute"
       },
       "type": "Fahrzeug"
     },
@@ -13574,7 +13647,7 @@
           "booked_by": "Fabian Berger",
           "deleted": 0,
           "deleted_at": null,
-          "end_date": "2026-09-25",
+          "end_date": "2026-09-30",
           "id": 337,
           "notes": "",
           "project": "",
@@ -13635,9 +13708,9 @@
       "name": "ID Buzz",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Fabian Berger",
-        "label": "Rückgabe heute"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-09-30 · bei Fabian Berger",
+        "label": "Unterwegs"
       },
       "type": "Fahrzeug"
     },
@@ -13907,8 +13980,8 @@
           "resource_id": 90,
           "resource_name": "VW Crafter",
           "resource_type": "Fahrzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-28T07:36:29",
           "slot": "TAG",
           "start_date": "2026-09-16",
           "user_id": null,
@@ -13920,19 +13993,19 @@
       "group_id": null,
       "group_name": null,
       "id": 90,
-      "inventory_no": "",
-      "location": "Homburg",
+      "inventory_no": "HOM-B-8321 / Fahrtenbuch",
+      "location": "",
       "name": "VW Crafter",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Pascal Rivera Campos",
-        "label": "Rückgabe heute"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Fahrzeug"
     }
   ],
-  "today": "2026-09-25",
+  "today": "2026-09-28",
   "users": [
     {
       "active": 1,
