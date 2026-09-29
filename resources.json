@@ -703,24 +703,6 @@
       "user_name": null
     },
     {
-      "booked_by": "Quentin Staub",
-      "deleted": 0,
-      "deleted_at": null,
-      "end_date": "2026-07-31",
-      "id": 58,
-      "notes": "",
-      "project": "Kubota",
-      "resource_id": 72,
-      "resource_name": "Würth Fallschutz Set 0899032103_04",
-      "resource_type": "Werkzeug",
-      "returned": 1,
-      "returned_at": "2026-07-20T14:03:07",
-      "slot": "TAG",
-      "start_date": "2026-06-24",
-      "user_id": null,
-      "user_name": null
-    },
-    {
       "booked_by": "Jonathan Zöllner",
       "deleted": 0,
       "deleted_at": null,
@@ -5833,7 +5815,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-09-29T13:58:13",
+  "exported_at": "2026-09-29T14:00:22",
   "groups": [
     {
       "deleted": 0,
@@ -13379,24 +13361,6 @@
     {
       "archived": 0,
       "bookings": [
-        {
-          "booked_by": "Quentin Staub",
-          "deleted": 0,
-          "deleted_at": null,
-          "end_date": "2026-07-31",
-          "id": 58,
-          "notes": "",
-          "project": "Kubota",
-          "resource_id": 72,
-          "resource_name": "Würth Fallschutz Set 0899032103_04",
-          "resource_type": "Werkzeug",
-          "returned": 1,
-          "returned_at": "2026-07-20T14:03:07",
-          "slot": "TAG",
-          "start_date": "2026-06-24",
-          "user_id": null,
-          "user_name": null
-        },
         {
           "booked_by": "Quentin Staub",
           "deleted": 0,
