@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-29T15:49:25+02:00",
+  "exported_at": "2026-09-29T15:49:50+02:00",
   "today": "2026-09-29",
   "resources": [
     {
@@ -94,7 +94,7 @@
           "id": 349,
           "resource_id": 91,
           "start_date": "2026-09-25",
-          "end_date": "2026-09-28",
+          "end_date": "2026-09-30",
           "slot": "TAG",
           "booked_by": "Pascal Rivera Campos",
           "user_id": 8,
@@ -108,9 +108,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-09-28 · bei Pascal Rivera Campos"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-09-30 · bei Pascal Rivera Campos"
       }
     },
     {
