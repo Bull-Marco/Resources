@@ -5833,6 +5833,24 @@
       "user_name": null
     },
     {
+      "booked_by": "Gero Lind",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-10-01",
+      "id": 371,
+      "notes": "",
+      "project": "",
+      "resource_id": 28,
+      "resource_name": "Testboy Digitaler-Luxmeter TV332",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-30",
+      "user_id": null,
+      "user_name": null
+    },
+    {
       "booked_by": "Jörg Schneider",
       "deleted": 0,
       "deleted_at": null,
@@ -5851,7 +5869,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-09-29T13:16:28",
+  "exported_at": "2026-09-29T13:45:42",
   "groups": [
     {
       "deleted": 0,
@@ -8122,7 +8140,26 @@
     },
     {
       "archived": 0,
-      "bookings": [],
+      "bookings": [
+        {
+          "booked_by": "Gero Lind",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-10-01",
+          "id": 371,
+          "notes": "",
+          "project": "",
+          "resource_id": 28,
+          "resource_name": "Testboy Digitaler-Luxmeter TV332",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-30",
+          "user_id": null,
+          "user_name": null
+        }
+      ],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 4,
