@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-29T23:56:13+02:00",
-  "today": "2026-09-29",
+  "exported_at": "2026-09-30T00:03:13+02:00",
+  "today": "2026-09-30",
   "resources": [
     {
       "id": 91,
@@ -108,9 +108,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-09-30 · bei Pascal Rivera Campos"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Pascal Rivera Campos"
       }
     },
     {
@@ -803,9 +803,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-09-30 · bei Gero Lind"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Gero Lind"
       }
     },
     {
@@ -1088,9 +1088,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-09-30 · bei Felix Weber"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Felix Weber"
       }
     },
     {
@@ -1418,9 +1418,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Fabian Berger"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-09-29 · bei Fabian Berger"
       }
     },
     {
@@ -2120,9 +2120,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-01 · bei Quentin Richert"
       }
     },
     {
@@ -2208,9 +2208,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-09-30 · bei Dat"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Dat"
       }
     },
     {
@@ -3301,9 +3301,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-01 · bei Quentin Richert"
       }
     },
     {
@@ -3714,9 +3714,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Felix Weber"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-09-29 · bei Felix Weber"
       }
     },
     {
@@ -4374,9 +4374,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jörg Schneider"
       }
     },
     {
@@ -4964,9 +4964,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-09-30 · bei Weber Felix"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Weber Felix"
       }
     },
     {
@@ -5103,9 +5103,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-09-30 · bei Miko Nikolaus"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Miko Nikolaus"
       }
     },
     {
@@ -5531,9 +5531,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-01 · bei Gero Lind"
       }
     },
     {
@@ -6550,9 +6550,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-09-30 · bei Richert Quentin"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Richert Quentin"
       }
     },
     {
@@ -6615,9 +6615,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Christian Montag"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-09-29 · bei Christian Montag"
       }
     },
     {
