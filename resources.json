@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-29T15:13:32+02:00",
+  "exported_at": "2026-09-29T15:17:51+02:00",
   "today": "2026-09-29",
   "resources": [
     {
@@ -7194,6 +7194,36 @@
           "deleted": 0,
           "deleted_at": null,
           "user_name": "Jonathan Zöllner"
+        },
+        {
+          "id": 373,
+          "resource_id": 98,
+          "start_date": "2026-10-15",
+          "end_date": "2026-10-15",
+          "slot": "TAG",
+          "booked_by": "marco",
+          "user_id": null,
+          "project": "test",
+          "notes": "test",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 374,
+          "resource_id": 98,
+          "start_date": "2026-10-20",
+          "end_date": "2026-10-20",
+          "slot": "TAG",
+          "booked_by": "marco",
+          "user_id": null,
+          "project": "test",
+          "notes": "test",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
