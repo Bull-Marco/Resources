@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-29T15:17:51+02:00",
+  "exported_at": "2026-09-29T15:49:25+02:00",
   "today": "2026-09-29",
   "resources": [
     {
@@ -3977,8 +3977,8 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-29T15:48:24",
           "deleted": 0,
           "deleted_at": null
         },
@@ -4014,9 +4014,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-09-30 · bei Fabian Berger"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -7205,8 +7205,8 @@
           "user_id": null,
           "project": "test",
           "notes": "test",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-29T15:26:52",
           "deleted": 0,
           "deleted_at": null
         },
