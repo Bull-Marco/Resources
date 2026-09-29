@@ -955,24 +955,6 @@
       "user_name": null
     },
     {
-      "booked_by": "Quentin Staub",
-      "deleted": 0,
-      "deleted_at": null,
-      "end_date": "2026-06-19",
-      "id": 39,
-      "notes": "",
-      "project": "Festo",
-      "resource_id": 72,
-      "resource_name": "Würth Fallschutz Set 0899032103_04",
-      "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
-      "slot": "TAG",
-      "start_date": "2026-07-03",
-      "user_id": null,
-      "user_name": null
-    },
-    {
       "booked_by": "Sascha Felten",
       "deleted": 0,
       "deleted_at": null,
@@ -5815,7 +5797,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-09-29T14:00:22",
+  "exported_at": "2026-09-29T14:08:46",
   "groups": [
     {
       "deleted": 0,
@@ -13362,24 +13344,6 @@
       "archived": 0,
       "bookings": [
         {
-          "booked_by": "Quentin Staub",
-          "deleted": 0,
-          "deleted_at": null,
-          "end_date": "2026-06-19",
-          "id": 39,
-          "notes": "",
-          "project": "Festo",
-          "resource_id": 72,
-          "resource_name": "Würth Fallschutz Set 0899032103_04",
-          "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
-          "slot": "TAG",
-          "start_date": "2026-07-03",
-          "user_id": null,
-          "user_name": null
-        },
-        {
           "booked_by": "Gero Lind",
           "deleted": 0,
           "deleted_at": null,
@@ -13444,9 +13408,9 @@
       "name": "Würth Fallschutz Set 0899032103_04",
       "notes": "",
       "status": {
-        "code": "overdue",
-        "detail": "Überfällig seit 2026-06-19 · bei Quentin Staub",
-        "label": "Überfällig"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
