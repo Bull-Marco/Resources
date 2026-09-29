@@ -5581,6 +5581,42 @@
       "user_name": null
     },
     {
+      "booked_by": "Gero Lind",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-30",
+      "id": 362,
+      "notes": "",
+      "project": "",
+      "resource_id": 16,
+      "resource_name": "Benning VDE Installationstester IT115",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-28",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Fabian Berger",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-29",
+      "id": 361,
+      "notes": "",
+      "project": "",
+      "resource_id": 139,
+      "resource_name": "Bosch Laser GCL 2-50 G",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-28",
+      "user_id": null,
+      "user_name": null
+    },
+    {
       "booked_by": "Jonathan Zöllner",
       "deleted": 0,
       "deleted_at": null,
@@ -5621,11 +5657,137 @@
       "deleted": 0,
       "deleted_at": null,
       "end_date": "2026-10-02",
-      "id": 358,
+      "id": 368,
       "notes": "",
       "project": "",
-      "resource_id": 39,
-      "resource_name": "Klauke Kerbzange K07",
+      "resource_id": 38,
+      "resource_name": "Klauke Rohrkabelschuh-Presse K09",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-28",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Christian Montag",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-29",
+      "id": 360,
+      "notes": "",
+      "project": "",
+      "resource_id": 109,
+      "resource_name": "Würth Auspresspistole H297WIN",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-28",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Gero Lind",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-10-09",
+      "id": 363,
+      "notes": "",
+      "project": "",
+      "resource_id": 34,
+      "resource_name": "Würth Fallschutz Set 0899032103_02",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-28",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Gero Lind",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-10-09",
+      "id": 364,
+      "notes": "",
+      "project": "",
+      "resource_id": 71,
+      "resource_name": "Würth Fallschutz Set 0899032103_03",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-28",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Felix Weber",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-30",
+      "id": 369,
+      "notes": "",
+      "project": "",
+      "resource_id": 64,
+      "resource_name": "Bosch Akku Presszange GPH18V-60",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-29",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-29",
+      "id": 365,
+      "notes": "",
+      "project": "",
+      "resource_id": 61,
+      "resource_name": "Bosch Schlitzfräse GNF35CA",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-29",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-29",
+      "id": 366,
+      "notes": "",
+      "project": "",
+      "resource_id": 125,
+      "resource_name": "Eibenstock Diamantbohrmaschine (Dosensenker) EHD1500SET",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-29",
+      "user_id": null,
+      "user_name": null
+    },
+    {
+      "booked_by": "Philipp Kappler",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-09-29",
+      "id": 367,
+      "notes": "",
+      "project": "",
+      "resource_id": 95,
+      "resource_name": "Hilti Staubsauger VC20M-X",
       "resource_type": "Werkzeug",
       "returned": 0,
       "returned_at": null,
@@ -5689,7 +5851,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-09-28T09:00:10",
+  "exported_at": "2026-09-29T13:13:50",
   "groups": [
     {
       "deleted": 0,
@@ -7253,6 +7415,24 @@
           "start_date": "2026-09-24",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Gero Lind",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-30",
+          "id": 362,
+          "notes": "",
+          "project": "",
+          "resource_id": 16,
+          "resource_name": "Benning VDE Installationstester IT115",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-28",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -7265,9 +7445,9 @@
       "name": "Benning VDE Installationstester IT115",
       "notes": "1St Ladegerät, 1St 3-Leiter Prüfleitung, 1St Prüfkabel mit Schukostecker, 1St Krokodilklemmen sw/blau/grün",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-09-30 · bei Gero Lind",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -7291,6 +7471,24 @@
           "start_date": "2026-09-01",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Fabian Berger",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-29",
+          "id": 361,
+          "notes": "",
+          "project": "",
+          "resource_id": 139,
+          "resource_name": "Bosch Laser GCL 2-50 G",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-28",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -7303,9 +7501,9 @@
       "name": "Bosch Laser GCL 2-50 G",
       "notes": "im Koffer mit Zubehör: 1St. RM10 (Serien-Nr.526001505), 1St. DK10 (Serien-Nr.524000104), 1St. Zieltafel",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Fabian Berger",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -7710,9 +7908,9 @@
       "name": "HT VDE Installationstester Combi 521",
       "notes": "4St Messstrippen, 1St Akku-Ladegerät, 1St Schuko-Adapter 230V ",
       "status": {
-        "code": "out",
-        "detail": "Unterwegs bis 2026-09-29 · bei Felix Weber",
-        "label": "Unterwegs"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Felix Weber",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -9105,6 +9303,24 @@
           "start_date": "2026-06-19",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Felix Weber",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-30",
+          "id": 369,
+          "notes": "",
+          "project": "",
+          "resource_id": 64,
+          "resource_name": "Bosch Akku Presszange GPH18V-60",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-29",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -9117,9 +9333,9 @@
       "name": "Bosch Akku Presszange GPH18V-60",
       "notes": "im Koffer mit Zubehör: Crimp-Einsätze Alu 95²/120²/300² und Kupfer 95²/150²/240²/300² ",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-09-30 · bei Felix Weber",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -9719,6 +9935,24 @@
           "start_date": "2026-08-31",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-29",
+          "id": 365,
+          "notes": "",
+          "project": "",
+          "resource_id": 61,
+          "resource_name": "Bosch Schlitzfräse GNF35CA",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-29",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -9731,9 +9965,9 @@
       "name": "Bosch Schlitzfräse GNF35CA",
       "notes": "im Koffer",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Philipp Kappler",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -10110,6 +10344,24 @@
           "user_name": null
         },
         {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-29",
+          "id": 366,
+          "notes": "",
+          "project": "",
+          "resource_id": 125,
+          "resource_name": "Eibenstock Diamantbohrmaschine (Dosensenker) EHD1500SET",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-29",
+          "user_id": null,
+          "user_name": null
+        },
+        {
           "booked_by": "Quentin Richert",
           "deleted": 0,
           "deleted_at": null,
@@ -10138,9 +10390,9 @@
       "name": "Eibenstock Diamantbohrmaschine (Dosensenker) EHD1500SET",
       "notes": "im Koffer inkl. Staubabsaugung HB und Bohrkrone",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Philipp Kappler",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -11255,6 +11507,24 @@
           "user_name": null
         },
         {
+          "booked_by": "Philipp Kappler",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-29",
+          "id": 367,
+          "notes": "",
+          "project": "",
+          "resource_id": 95,
+          "resource_name": "Hilti Staubsauger VC20M-X",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-29",
+          "user_id": null,
+          "user_name": null
+        },
+        {
           "booked_by": "Quentin Richert",
           "deleted": 0,
           "deleted_at": null,
@@ -11283,9 +11553,9 @@
       "name": "Hilti Staubsauger VC20M-X",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Philipp Kappler",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -12062,26 +12332,7 @@
     },
     {
       "archived": 0,
-      "bookings": [
-        {
-          "booked_by": "Thomas Weber",
-          "deleted": 0,
-          "deleted_at": null,
-          "end_date": "2026-10-02",
-          "id": 358,
-          "notes": "",
-          "project": "",
-          "resource_id": 39,
-          "resource_name": "Klauke Kerbzange K07",
-          "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
-          "slot": "TAG",
-          "start_date": "2026-09-29",
-          "user_id": null,
-          "user_name": null
-        }
-      ],
+      "bookings": [],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 8,
@@ -12210,6 +12461,24 @@
           "start_date": "2026-09-24",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Thomas Weber",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-10-02",
+          "id": 368,
+          "notes": "",
+          "project": "",
+          "resource_id": 38,
+          "resource_name": "Klauke Rohrkabelschuh-Presse K09",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-28",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -12222,9 +12491,9 @@
       "name": "Klauke Rohrkabelschuh-Presse K09",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-10-02 · bei Thomas Weber",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -12550,6 +12819,24 @@
           "start_date": "2026-09-17",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Christian Montag",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-09-29",
+          "id": 360,
+          "notes": "",
+          "project": "",
+          "resource_id": 109,
+          "resource_name": "Würth Auspresspistole H297WIN",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-28",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -12562,9 +12849,9 @@
       "name": "Würth Auspresspistole H297WIN",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "due",
+        "detail": "Rückgabe heute · bei Christian Montag",
+        "label": "Rückgabe heute"
       },
       "type": "Werkzeug"
     },
@@ -12942,6 +13229,24 @@
           "start_date": "2026-08-31",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Gero Lind",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-10-09",
+          "id": 363,
+          "notes": "",
+          "project": "",
+          "resource_id": 34,
+          "resource_name": "Würth Fallschutz Set 0899032103_02",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-28",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -12954,9 +13259,9 @@
       "name": "Würth Fallschutz Set 0899032103_02",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-10-09 · bei Gero Lind",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -13016,6 +13321,24 @@
           "start_date": "2026-09-16",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Gero Lind",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-10-09",
+          "id": 364,
+          "notes": "",
+          "project": "",
+          "resource_id": 71,
+          "resource_name": "Würth Fallschutz Set 0899032103_03",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-28",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -13028,9 +13351,9 @@
       "name": "Würth Fallschutz Set 0899032103_03",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-10-09 · bei Gero Lind",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -13380,9 +13703,9 @@
       "name": "8 Sitzer",
       "notes": "",
       "status": {
-        "code": "due",
-        "detail": "Rückgabe heute · bei Pascal Rivera Campos",
-        "label": "Rückgabe heute"
+        "code": "overdue",
+        "detail": "Überfällig seit 2026-09-28 · bei Pascal Rivera Campos",
+        "label": "Überfällig"
       },
       "type": "Fahrzeug"
     },
@@ -14005,7 +14328,7 @@
       "type": "Fahrzeug"
     }
   ],
-  "today": "2026-09-28",
+  "today": "2026-09-29",
   "users": [
     {
       "active": 1,
