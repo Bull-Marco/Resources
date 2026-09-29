@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-29T16:07:13+02:00",
+  "exported_at": "2026-09-29T16:14:13+02:00",
   "today": "2026-09-29",
   "resources": [
     {
@@ -4352,6 +4352,36 @@
           "user_id": null,
           "project": "",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-09-29T16:07:41",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 375,
+          "resource_id": 36,
+          "start_date": "2026-09-30",
+          "end_date": "2026-09-30",
+          "slot": "TAG",
+          "booked_by": "Jörg Schneider",
+          "user_id": null,
+          "project": "Wipotec Worms",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 376,
+          "resource_id": 36,
+          "start_date": "2026-10-02",
+          "end_date": "2026-10-02",
+          "slot": "TAG",
+          "booked_by": "Philipp Kappler",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -4359,9 +4389,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-09-30 · bei Felix Weber"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
