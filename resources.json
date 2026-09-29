@@ -325,60 +325,6 @@
       "user_name": null
     },
     {
-      "booked_by": "Quentin Staub",
-      "deleted": 0,
-      "deleted_at": null,
-      "end_date": "2026-07-31",
-      "id": 40,
-      "notes": "",
-      "project": "Festo",
-      "resource_id": 73,
-      "resource_name": "Würth Fallschutz Set 0899032103_05",
-      "resource_type": "Werkzeug",
-      "returned": 1,
-      "returned_at": "2026-07-20T13:59:05",
-      "slot": "TAG",
-      "start_date": "2026-06-19",
-      "user_id": null,
-      "user_name": null
-    },
-    {
-      "booked_by": "Quentin Staub",
-      "deleted": 0,
-      "deleted_at": null,
-      "end_date": "2026-07-31",
-      "id": 41,
-      "notes": "",
-      "project": "Festo",
-      "resource_id": 74,
-      "resource_name": "Würth Fallschutz Set 0899032103_06",
-      "resource_type": "Werkzeug",
-      "returned": 1,
-      "returned_at": "2026-07-20T13:59:09",
-      "slot": "TAG",
-      "start_date": "2026-06-19",
-      "user_id": null,
-      "user_name": null
-    },
-    {
-      "booked_by": "Quentin Staub",
-      "deleted": 0,
-      "deleted_at": null,
-      "end_date": "2026-07-31",
-      "id": 42,
-      "notes": "",
-      "project": "Festo",
-      "resource_id": 75,
-      "resource_name": "Würth Fallschutz Set 0899032103_07",
-      "resource_type": "Werkzeug",
-      "returned": 1,
-      "returned_at": "2026-09-29T13:16:15",
-      "slot": "TAG",
-      "start_date": "2026-06-19",
-      "user_id": null,
-      "user_name": null
-    },
-    {
       "booked_by": "Danny Spang",
       "deleted": 0,
       "deleted_at": null,
@@ -443,8 +389,8 @@
       "resource_id": 20,
       "resource_name": "HT Wärmebildkamera THT42",
       "resource_type": "Werkzeug",
-      "returned": 0,
-      "returned_at": null,
+      "returned": 1,
+      "returned_at": "2026-09-29T13:58:10",
       "slot": "TAG",
       "start_date": "2026-06-22",
       "user_id": null,
@@ -5797,6 +5743,24 @@
       "user_name": null
     },
     {
+      "booked_by": "Schneider",
+      "deleted": 0,
+      "deleted_at": null,
+      "end_date": "2026-10-09",
+      "id": 372,
+      "notes": "",
+      "project": "",
+      "resource_id": 15,
+      "resource_name": "Janitza Netzanalysator UMG 604 (Wandlermessgerät)",
+      "resource_type": "Werkzeug",
+      "returned": 0,
+      "returned_at": null,
+      "slot": "TAG",
+      "start_date": "2026-09-29",
+      "user_id": null,
+      "user_name": null
+    },
+    {
       "booked_by": "Quentin Richert",
       "deleted": 0,
       "deleted_at": null,
@@ -5869,7 +5833,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-09-29T13:45:42",
+  "exported_at": "2026-09-29T13:58:13",
   "groups": [
     {
       "deleted": 0,
@@ -8002,8 +7966,8 @@
           "resource_id": 20,
           "resource_name": "HT Wärmebildkamera THT42",
           "resource_type": "Werkzeug",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-29T13:58:10",
           "slot": "TAG",
           "start_date": "2026-06-22",
           "user_id": null,
@@ -8020,9 +7984,9 @@
       "name": "HT Wärmebildkamera THT42",
       "notes": "1St Blendschutz, 1St Netzteil, 1St USB-Kabel, 1St Kartenlese Adapter",
       "status": {
-        "code": "overdue",
-        "detail": "Überfällig seit 2026-06-26 · bei Christian Montag",
-        "label": "Überfällig"
+        "code": "available",
+        "detail": "Verfügbar",
+        "label": "Verfügbar"
       },
       "type": "Werkzeug"
     },
@@ -8082,6 +8046,24 @@
           "start_date": "2026-08-05",
           "user_id": null,
           "user_name": null
+        },
+        {
+          "booked_by": "Schneider",
+          "deleted": 0,
+          "deleted_at": null,
+          "end_date": "2026-10-09",
+          "id": 372,
+          "notes": "",
+          "project": "",
+          "resource_id": 15,
+          "resource_name": "Janitza Netzanalysator UMG 604 (Wandlermessgerät)",
+          "resource_type": "Werkzeug",
+          "returned": 0,
+          "returned_at": null,
+          "slot": "TAG",
+          "start_date": "2026-09-29",
+          "user_id": null,
+          "user_name": null
         }
       ],
       "deleted": 0,
@@ -8094,9 +8076,9 @@
       "name": "Janitza Netzanalysator UMG 604 (Wandlermessgerät)",
       "notes": "",
       "status": {
-        "code": "available",
-        "detail": "Verfügbar",
-        "label": "Verfügbar"
+        "code": "out",
+        "detail": "Unterwegs bis 2026-10-09 · bei Schneider",
+        "label": "Unterwegs"
       },
       "type": "Werkzeug"
     },
@@ -13506,26 +13488,7 @@
     },
     {
       "archived": 0,
-      "bookings": [
-        {
-          "booked_by": "Quentin Staub",
-          "deleted": 0,
-          "deleted_at": null,
-          "end_date": "2026-07-31",
-          "id": 40,
-          "notes": "",
-          "project": "Festo",
-          "resource_id": 73,
-          "resource_name": "Würth Fallschutz Set 0899032103_05",
-          "resource_type": "Werkzeug",
-          "returned": 1,
-          "returned_at": "2026-07-20T13:59:05",
-          "slot": "TAG",
-          "start_date": "2026-06-19",
-          "user_id": null,
-          "user_name": null
-        }
-      ],
+      "bookings": [],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 7,
@@ -13544,26 +13507,7 @@
     },
     {
       "archived": 0,
-      "bookings": [
-        {
-          "booked_by": "Quentin Staub",
-          "deleted": 0,
-          "deleted_at": null,
-          "end_date": "2026-07-31",
-          "id": 41,
-          "notes": "",
-          "project": "Festo",
-          "resource_id": 74,
-          "resource_name": "Würth Fallschutz Set 0899032103_06",
-          "resource_type": "Werkzeug",
-          "returned": 1,
-          "returned_at": "2026-07-20T13:59:09",
-          "slot": "TAG",
-          "start_date": "2026-06-19",
-          "user_id": null,
-          "user_name": null
-        }
-      ],
+      "bookings": [],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 7,
@@ -13582,26 +13526,7 @@
     },
     {
       "archived": 0,
-      "bookings": [
-        {
-          "booked_by": "Quentin Staub",
-          "deleted": 0,
-          "deleted_at": null,
-          "end_date": "2026-07-31",
-          "id": 42,
-          "notes": "",
-          "project": "Festo",
-          "resource_id": 75,
-          "resource_name": "Würth Fallschutz Set 0899032103_07",
-          "resource_type": "Werkzeug",
-          "returned": 1,
-          "returned_at": "2026-09-29T13:16:15",
-          "slot": "TAG",
-          "start_date": "2026-06-19",
-          "user_id": null,
-          "user_name": null
-        }
-      ],
+      "bookings": [],
       "deleted": 0,
       "deleted_at": null,
       "group_id": 7,
