@@ -372,7 +372,7 @@
       "resource_name": "Würth Fallschutz Set 0899032103_07",
       "resource_type": "Werkzeug",
       "returned": 1,
-      "returned_at": "2026-07-20T14:03:00",
+      "returned_at": "2026-09-29T13:16:15",
       "slot": "TAG",
       "start_date": "2026-06-19",
       "user_id": null,
@@ -5851,7 +5851,7 @@
       "user_name": null
     }
   ],
-  "exported_at": "2026-09-29T13:13:50",
+  "exported_at": "2026-09-29T13:16:28",
   "groups": [
     {
       "deleted": 0,
@@ -13558,7 +13558,7 @@
           "resource_name": "Würth Fallschutz Set 0899032103_07",
           "resource_type": "Werkzeug",
           "returned": 1,
-          "returned_at": "2026-07-20T14:03:00",
+          "returned_at": "2026-09-29T13:16:15",
           "slot": "TAG",
           "start_date": "2026-06-19",
           "user_id": null,
