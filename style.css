@@ -200,3 +200,61 @@ footer{
     font-size:22px;
   }
 }
+
+
+/* Zusatzfunktion: aufklappbare, anonymisierte Terminansicht */
+.card{cursor:pointer}
+.card:focus-visible{outline:3px solid #169bd755;outline-offset:2px}
+.availabilityToggle{
+  margin-top:11px;
+  padding-top:10px;
+  border-top:1px solid var(--line);
+  color:#36516f;
+  font-size:12px;
+  font-weight:800;
+}
+.availabilityWrap{cursor:default}
+.availabilityPanel{
+  margin-top:10px;
+  padding:11px;
+  background:#f8fafc;
+  border:1px solid #e3eaf3;
+  border-radius:11px;
+}
+.availabilityTitle{
+  font-size:12px;
+  font-weight:900;
+  color:#20304a;
+  margin-bottom:8px;
+  text-transform:uppercase;
+  letter-spacing:.04em;
+}
+.availabilityList{display:grid;gap:6px}
+.availabilityRow{
+  display:flex;
+  gap:9px;
+  align-items:flex-start;
+  padding:8px 9px;
+  background:white;
+  border:1px solid #e7edf5;
+  border-radius:9px;
+}
+.blockDot{
+  width:9px;height:9px;border-radius:50%;
+  background:var(--red);
+  margin-top:4px;
+  flex:0 0 auto;
+}
+.availabilityRow b{display:block;font-size:13px}
+.availabilityRow span:not(.blockDot){
+  display:block;
+  margin-top:2px;
+  color:var(--muted);
+  font-size:12px;
+}
+.availabilityHint,.availabilityEmpty{
+  margin-top:8px;
+  color:var(--muted);
+  font-size:12px;
+}
+.availabilityEmpty{margin-top:0}
