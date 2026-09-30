@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-30T23:58:13+02:00",
-  "today": "2026-09-30",
+  "exported_at": "2026-10-01T00:05:13+02:00",
+  "today": "2026-10-01",
   "resources": [
     {
       "id": 91,
@@ -369,9 +369,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Sascha Feltes"
       }
     },
     {
@@ -1299,9 +1299,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-07 · bei Quentin Richert"
       }
     },
     {
@@ -2165,9 +2165,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-01 · bei Quentin Richert"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Quentin Richert"
       }
     },
     {
@@ -3391,9 +3391,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-01 · bei Quentin Richert"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Quentin Richert"
       }
     },
     {
@@ -4138,9 +4138,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Julia Wegner"
       }
     },
     {
@@ -4513,9 +4513,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Jörg Schneider"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-09-30 · bei Jörg Schneider"
       }
     },
     {
@@ -5685,9 +5685,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-01 · bei Gero Lind"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Gero Lind"
       }
     },
     {
@@ -6495,9 +6495,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Felix Weber"
       }
     },
     {
@@ -6749,9 +6749,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Richert Quentin"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-09-30 · bei Richert Quentin"
       }
     },
     {
