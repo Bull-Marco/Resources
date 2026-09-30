@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-30T15:20:12+02:00",
+  "exported_at": "2026-09-30T15:27:14+02:00",
   "today": "2026-09-30",
   "resources": [
     {
@@ -6010,8 +6010,8 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-30T15:20:19",
           "deleted": 0,
           "deleted_at": null
         },
