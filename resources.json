@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-30T15:06:15+02:00",
+  "exported_at": "2026-09-30T15:13:12+02:00",
   "today": "2026-09-30",
   "resources": [
     {
@@ -811,16 +811,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-30T15:11:46",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Gero Lind"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -4588,7 +4588,7 @@
           "id": 318,
           "resource_id": 37,
           "start_date": "2026-09-17",
-          "end_date": "2026-10-02",
+          "end_date": "2026-10-07",
           "slot": "TAG",
           "booked_by": "Mirko Nikolaus",
           "user_id": null,
@@ -4603,7 +4603,7 @@
       "status": {
         "code": "out",
         "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-02 · bei Mirko Nikolaus"
+        "detail": "Unterwegs bis 2026-10-07 · bei Mirko Nikolaus"
       }
     },
     {
@@ -5229,7 +5229,7 @@
           "id": 235,
           "resource_id": 80,
           "start_date": "2026-08-31",
-          "end_date": "2026-09-30",
+          "end_date": "2026-10-05",
           "slot": "TAG",
           "booked_by": "Miko Nikolaus",
           "user_id": null,
@@ -5242,9 +5242,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Miko Nikolaus"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-05 · bei Miko Nikolaus"
       }
     },
     {
