@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-30T13:42:15+02:00",
+  "exported_at": "2026-09-30T13:49:13+02:00",
   "today": "2026-09-30",
   "resources": [
     {
@@ -2250,12 +2250,27 @@
           "returned_at": "2026-09-30T10:07:21",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 388,
+          "resource_id": 14,
+          "start_date": "2026-09-30",
+          "end_date": "2026-10-02",
+          "slot": "TAG",
+          "booked_by": "Dat Nguyen",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-02 · bei Dat Nguyen"
       }
     },
     {
