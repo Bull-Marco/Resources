@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-30T11:22:13+02:00",
+  "exported_at": "2026-09-30T11:29:13+02:00",
   "today": "2026-09-30",
   "resources": [
     {
@@ -5943,6 +5943,21 @@
           "end_date": "2026-10-02",
           "slot": "TAG",
           "booked_by": "Jörg Schneider - zum auslesen",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 386,
+          "resource_id": 19,
+          "start_date": "2026-10-05",
+          "end_date": "2026-10-09",
+          "slot": "TAG",
+          "booked_by": "Emanuel Klotz",
           "user_id": null,
           "project": "",
           "notes": "",
