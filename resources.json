@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-30T12:32:13+02:00",
+  "exported_at": "2026-09-30T12:39:15+02:00",
   "today": "2026-09-30",
   "resources": [
     {
@@ -100,17 +100,17 @@
           "user_id": 8,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-09-30T12:32:13",
           "deleted": 0,
           "deleted_at": null,
           "user_name": "Pascal Rivera Campos"
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Pascal Rivera Campos"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -3823,6 +3823,25 @@
           "deleted_at": null
         }
       ],
+      "status": {
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
+      }
+    },
+    {
+      "id": 142,
+      "name": "HT Wallbox Messadapter EV-Test 100",
+      "type": "Werkzeug",
+      "group_id": 4,
+      "inventory_no": "22097568",
+      "location": "Pirmasens",
+      "notes": "im Koffer mit Messleitung 1St.C100EV (1011270)",
+      "archived": 0,
+      "deleted": 0,
+      "group_name": "Messgeräte",
+      "group_type": "Werkzeuggruppe",
+      "bookings": [],
       "status": {
         "code": "available",
         "label": "Verfügbar",
