@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-30T11:36:14+02:00",
+  "exported_at": "2026-09-30T11:43:13+02:00",
   "today": "2026-09-30",
   "resources": [
     {
@@ -349,6 +349,21 @@
           "notes": "",
           "returned": 1,
           "returned_at": "2026-09-04T15:47:52",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 387,
+          "resource_id": 107,
+          "start_date": "2026-10-01",
+          "end_date": "2026-10-01",
+          "slot": "TAG",
+          "booked_by": "Sascha Feltes",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
           "deleted": 0,
           "deleted_at": null
         }
