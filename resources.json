@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-30T09:51:14+02:00",
+  "exported_at": "2026-09-30T09:58:13+02:00",
   "today": "2026-09-30",
   "resources": [
     {
@@ -1264,6 +1264,21 @@
           "notes": "",
           "returned": 1,
           "returned_at": "2026-09-07T09:47:36",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 383,
+          "resource_id": 89,
+          "start_date": "2026-10-01",
+          "end_date": "2026-10-07",
+          "slot": "TAG",
+          "booked_by": "Quentin Richert",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
           "deleted": 0,
           "deleted_at": null
         }
