@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-30T09:37:13+02:00",
+  "exported_at": "2026-09-30T09:44:13+02:00",
   "today": "2026-09-30",
   "resources": [
     {
@@ -4026,6 +4026,21 @@
           "returned_at": null,
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 382,
+          "resource_id": 92,
+          "start_date": "2026-10-09",
+          "end_date": "2026-10-19",
+          "slot": "TAG",
+          "booked_by": "Emanuel Klotz",
+          "user_id": null,
+          "project": "6.00 Uhr =>Schlüssel rauslegen",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
@@ -6336,6 +6351,21 @@
           "notes": "in Pirmasens",
           "returned": 1,
           "returned_at": "2026-09-28T07:36:29",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 381,
+          "resource_id": 90,
+          "start_date": "2026-10-01",
+          "end_date": "2026-10-01",
+          "slot": "TAG",
+          "booked_by": "Felix Weber",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
           "deleted": 0,
           "deleted_at": null
         }
