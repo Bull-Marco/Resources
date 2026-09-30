@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-30T13:56:13+02:00",
+  "exported_at": "2026-09-30T14:03:15+02:00",
   "today": "2026-09-30",
   "resources": [
     {
@@ -2367,12 +2367,12 @@
           "deleted_at": null
         },
         {
-          "id": 385,
+          "id": 389,
           "resource_id": 12,
-          "start_date": "2026-10-01",
+          "start_date": "2026-09-30",
           "end_date": "2026-10-02",
           "slot": "TAG",
-          "booked_by": "Jörg Schneider - zum auslesen",
+          "booked_by": "Dat Nguyen",
           "user_id": null,
           "project": "",
           "notes": "",
@@ -2383,9 +2383,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-02 · bei Dat Nguyen"
       }
     },
     {
