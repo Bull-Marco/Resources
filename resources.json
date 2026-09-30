@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-30T09:58:13+02:00",
+  "exported_at": "2026-09-30T10:05:13+02:00",
   "today": "2026-09-30",
   "resources": [
     {
@@ -5916,6 +5916,21 @@
           "user_id": null,
           "project": "",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-09-30T10:03:57",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 384,
+          "resource_id": 19,
+          "start_date": "2026-10-01",
+          "end_date": "2026-10-02",
+          "slot": "TAG",
+          "booked_by": "Jörg Schneider - zum auslesen",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -5923,9 +5938,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-02 · bei Tobias Knopf"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
