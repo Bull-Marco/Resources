@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-30T07:24:13+02:00",
+  "exported_at": "2026-09-30T07:31:13+02:00",
   "today": "2026-09-30",
   "resources": [
     {
@@ -4966,7 +4966,7 @@
           "id": 310,
           "resource_id": 31,
           "start_date": "2026-09-16",
-          "end_date": "2026-09-30",
+          "end_date": "2026-10-02",
           "slot": "TAG",
           "booked_by": "Weber Felix",
           "user_id": null,
@@ -4979,9 +4979,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Weber Felix"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-02 · bei Weber Felix"
       }
     },
     {
