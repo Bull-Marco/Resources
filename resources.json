@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-01T00:33:14+02:00",
-  "today": "2026-10-01",
+  "exported_at": "2026-10-05T08:23:14+02:00",
+  "today": "2026-10-05",
   "resources": [
     {
       "id": 91,
@@ -273,9 +273,44 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-02 · bei Schneider"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-02 · bei Schneider"
+      }
+    },
+    {
+      "id": 143,
+      "name": "Anhänger Brenderup",
+      "type": "Fahrzeug",
+      "group_id": null,
+      "inventory_no": "HOM-B-8882",
+      "location": "Homburg",
+      "notes": "",
+      "archived": 0,
+      "deleted": 0,
+      "group_name": null,
+      "group_type": null,
+      "bookings": [
+        {
+          "id": 394,
+          "resource_id": 143,
+          "start_date": "2026-10-09",
+          "end_date": "2026-10-13",
+          "slot": "TAG",
+          "booked_by": "Anja Leinenweber",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        }
+      ],
+      "status": {
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -362,16 +397,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-02T08:35:56",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Sascha Feltes"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -391,6 +426,41 @@
         "code": "available",
         "label": "Verfügbar",
         "detail": "Verfügbar"
+      }
+    },
+    {
+      "id": 144,
+      "name": "Bauwagen",
+      "type": "Fahrzeug",
+      "group_id": null,
+      "inventory_no": "HOM-B-3331",
+      "location": "Homburg",
+      "notes": "",
+      "archived": 0,
+      "deleted": 0,
+      "group_name": null,
+      "group_type": null,
+      "bookings": [
+        {
+          "id": 393,
+          "resource_id": 144,
+          "start_date": "2026-10-01",
+          "end_date": "2027-12-31",
+          "slot": "TAG",
+          "booked_by": "Emanuel Klotz",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        }
+      ],
+      "status": {
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2027-12-31 · bei Emanuel Klotz"
       }
     },
     {
@@ -815,6 +885,21 @@
           "returned_at": "2026-09-30T15:11:46",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 391,
+          "resource_id": 16,
+          "start_date": "2026-10-01",
+          "end_date": "2026-10-02",
+          "slot": "TAG",
+          "booked_by": "Philipp Kappler",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 1,
+          "returned_at": "2026-10-02T12:32:57",
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
@@ -946,16 +1031,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-02T13:22:21",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-02 · bei Fabian Berger"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -1456,16 +1541,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-02T13:22:48",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-02 · bei Fabian Berger"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -2158,6 +2243,21 @@
           "user_id": null,
           "project": "",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-10-01T07:57:26",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 397,
+          "resource_id": 125,
+          "start_date": "2026-10-01",
+          "end_date": "2026-10-09",
+          "slot": "TAG",
+          "booked_by": "Reparatur",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -2165,9 +2265,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Quentin Richert"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-09 · bei Reparatur"
       }
     },
     {
@@ -2268,9 +2368,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-02 · bei Dat Nguyen"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-02 · bei Dat Nguyen"
       }
     },
     {
@@ -2398,9 +2498,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-02 · bei Dat Nguyen"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-02 · bei Dat Nguyen"
       }
     },
     {
@@ -3017,9 +3117,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-02 · bei Jonathan Zöllner"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-02 · bei Jonathan Zöllner"
       }
     },
     {
@@ -3384,16 +3484,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-01T07:53:46",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Quentin Richert"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -4101,8 +4201,8 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-01T12:10:27",
           "deleted": 0,
           "deleted_at": null
         },
@@ -4110,7 +4210,7 @@
           "id": 341,
           "resource_id": 92,
           "start_date": "2026-10-05",
-          "end_date": "2026-10-06",
+          "end_date": "2026-10-08",
           "slot": "TAG",
           "booked_by": "Jörg Schneider",
           "user_id": null,
@@ -4138,9 +4238,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Julia Wegner"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-08 · bei Jörg Schneider"
       }
     },
     {
@@ -4506,8 +4606,8 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-02T12:32:40",
           "deleted": 0,
           "deleted_at": null
         }
@@ -4681,9 +4781,44 @@
         }
       ],
       "status": {
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-02 · bei Thomas Weber"
+      }
+    },
+    {
+      "id": 145,
+      "name": "Kompakt Bagger E19V",
+      "type": "Fahrzeug",
+      "group_id": null,
+      "inventory_no": "",
+      "location": "Homburg",
+      "notes": "",
+      "archived": 0,
+      "deleted": 0,
+      "group_name": null,
+      "group_type": null,
+      "bookings": [
+        {
+          "id": 396,
+          "resource_id": 145,
+          "start_date": "2026-10-01",
+          "end_date": "2026-12-31",
+          "slot": "TAG",
+          "booked_by": "Fabian Ziegler-Kiefer",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        }
+      ],
+      "status": {
         "code": "out",
         "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-02 · bei Thomas Weber"
+        "detail": "Unterwegs bis 2026-12-31 · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -4990,12 +5125,27 @@
           "returned_at": "2026-09-16T16:18:04",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 400,
+          "resource_id": 29,
+          "start_date": "2026-10-02",
+          "end_date": "2026-10-07",
+          "slot": "TAG",
+          "booked_by": "Quentin Richert",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-07 · bei Quentin Richert"
       }
     },
     {
@@ -5103,9 +5253,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-02 · bei Weber Felix"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-02 · bei Weber Felix"
       }
     },
     {
@@ -5131,21 +5281,21 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-01T08:01:42",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-02 · bei Felix Weber"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
       "id": 94,
-      "name": "Pylone orange_Set 5Stück",
+      "name": "Pylone orange_Set01-5Stück",
       "type": "Werkzeug",
       "group_id": 7,
       "inventory_no": "",
@@ -5176,6 +5326,41 @@
         "code": "out",
         "label": "Unterwegs",
         "detail": "Unterwegs bis 2026-10-09 · bei Christian Montag"
+      }
+    },
+    {
+      "id": 146,
+      "name": "Pylone orange_Set02-6Stück",
+      "type": "Werkzeug",
+      "group_id": 7,
+      "inventory_no": "",
+      "location": "Homburg",
+      "notes": "",
+      "archived": 0,
+      "deleted": 0,
+      "group_name": "Sicherheitszubehör",
+      "group_type": "Werkzeuggruppe",
+      "bookings": [
+        {
+          "id": 398,
+          "resource_id": 146,
+          "start_date": "2026-10-01",
+          "end_date": "2026-10-30",
+          "slot": "TAG",
+          "booked_by": "Gero Lind",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        }
+      ],
+      "status": {
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-30 · bei Gero Lind"
       }
     },
     {
@@ -5242,9 +5427,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-05 · bei Miko Nikolaus"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Miko Nikolaus"
       }
     },
     {
@@ -5300,16 +5485,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-02T12:33:02",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-02 · bei Philipp Kappler"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -5481,12 +5666,27 @@
           "returned_at": "2026-09-21T08:42:48",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 399,
+          "resource_id": 84,
+          "start_date": "2026-10-05",
+          "end_date": "2026-10-06",
+          "slot": "TAG",
+          "booked_by": "Quentin Richert",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-06 · bei Quentin Richert"
       }
     },
     {
@@ -5678,16 +5878,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-01T15:16:06",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Gero Lind"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -6032,9 +6232,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-09 · bei Emanuel Klotz"
       }
     },
     {
@@ -6157,7 +6357,7 @@
           "id": 325,
           "resource_id": 77,
           "start_date": "2026-09-18",
-          "end_date": "2026-09-25",
+          "end_date": "2026-10-07",
           "slot": "TAG",
           "booked_by": "Emil Vollmar",
           "user_id": null,
@@ -6170,9 +6370,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-09-25 · bei Emil Vollmar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-07 · bei Emil Vollmar"
       }
     },
     {
@@ -6488,16 +6688,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-02T08:37:10",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Felix Weber"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -6736,7 +6936,7 @@
           "id": 333,
           "resource_id": 18,
           "start_date": "2026-09-18",
-          "end_date": "2026-09-30",
+          "end_date": "2026-10-09",
           "slot": "TAG",
           "booked_by": "Richert Quentin",
           "user_id": null,
@@ -6749,9 +6949,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-09-30 · bei Richert Quentin"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-09 · bei Richert Quentin"
       }
     },
     {
@@ -6807,16 +7007,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-02T13:54:55",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-02 · bei Christian Montag"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -6880,6 +7080,25 @@
       "archived": 0,
       "deleted": 0,
       "group_name": "Auto Zubehör",
+      "group_type": "Werkzeuggruppe",
+      "bookings": [],
+      "status": {
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
+      }
+    },
+    {
+      "id": 147,
+      "name": "Würth Edelstahl Spiralbohrerset D:1,0-13,0x0,5mm #0626200004",
+      "type": "Werkzeug",
+      "group_id": 8,
+      "inventory_no": "0626200004",
+      "location": "Homburg",
+      "notes": "",
+      "archived": 0,
+      "deleted": 0,
+      "group_name": "Pool-Werkzeug",
       "group_type": "Werkzeuggruppe",
       "bookings": [],
       "status": {
@@ -7239,7 +7458,23 @@
       "deleted": 0,
       "group_name": "Sicherheitszubehör",
       "group_type": "Werkzeuggruppe",
-      "bookings": [],
+      "bookings": [
+        {
+          "id": 392,
+          "resource_id": 74,
+          "start_date": "2026-10-01",
+          "end_date": "2026-10-02",
+          "slot": "TAG",
+          "booked_by": "Philipp Kappler",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 1,
+          "returned_at": "2026-10-02T12:32:48",
+          "deleted": 0,
+          "deleted_at": null
+        }
+      ],
       "status": {
         "code": "available",
         "label": "Verfügbar",
@@ -7259,6 +7494,87 @@
       "group_name": "Sicherheitszubehör",
       "group_type": "Werkzeuggruppe",
       "bookings": [],
+      "status": {
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
+      }
+    },
+    {
+      "id": 98,
+      "name": "Würth Handpresszange für Rohrkabelschuh u. Verbindungshülsen 6KT/6-50²  096705",
+      "type": "Werkzeug",
+      "group_id": 8,
+      "inventory_no": "096705",
+      "location": "Homburg",
+      "notes": "Rohrkabelschuhe und Verbindungshülsen",
+      "archived": 0,
+      "deleted": 0,
+      "group_name": "Pool-Werkzeug",
+      "group_type": "Werkzeuggruppe",
+      "bookings": [
+        {
+          "id": 136,
+          "resource_id": 98,
+          "start_date": "2026-08-03",
+          "end_date": "2026-08-04",
+          "slot": "TAG",
+          "booked_by": "Jonathan Zöllner",
+          "user_id": 6,
+          "project": "",
+          "notes": "",
+          "returned": 1,
+          "returned_at": "2026-08-04T07:00:44",
+          "deleted": 0,
+          "deleted_at": null,
+          "user_name": "Jonathan Zöllner"
+        },
+        {
+          "id": 377,
+          "resource_id": 98,
+          "start_date": "2026-10-14",
+          "end_date": "2026-10-14",
+          "slot": "TAG",
+          "booked_by": "marco",
+          "user_id": null,
+          "project": "test",
+          "notes": "test",
+          "returned": 1,
+          "returned_at": "2026-09-29T16:28:07",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 373,
+          "resource_id": 98,
+          "start_date": "2026-10-15",
+          "end_date": "2026-10-15",
+          "slot": "TAG",
+          "booked_by": "marco",
+          "user_id": null,
+          "project": "test",
+          "notes": "test",
+          "returned": 1,
+          "returned_at": "2026-09-29T15:26:52",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 374,
+          "resource_id": 98,
+          "start_date": "2026-10-20",
+          "end_date": "2026-10-20",
+          "slot": "TAG",
+          "booked_by": "marco",
+          "user_id": null,
+          "project": "test",
+          "notes": "test",
+          "returned": 1,
+          "returned_at": "2026-09-29T15:51:24",
+          "deleted": 0,
+          "deleted_at": null
+        }
+      ],
       "status": {
         "code": "available",
         "label": "Verfügbar",
@@ -7370,87 +7686,6 @@
           "notes": "privat",
           "returned": 1,
           "returned_at": "2026-09-21T08:42:49",
-          "deleted": 0,
-          "deleted_at": null
-        }
-      ],
-      "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
-      }
-    },
-    {
-      "id": 98,
-      "name": "Würth mechanische Handpresszange 6KT/6-50²  096705",
-      "type": "Werkzeug",
-      "group_id": 8,
-      "inventory_no": "096705",
-      "location": "Homburg",
-      "notes": "",
-      "archived": 0,
-      "deleted": 0,
-      "group_name": "Pool-Werkzeug",
-      "group_type": "Werkzeuggruppe",
-      "bookings": [
-        {
-          "id": 136,
-          "resource_id": 98,
-          "start_date": "2026-08-03",
-          "end_date": "2026-08-04",
-          "slot": "TAG",
-          "booked_by": "Jonathan Zöllner",
-          "user_id": 6,
-          "project": "",
-          "notes": "",
-          "returned": 1,
-          "returned_at": "2026-08-04T07:00:44",
-          "deleted": 0,
-          "deleted_at": null,
-          "user_name": "Jonathan Zöllner"
-        },
-        {
-          "id": 377,
-          "resource_id": 98,
-          "start_date": "2026-10-14",
-          "end_date": "2026-10-14",
-          "slot": "TAG",
-          "booked_by": "marco",
-          "user_id": null,
-          "project": "test",
-          "notes": "test",
-          "returned": 1,
-          "returned_at": "2026-09-29T16:28:07",
-          "deleted": 0,
-          "deleted_at": null
-        },
-        {
-          "id": 373,
-          "resource_id": 98,
-          "start_date": "2026-10-15",
-          "end_date": "2026-10-15",
-          "slot": "TAG",
-          "booked_by": "marco",
-          "user_id": null,
-          "project": "test",
-          "notes": "test",
-          "returned": 1,
-          "returned_at": "2026-09-29T15:26:52",
-          "deleted": 0,
-          "deleted_at": null
-        },
-        {
-          "id": 374,
-          "resource_id": 98,
-          "start_date": "2026-10-20",
-          "end_date": "2026-10-20",
-          "slot": "TAG",
-          "booked_by": "marco",
-          "user_id": null,
-          "project": "test",
-          "notes": "test",
-          "returned": 1,
-          "returned_at": "2026-09-29T15:51:24",
           "deleted": 0,
           "deleted_at": null
         }
