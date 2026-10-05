@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-05T23:54:12+02:00",
-  "today": "2026-10-05",
+  "exported_at": "2026-10-06T00:01:12+02:00",
+  "today": "2026-10-06",
   "resources": [
     {
       "id": 91,
@@ -273,9 +273,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Schneider"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-05 · bei Schneider"
       }
     },
     {
@@ -3995,9 +3995,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-16 · bei Mirko Niklaus"
       }
     },
     {
@@ -5518,9 +5518,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Miko Nikolaus"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-05 · bei Miko Nikolaus"
       }
     },
     {
@@ -5775,9 +5775,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-06 · bei Quentin Richert"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Quentin Richert"
       }
     },
     {
