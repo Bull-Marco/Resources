@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-05T15:23:13+02:00",
+  "exported_at": "2026-10-05T15:30:13+02:00",
   "today": "2026-10-05",
   "resources": [
     {
@@ -3141,16 +3141,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-05T15:29:47",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Jonathan Zöllner"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
