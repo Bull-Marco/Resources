@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-05T11:53:12+02:00",
+  "exported_at": "2026-10-05T12:00:13+02:00",
   "today": "2026-10-05",
   "resources": [
     {
@@ -6721,6 +6721,21 @@
           "notes": "",
           "returned": 1,
           "returned_at": "2026-10-02T08:37:10",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 403,
+          "resource_id": 90,
+          "start_date": "2026-10-09",
+          "end_date": "2026-10-13",
+          "slot": "TAG",
+          "booked_by": "Anja Leinenweber",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
           "deleted": 0,
           "deleted_at": null
         }
