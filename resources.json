@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-05T13:45:12+02:00",
+  "exported_at": "2026-10-05T13:52:12+02:00",
   "today": "2026-10-05",
   "resources": [
     {
@@ -260,7 +260,7 @@
           "id": 280,
           "resource_id": 23,
           "start_date": "2026-09-09",
-          "end_date": "2026-10-02",
+          "end_date": "2026-10-05",
           "slot": "TAG",
           "booked_by": "Schneider",
           "user_id": null,
@@ -273,9 +273,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-02 · bei Schneider"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Schneider"
       }
     },
     {
@@ -2361,16 +2361,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-05T13:46:47",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-02 · bei Dat Nguyen"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -2491,16 +2491,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-05T13:46:55",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-02 · bei Dat Nguyen"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -3120,7 +3120,7 @@
           "id": 359,
           "resource_id": 138,
           "start_date": "2026-09-28",
-          "end_date": "2026-10-02",
+          "end_date": "2026-10-05",
           "slot": "TAG",
           "booked_by": "Jonathan Zöllner",
           "user_id": null,
@@ -3133,9 +3133,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-02 · bei Jonathan Zöllner"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jonathan Zöllner"
       }
     },
     {
