@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-06T23:56:13+02:00",
-  "today": "2026-10-06",
+  "exported_at": "2026-10-07T00:03:13+02:00",
+  "today": "2026-10-07",
   "resources": [
     {
       "id": 91,
@@ -1349,9 +1349,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-07 · bei Jonathan Zöllner"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jonathan Zöllner"
       }
     },
     {
@@ -4749,9 +4749,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-07 · bei Dat"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Dat"
       }
     },
     {
@@ -4837,9 +4837,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-07 · bei Mirko Nikolaus"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Mirko Nikolaus"
       }
     },
     {
