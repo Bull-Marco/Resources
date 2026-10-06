@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-06T07:57:13+02:00",
+  "exported_at": "2026-10-06T08:04:13+02:00",
   "today": "2026-10-06",
   "resources": [
     {
@@ -4701,12 +4701,27 @@
           "returned_at": "2026-10-02T12:32:40",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 409,
+          "resource_id": 36,
+          "start_date": "2026-10-06",
+          "end_date": "2026-10-06",
+          "slot": "TAG",
+          "booked_by": "Dat",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-09-30 · bei Jörg Schneider"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Dat"
       }
     },
     {
