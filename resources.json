@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-07T11:01:13+02:00",
+  "exported_at": "2026-10-07T11:08:13+02:00",
   "today": "2026-10-07",
   "resources": [
     {
@@ -3898,7 +3898,23 @@
       "deleted": 0,
       "group_name": "Messgeräte",
       "group_type": "Werkzeuggruppe",
-      "bookings": [],
+      "bookings": [
+        {
+          "id": 415,
+          "resource_id": 140,
+          "start_date": "2026-10-08",
+          "end_date": "2026-10-08",
+          "slot": "TAG",
+          "booked_by": "Gero Lind",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        }
+      ],
       "status": {
         "code": "available",
         "label": "Verfügbar",
