@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-07T14:38:12+02:00",
+  "exported_at": "2026-10-07T16:23:25+02:00",
   "today": "2026-10-07",
   "resources": [
     {
@@ -7482,16 +7482,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-07T15:51:11",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-09 · bei Gero Lind"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -7562,16 +7562,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-07T15:51:09",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-09 · bei Gero Lind"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
