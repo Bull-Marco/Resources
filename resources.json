@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-07T10:33:13+02:00",
+  "exported_at": "2026-10-07T10:40:13+02:00",
   "today": "2026-10-07",
   "resources": [
     {
@@ -2288,16 +2288,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-07T10:39:54",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-09 · bei Reparatur"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
