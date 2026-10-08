@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-08T12:25:12+02:00",
+  "exported_at": "2026-10-08T13:25:12+02:00",
   "today": "2026-10-08",
   "resources": [
     {
@@ -6431,7 +6431,7 @@
           "id": 386,
           "resource_id": 19,
           "start_date": "2026-10-05",
-          "end_date": "2026-10-09",
+          "end_date": "2026-10-13",
           "slot": "TAG",
           "booked_by": "Emanuel Klotz",
           "user_id": null,
@@ -6446,7 +6446,7 @@
       "status": {
         "code": "out",
         "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-09 · bei Emanuel Klotz"
+        "detail": "Unterwegs bis 2026-10-13 · bei Emanuel Klotz"
       }
     },
     {
