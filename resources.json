@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-08T13:25:12+02:00",
+  "exported_at": "2026-10-08T13:55:12+02:00",
   "today": "2026-10-08",
   "resources": [
     {
@@ -6495,12 +6495,27 @@
           "returned_at": "2026-09-03T10:42:08",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 419,
+          "resource_id": 136,
+          "start_date": "2026-10-07",
+          "end_date": "2026-10-08",
+          "slot": "TAG",
+          "booked_by": "Dimi",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Dimi"
       }
     },
     {
