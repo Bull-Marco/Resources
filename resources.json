@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-08T14:25:12+02:00",
+  "exported_at": "2026-10-08T14:55:12+02:00",
   "today": "2026-10-08",
   "resources": [
     {
@@ -911,16 +911,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-08T14:42:38",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-09 · bei Dimitrios"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
