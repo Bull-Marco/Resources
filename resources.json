@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-08T14:55:12+02:00",
+  "exported_at": "2026-10-08T15:25:12+02:00",
   "today": "2026-10-08",
   "resources": [
     {
@@ -2649,6 +2649,41 @@
       }
     },
     {
+      "id": 148,
+      "name": "Helios Heizlüfter",
+      "type": "Werkzeug",
+      "group_id": 9,
+      "inventory_no": "",
+      "location": "Homburg",
+      "notes": "",
+      "archived": 0,
+      "deleted": 0,
+      "group_name": "Heizgeräte",
+      "group_type": "Werkzeuggruppe",
+      "bookings": [
+        {
+          "id": 420,
+          "resource_id": 148,
+          "start_date": "2026-10-07",
+          "end_date": "2026-10-16",
+          "slot": "TAG",
+          "booked_by": "Maurice Staub",
+          "user_id": null,
+          "project": "Rhenus",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        }
+      ],
+      "status": {
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-16 · bei Maurice Staub"
+      }
+    },
+    {
       "id": 49,
       "name": "Hilt Kernbohrständer DD-St150-UCTL03",
       "type": "Werkzeug",
@@ -3918,7 +3953,7 @@
           "id": 415,
           "resource_id": 140,
           "start_date": "2026-10-08",
-          "end_date": "2026-10-08",
+          "end_date": "2026-12-31",
           "slot": "TAG",
           "booked_by": "Gero Lind",
           "user_id": null,
@@ -3931,9 +3966,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Gero Lind"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-12-31 · bei Gero Lind"
       }
     },
     {
@@ -6157,6 +6192,41 @@
         "code": "available",
         "label": "Verfügbar",
         "detail": "Verfügbar"
+      }
+    },
+    {
+      "id": 149,
+      "name": "Trend Networks LAN Tester VDV II",
+      "type": "Werkzeug",
+      "group_id": 4,
+      "inventory_no": "",
+      "location": "Homburg",
+      "notes": "",
+      "archived": 0,
+      "deleted": 0,
+      "group_name": "Messgeräte",
+      "group_type": "Werkzeuggruppe",
+      "bookings": [
+        {
+          "id": 421,
+          "resource_id": 149,
+          "start_date": "2026-10-08",
+          "end_date": "2026-12-31",
+          "slot": "TAG",
+          "booked_by": "Gero Lind",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        }
+      ],
+      "status": {
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-12-31 · bei Gero Lind"
       }
     },
     {
