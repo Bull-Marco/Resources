@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-07T16:23:25+02:00",
-  "today": "2026-10-07",
+  "exported_at": "2026-10-08T10:25:11+02:00",
+  "today": "2026-10-08",
   "resources": [
     {
       "id": 91,
@@ -900,12 +900,27 @@
           "returned_at": "2026-10-02T12:32:57",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 416,
+          "resource_id": 16,
+          "start_date": "2026-10-08",
+          "end_date": "2026-10-09",
+          "slot": "TAG",
+          "booked_by": "Dimitrios",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-09 · bei Dimitrios"
       }
     },
     {
@@ -3916,9 +3931,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Gero Lind"
       }
     },
     {
@@ -4420,9 +4435,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-08 · bei Jörg Schneider"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jörg Schneider"
       }
     },
     {
@@ -4898,9 +4913,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Mirko Nikolaus"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-07 · bei Mirko Nikolaus"
       }
     },
     {
@@ -6924,7 +6939,23 @@
       "deleted": 0,
       "group_name": "Auto Zubehör",
       "group_type": "Werkzeuggruppe",
-      "bookings": [],
+      "bookings": [
+        {
+          "id": 417,
+          "resource_id": 115,
+          "start_date": "2026-10-09",
+          "end_date": "2026-10-09",
+          "slot": "TAG",
+          "booked_by": "marco test",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        }
+      ],
       "status": {
         "code": "available",
         "label": "Verfügbar",
