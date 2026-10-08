@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-08T15:25:12+02:00",
-  "today": "2026-10-08",
+  "exported_at": "2026-10-09T00:25:12+02:00",
+  "today": "2026-10-09",
   "resources": [
     {
       "id": 91,
@@ -308,9 +308,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-13 · bei Anja Leinenweber"
       }
     },
     {
@@ -1876,9 +1876,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-12 · bei Quentin Richert"
       }
     },
     {
@@ -2340,9 +2340,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-12 · bei Quentin Richert"
       }
     },
     {
@@ -3647,9 +3647,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-12 · bei Quentin Richert"
       }
     },
     {
@@ -4470,9 +4470,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Jörg Schneider"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-19 · bei Emanuel Klotz"
       }
     },
     {
@@ -4585,9 +4585,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-09 · bei Schneider"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Schneider"
       }
     },
     {
@@ -5570,9 +5570,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-09 · bei Christian Montag"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Christian Montag"
       }
     },
     {
@@ -6583,9 +6583,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Dimi"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-08 · bei Dimi"
       }
     },
     {
@@ -7007,9 +7007,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-13 · bei Anja Leinenweber"
       }
     },
     {
@@ -7261,9 +7261,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-09 · bei Richert Quentin"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Richert Quentin"
       }
     },
     {
@@ -7509,9 +7509,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-09 · bei Christian Montag"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Christian Montag"
       }
     },
     {
