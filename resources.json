@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-09T07:25:11+02:00",
+  "exported_at": "2026-10-09T09:25:11+02:00",
   "today": "2026-10-09",
   "resources": [
     {
@@ -1860,12 +1860,27 @@
           "deleted_at": null
         },
         {
-          "id": 413,
+          "id": 424,
           "resource_id": 61,
           "start_date": "2026-10-09",
-          "end_date": "2026-10-12",
+          "end_date": "2026-10-09",
           "slot": "TAG",
           "booked_by": "Quentin Richert",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 428,
+          "resource_id": 61,
+          "start_date": "2026-10-12",
+          "end_date": "2026-10-13",
+          "slot": "TAG",
+          "booked_by": "Maurice Staub",
           "user_id": null,
           "project": "",
           "notes": "",
@@ -1876,9 +1891,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-12 · bei Quentin Richert"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Quentin Richert"
       }
     },
     {
@@ -2324,12 +2339,27 @@
           "deleted_at": null
         },
         {
-          "id": 412,
+          "id": 423,
           "resource_id": 125,
           "start_date": "2026-10-09",
-          "end_date": "2026-10-12",
+          "end_date": "2026-10-09",
           "slot": "TAG",
           "booked_by": "Quentin Richert",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 427,
+          "resource_id": 125,
+          "start_date": "2026-10-12",
+          "end_date": "2026-10-13",
+          "slot": "TAG",
+          "booked_by": "Maurice Staub",
           "user_id": null,
           "project": "",
           "notes": "",
@@ -2340,9 +2370,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-12 · bei Quentin Richert"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Quentin Richert"
       }
     },
     {
@@ -3631,12 +3661,27 @@
           "deleted_at": null
         },
         {
-          "id": 414,
+          "id": 425,
           "resource_id": 95,
           "start_date": "2026-10-09",
-          "end_date": "2026-10-12",
+          "end_date": "2026-10-09",
           "slot": "TAG",
           "booked_by": "Quentin Richert",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 426,
+          "resource_id": 95,
+          "start_date": "2026-10-12",
+          "end_date": "2026-10-13",
+          "slot": "TAG",
+          "booked_by": "Maurice Staub",
           "user_id": null,
           "project": "",
           "notes": "",
@@ -3647,9 +3692,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-12 · bei Quentin Richert"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Quentin Richert"
       }
     },
     {
@@ -4448,8 +4493,8 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-09T09:10:21",
           "deleted": 0,
           "deleted_at": null
         },
@@ -6570,7 +6615,7 @@
           "id": 419,
           "resource_id": 136,
           "start_date": "2026-10-07",
-          "end_date": "2026-10-08",
+          "end_date": "2026-10-09",
           "slot": "TAG",
           "booked_by": "Dimi",
           "user_id": null,
@@ -6583,9 +6628,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-08 · bei Dimi"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Dimi"
       }
     },
     {
@@ -7398,7 +7443,7 @@
           "id": 422,
           "resource_id": 113,
           "start_date": "2026-10-08",
-          "end_date": "2026-10-08",
+          "end_date": "2026-10-12",
           "slot": "TAG",
           "booked_by": "Jonathan Zöllner",
           "user_id": 6,
@@ -7412,9 +7457,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-08 · bei Jonathan Zöllner"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-12 · bei Jonathan Zöllner"
       }
     },
     {
