@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-11T00:25:11+02:00",
-  "today": "2026-10-11",
+  "exported_at": "2026-10-12T00:25:11+02:00",
+  "today": "2026-10-12",
   "resources": [
     {
       "id": 91,
@@ -1891,9 +1891,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-09 · bei Quentin Richert"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-13 · bei Maurice Staub"
       }
     },
     {
@@ -2370,9 +2370,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-09 · bei Quentin Richert"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-13 · bei Maurice Staub"
       }
     },
     {
@@ -3303,9 +3303,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-12 · bei Jonathan Zöllner"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jonathan Zöllner"
       }
     },
     {
@@ -3707,9 +3707,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-09 · bei Quentin Richert"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-13 · bei Maurice Staub"
       }
     },
     {
@@ -7472,9 +7472,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-12 · bei Jonathan Zöllner"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jonathan Zöllner"
       }
     },
     {
