@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-12T13:25:12+02:00",
+  "exported_at": "2026-10-12T13:55:12+02:00",
   "today": "2026-10-12",
   "resources": [
     {
@@ -4702,16 +4702,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-12T13:33:35",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-09 · bei Schneider"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -5681,7 +5681,7 @@
           "id": 338,
           "resource_id": 94,
           "start_date": "2026-09-23",
-          "end_date": "2026-10-09",
+          "end_date": "2026-10-16",
           "slot": "TAG",
           "booked_by": "Christian Montag",
           "user_id": null,
@@ -5694,9 +5694,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-09 · bei Christian Montag"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-16 · bei Christian Montag"
       }
     },
     {
@@ -7652,7 +7652,7 @@
           "id": 339,
           "resource_id": 32,
           "start_date": "2026-09-23",
-          "end_date": "2026-10-09",
+          "end_date": "2026-10-16",
           "slot": "TAG",
           "booked_by": "Christian Montag",
           "user_id": null,
@@ -7665,9 +7665,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-09 · bei Christian Montag"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-16 · bei Christian Montag"
       }
     },
     {
