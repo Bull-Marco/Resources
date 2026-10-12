@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-12T17:55:12+02:00",
-  "today": "2026-10-12",
+  "exported_at": "2026-10-13T00:25:13+02:00",
+  "today": "2026-10-13",
   "resources": [
     {
       "id": 91,
@@ -123,9 +123,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-13 · bei Edwin"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Edwin"
       }
     },
     {
@@ -323,9 +323,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-13 · bei Anja Leinenweber"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Anja Leinenweber"
       }
     },
     {
@@ -1968,9 +1968,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-13 · bei Maurice Staub"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Maurice Staub"
       }
     },
     {
@@ -2447,9 +2447,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-13 · bei Maurice Staub"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Maurice Staub"
       }
     },
     {
@@ -3397,9 +3397,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Jonathan Zöllner"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-12 · bei Jonathan Zöllner"
       }
     },
     {
@@ -3801,9 +3801,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-13 · bei Maurice Staub"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Maurice Staub"
       }
     },
     {
@@ -5102,9 +5102,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-13 · bei Mirko Nikolaus"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Mirko Nikolaus"
       }
     },
     {
@@ -6683,9 +6683,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-13 · bei Emanuel Klotz"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Emanuel Klotz"
       }
     },
     {
@@ -7176,9 +7176,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-13 · bei Anja Leinenweber"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Anja Leinenweber"
       }
     },
     {
@@ -7581,9 +7581,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Jonathan Zöllner"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-12 · bei Jonathan Zöllner"
       }
     },
     {
