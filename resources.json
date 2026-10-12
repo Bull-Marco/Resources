@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-12T14:55:12+02:00",
+  "exported_at": "2026-10-12T17:55:12+02:00",
   "today": "2026-10-12",
   "resources": [
     {
@@ -105,12 +105,27 @@
           "deleted": 0,
           "deleted_at": null,
           "user_name": "Pascal Rivera Campos"
+        },
+        {
+          "id": 438,
+          "resource_id": 91,
+          "start_date": "2026-10-12",
+          "end_date": "2026-10-13",
+          "slot": "TAG",
+          "booked_by": "Edwin",
+          "user_id": null,
+          "project": "",
+          "notes": "hat Ihn nur über Nach für nach Hause",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-13 · bei Edwin"
       }
     },
     {
