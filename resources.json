@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-13T00:25:13+02:00",
+  "exported_at": "2026-10-13T07:55:11+02:00",
   "today": "2026-10-13",
   "resources": [
     {
@@ -116,16 +116,16 @@
           "user_id": null,
           "project": "",
           "notes": "hat Ihn nur über Nach für nach Hause",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-13T07:36:21",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Edwin"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -3384,7 +3384,7 @@
           "id": 429,
           "resource_id": 138,
           "start_date": "2026-10-09",
-          "end_date": "2026-10-12",
+          "end_date": "2026-10-19",
           "slot": "TAG",
           "booked_by": "Jonathan Zöllner",
           "user_id": null,
@@ -3397,9 +3397,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-12 · bei Jonathan Zöllner"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-19 · bei Jonathan Zöllner"
       }
     },
     {
@@ -5089,7 +5089,7 @@
           "id": 318,
           "resource_id": 37,
           "start_date": "2026-09-17",
-          "end_date": "2026-10-13",
+          "end_date": "2026-10-16",
           "slot": "TAG",
           "booked_by": "Mirko Nikolaus",
           "user_id": null,
@@ -5102,9 +5102,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Mirko Nikolaus"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-16 · bei Mirko Nikolaus"
       }
     },
     {
@@ -7567,7 +7567,7 @@
           "id": 422,
           "resource_id": 113,
           "start_date": "2026-10-08",
-          "end_date": "2026-10-12",
+          "end_date": "2026-10-19",
           "slot": "TAG",
           "booked_by": "Jonathan Zöllner",
           "user_id": 6,
@@ -7581,9 +7581,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-12 · bei Jonathan Zöllner"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-19 · bei Jonathan Zöllner"
       }
     },
     {
