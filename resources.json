@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-13T16:25:11+02:00",
+  "exported_at": "2026-10-13T16:55:12+02:00",
   "today": "2026-10-13",
   "resources": [
     {
@@ -6707,16 +6707,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-13T16:30:48",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Emanuel Klotz"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
