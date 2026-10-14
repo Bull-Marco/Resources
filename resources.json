@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-14T10:55:12+02:00",
+  "exported_at": "2026-10-14T11:25:12+02:00",
   "today": "2026-10-14",
   "resources": [
     {
@@ -6879,12 +6879,27 @@
           "returned_at": "2026-10-06T07:37:08",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 443,
+          "resource_id": 77,
+          "start_date": "2026-10-14",
+          "end_date": "2026-10-16",
+          "slot": "TAG",
+          "booked_by": "Thomas Lauerer",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-16 · bei Thomas Lauerer"
       }
     },
     {
