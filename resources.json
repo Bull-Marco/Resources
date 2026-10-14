@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-14T14:55:11+02:00",
+  "exported_at": "2026-10-14T15:55:11+02:00",
   "today": "2026-10-14",
   "resources": [
     {
@@ -1172,16 +1172,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-14T15:43:23",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Gero Lind"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -1597,12 +1597,27 @@
           "returned_at": "2026-09-14T08:43:23",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 446,
+          "resource_id": 57,
+          "start_date": "2026-10-14",
+          "end_date": "2026-10-21",
+          "slot": "TAG",
+          "booked_by": "Tobias Knopf",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-21 · bei Tobias Knopf"
       }
     },
     {
