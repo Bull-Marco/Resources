@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-14T11:25:12+02:00",
+  "exported_at": "2026-10-14T14:55:11+02:00",
   "today": "2026-10-14",
   "resources": [
     {
@@ -2472,6 +2472,21 @@
           "notes": "",
           "returned": 1,
           "returned_at": "2026-10-13T16:07:26",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 444,
+          "resource_id": 125,
+          "start_date": "2026-10-16",
+          "end_date": "2026-10-19",
+          "slot": "TAG",
+          "booked_by": "Quentin Richert",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
           "deleted": 0,
           "deleted_at": null
         }
@@ -7486,6 +7501,21 @@
           "notes": "",
           "returned": 1,
           "returned_at": "2026-10-12T13:25:08",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 445,
+          "resource_id": 18,
+          "start_date": "2026-10-19",
+          "end_date": "2026-11-13",
+          "slot": "TAG",
+          "booked_by": "Quentin Richert",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
           "deleted": 0,
           "deleted_at": null
         }
