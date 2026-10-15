@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-15T15:55:12+02:00",
-  "today": "2026-10-15",
+  "exported_at": "2026-10-16T00:25:12+02:00",
+  "today": "2026-10-16",
   "resources": [
     {
       "id": 91,
@@ -1505,9 +1505,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-16 · bei Hasan Iscan"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Hasan Iscan"
       }
     },
     {
@@ -2013,9 +2013,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Maurice Staub"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-15 · bei Maurice Staub"
       }
     },
     {
@@ -2507,9 +2507,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-19 · bei Quentin Richert"
       }
     },
     {
@@ -2845,9 +2845,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-16 · bei Maurice Staub"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Maurice Staub"
       }
     },
     {
@@ -4350,9 +4350,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-16 · bei Mirko Niklaus"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Mirko Niklaus"
       }
     },
     {
@@ -5162,9 +5162,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-16 · bei Mirko Nikolaus"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Mirko Nikolaus"
       }
     },
     {
@@ -5400,9 +5400,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-16 · bei Lauerer Thomas"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Lauerer Thomas"
       }
     },
     {
@@ -5800,9 +5800,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-16 · bei Christian Montag"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Christian Montag"
       }
     },
     {
@@ -5984,9 +5984,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-16 · bei Hasan Iscan"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Hasan Iscan"
       }
     },
     {
@@ -6246,9 +6246,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-16 · bei Christian Montag"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Christian Montag"
       }
     },
     {
@@ -6942,9 +6942,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-16 · bei Thomas Lauerer"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Thomas Lauerer"
       }
     },
     {
@@ -7816,9 +7816,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-16 · bei Christian Montag"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Christian Montag"
       }
     },
     {
@@ -7911,9 +7911,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-16 · bei Hasan Iscan"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Hasan Iscan"
       }
     },
     {
