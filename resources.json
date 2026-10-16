@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-16T14:25:12+02:00",
-  "today": "2026-10-16",
+  "exported_at": "2026-10-17T00:25:14+02:00",
+  "today": "2026-10-17",
   "resources": [
     {
       "id": 91,
@@ -1505,9 +1505,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Hasan Iscan"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-16 · bei Hasan Iscan"
       }
     },
     {
@@ -2875,9 +2875,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Maurice Staub"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-16 · bei Maurice Staub"
       }
     },
     {
@@ -4395,9 +4395,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Mirko Niklaus"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-16 · bei Mirko Niklaus"
       }
     },
     {
@@ -5207,9 +5207,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Mirko Nikolaus"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-16 · bei Mirko Nikolaus"
       }
     },
     {
@@ -5445,9 +5445,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Lauerer Thomas"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-16 · bei Lauerer Thomas"
       }
     },
     {
@@ -5845,9 +5845,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Christian Montag"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-16 · bei Christian Montag"
       }
     },
     {
@@ -6029,9 +6029,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Hasan Iscan"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-16 · bei Hasan Iscan"
       }
     },
     {
@@ -6291,9 +6291,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Christian Montag"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-16 · bei Christian Montag"
       }
     },
     {
@@ -6987,9 +6987,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Thomas Lauerer"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-16 · bei Thomas Lauerer"
       }
     },
     {
@@ -7876,9 +7876,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Christian Montag"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-16 · bei Christian Montag"
       }
     },
     {
@@ -7971,9 +7971,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Hasan Iscan"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-16 · bei Hasan Iscan"
       }
     },
     {
