@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-19T14:25:12+02:00",
-  "today": "2026-10-19",
+  "exported_at": "2026-10-20T00:25:12+02:00",
+  "today": "2026-10-20",
   "resources": [
     {
       "id": 91,
@@ -1014,9 +1014,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Fabian Ziegler-Kiefer"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-19 · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -1730,9 +1730,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Fabian Ziegler-Kiefer"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-19 · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -2567,9 +2567,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Quentin Richert"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-19 · bei Quentin Richert"
       }
     },
     {
@@ -3098,9 +3098,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Fabian Ziegler-Kiefer"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-19 · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -3536,9 +3536,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Jonathan Zöllner"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-19 · bei Jonathan Zöllner"
       }
     },
     {
@@ -4793,9 +4793,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Emanuel Klotz"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-19 · bei Emanuel Klotz"
       }
     },
     {
@@ -6405,9 +6405,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Emil Vollmar"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-19 · bei Emil Vollmar"
       }
     },
     {
@@ -7856,9 +7856,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Jonathan Zöllner"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-19 · bei Jonathan Zöllner"
       }
     },
     {
