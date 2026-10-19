@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-19T13:25:12+02:00",
+  "exported_at": "2026-10-19T14:25:12+02:00",
   "today": "2026-10-19",
   "resources": [
     {
@@ -118,6 +118,21 @@
           "notes": "hat Ihn nur über Nach für nach Hause",
           "returned": 1,
           "returned_at": "2026-10-13T07:36:21",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 458,
+          "resource_id": 91,
+          "start_date": "2026-10-23",
+          "end_date": "2026-10-27",
+          "slot": "TAG",
+          "booked_by": "Wegner Nico",
+          "user_id": null,
+          "project": "Ersatz bis neues Auto von Nico zugelassen ist",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
           "deleted": 0,
           "deleted_at": null
         }
@@ -4755,6 +4770,21 @@
           "booked_by": "Emanuel Klotz",
           "user_id": null,
           "project": "6.00 Uhr =>Schlüssel rauslegen",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 459,
+          "resource_id": 92,
+          "start_date": "2026-10-23",
+          "end_date": "2026-10-27",
+          "slot": "TAG",
+          "booked_by": "Jörg Schneider",
+          "user_id": null,
+          "project": "",
           "notes": "",
           "returned": 0,
           "returned_at": null,
