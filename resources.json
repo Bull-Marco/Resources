@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-19T08:55:12+02:00",
+  "exported_at": "2026-10-19T09:25:12+02:00",
   "today": "2026-10-19",
   "resources": [
     {
@@ -318,6 +318,21 @@
           "notes": "",
           "returned": 1,
           "returned_at": "2026-10-13T15:13:51",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 456,
+          "resource_id": 143,
+          "start_date": "2026-10-22",
+          "end_date": "2026-10-27",
+          "slot": "TAG",
+          "booked_by": "Jörg Schneider",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
           "deleted": 0,
           "deleted_at": null
         }
@@ -4382,26 +4397,11 @@
           "id": 455,
           "resource_id": 24,
           "start_date": "2026-10-19",
-          "end_date": "2026-10-22",
+          "end_date": "2026-10-23",
           "slot": "TAG",
           "booked_by": "Mirko Nikolaus",
           "user_id": null,
           "project": "",
-          "notes": "",
-          "returned": 0,
-          "returned_at": null,
-          "deleted": 0,
-          "deleted_at": null
-        },
-        {
-          "id": 402,
-          "resource_id": 24,
-          "start_date": "2026-10-23",
-          "end_date": "2026-10-26",
-          "slot": "TAG",
-          "booked_by": "Dat Nguyen",
-          "user_id": null,
-          "project": "Krankenhaus Pirmasens Wiederholungsprüfung",
           "notes": "",
           "returned": 0,
           "returned_at": null,
@@ -4412,7 +4412,7 @@
       "status": {
         "code": "out",
         "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-22 · bei Mirko Nikolaus"
+        "detail": "Unterwegs bis 2026-10-23 · bei Mirko Nikolaus"
       }
     },
     {
@@ -7365,6 +7365,21 @@
           "user_id": null,
           "project": "",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-10-19T09:10:45",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 457,
+          "resource_id": 90,
+          "start_date": "2026-10-22",
+          "end_date": "2026-10-27",
+          "slot": "TAG",
+          "booked_by": "Jörg Schneider",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -7372,9 +7387,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Jörg Schneider"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
