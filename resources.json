@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-19T08:25:12+02:00",
+  "exported_at": "2026-10-19T08:55:12+02:00",
   "today": "2026-10-19",
   "resources": [
     {
@@ -4373,6 +4373,21 @@
           "user_id": null,
           "project": "",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-10-19T08:35:57",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 455,
+          "resource_id": 24,
+          "start_date": "2026-10-19",
+          "end_date": "2026-10-22",
+          "slot": "TAG",
+          "booked_by": "Mirko Nikolaus",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -4395,9 +4410,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-16 · bei Mirko Niklaus"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-22 · bei Mirko Nikolaus"
       }
     },
     {
@@ -5438,16 +5453,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-19T08:33:26",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-16 · bei Lauerer Thomas"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
