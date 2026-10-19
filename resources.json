@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-19T09:25:12+02:00",
+  "exported_at": "2026-10-19T13:25:12+02:00",
   "today": "2026-10-19",
   "resources": [
     {
@@ -2568,6 +2568,25 @@
       "archived": 0,
       "deleted": 0,
       "group_name": "Kabel-Einzugshilfen",
+      "group_type": "Werkzeuggruppe",
+      "bookings": [],
+      "status": {
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
+      }
+    },
+    {
+      "id": 151,
+      "name": "ESYLUX ESY-Pen EP10425356",
+      "type": "Werkzeug",
+      "group_id": 8,
+      "inventory_no": "V1.04408",
+      "location": "Homburg",
+      "notes": "in Tasche mit Zubehör: 1St.Pen EP10425356, 1St.Ladegerät EP10425356, 1St.Bedienungsanleitung",
+      "archived": 0,
+      "deleted": 0,
+      "group_name": "Pool-Werkzeug",
       "group_type": "Werkzeuggruppe",
       "bookings": [],
       "status": {
