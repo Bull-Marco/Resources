@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-19T07:55:12+02:00",
+  "exported_at": "2026-10-19T08:25:12+02:00",
   "today": "2026-10-19",
   "resources": [
     {
@@ -2862,7 +2862,7 @@
           "id": 420,
           "resource_id": 148,
           "start_date": "2026-10-07",
-          "end_date": "2026-10-16",
+          "end_date": "2026-10-30",
           "slot": "TAG",
           "booked_by": "Maurice Staub",
           "user_id": null,
@@ -2875,9 +2875,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-16 · bei Maurice Staub"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-30 · bei Maurice Staub"
       }
     },
     {
@@ -5194,7 +5194,7 @@
           "id": 318,
           "resource_id": 37,
           "start_date": "2026-09-17",
-          "end_date": "2026-10-16",
+          "end_date": "2026-10-23",
           "slot": "TAG",
           "booked_by": "Mirko Nikolaus",
           "user_id": null,
@@ -5207,9 +5207,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-16 · bei Mirko Nikolaus"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-23 · bei Mirko Nikolaus"
       }
     },
     {
@@ -5838,6 +5838,21 @@
           "user_id": null,
           "project": "",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-10-19T08:12:57",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 454,
+          "resource_id": 94,
+          "start_date": "2026-10-19",
+          "end_date": "2026-10-23",
+          "slot": "TAG",
+          "booked_by": "Fabian Berger",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -5845,9 +5860,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-16 · bei Christian Montag"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-23 · bei Fabian Berger"
       }
     },
     {
@@ -6974,7 +6989,7 @@
           "id": 443,
           "resource_id": 77,
           "start_date": "2026-10-14",
-          "end_date": "2026-10-16",
+          "end_date": "2026-10-23",
           "slot": "TAG",
           "booked_by": "Thomas Lauerer",
           "user_id": null,
@@ -6987,9 +7002,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-16 · bei Thomas Lauerer"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-23 · bei Thomas Lauerer"
       }
     },
     {
@@ -7888,6 +7903,21 @@
           "user_id": null,
           "project": "",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-10-19T08:11:56",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 453,
+          "resource_id": 32,
+          "start_date": "2026-10-19",
+          "end_date": "2026-10-23",
+          "slot": "TAG",
+          "booked_by": "Fabian Berger",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -7895,9 +7925,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-16 · bei Christian Montag"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-23 · bei Fabian Berger"
       }
     },
     {
