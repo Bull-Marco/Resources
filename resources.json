@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-20T16:25:12+02:00",
-  "today": "2026-10-20",
+  "exported_at": "2026-10-21T00:25:12+02:00",
+  "today": "2026-10-21",
   "resources": [
     {
       "id": 91,
@@ -1675,9 +1675,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-21 · bei Tobias Knopf"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Tobias Knopf"
       }
     },
     {
@@ -2088,9 +2088,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-21 · bei Maurice Staub"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Maurice Staub"
       }
     },
     {
@@ -2382,9 +2382,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-21 · bei Maurice Staub"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Maurice Staub"
       }
     },
     {
@@ -4000,9 +4000,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-21 · bei Maurice Staub"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Maurice Staub"
       }
     },
     {
@@ -4853,9 +4853,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-21 · bei Maurice Staub"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Maurice Staub"
       }
     },
     {
@@ -7610,9 +7610,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-23 · bei Christian Montag"
       }
     },
     {
