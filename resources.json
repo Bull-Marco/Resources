@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-20T07:25:11+02:00",
+  "exported_at": "2026-10-20T07:55:11+02:00",
   "today": "2026-10-20",
   "resources": [
     {
@@ -1000,7 +1000,7 @@
           "id": 431,
           "resource_id": 124,
           "start_date": "2026-10-12",
-          "end_date": "2026-10-19",
+          "end_date": "2026-10-23",
           "slot": "TAG",
           "booked_by": "Fabian Ziegler-Kiefer",
           "user_id": 7,
@@ -1014,9 +1014,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-19 · bei Fabian Ziegler-Kiefer"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-23 · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -1543,6 +1543,21 @@
           "user_id": null,
           "project": "",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-10-20T07:37:47",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 465,
+          "resource_id": 89,
+          "start_date": "2026-10-20",
+          "end_date": "2026-10-23",
+          "slot": "TAG",
+          "booked_by": "Gero Lind",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -1550,9 +1565,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-16 · bei Hasan Iscan"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-23 · bei Gero Lind"
       }
     },
     {
@@ -1731,7 +1746,7 @@
           "id": 430,
           "resource_id": 139,
           "start_date": "2026-10-12",
-          "end_date": "2026-10-19",
+          "end_date": "2026-10-23",
           "slot": "TAG",
           "booked_by": "Fabian Ziegler-Kiefer",
           "user_id": 7,
@@ -1745,9 +1760,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-19 · bei Fabian Ziegler-Kiefer"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-23 · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -2590,16 +2605,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-20T07:39:11",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-19 · bei Quentin Richert"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -3114,7 +3129,7 @@
           "id": 432,
           "resource_id": 111,
           "start_date": "2026-10-12",
-          "end_date": "2026-10-19",
+          "end_date": "2026-10-23",
           "slot": "TAG",
           "booked_by": "Fabian Ziegler-Kiefer",
           "user_id": 7,
@@ -3128,9 +3143,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-19 · bei Fabian Ziegler-Kiefer"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-23 · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -3553,7 +3568,7 @@
           "id": 429,
           "resource_id": 138,
           "start_date": "2026-10-09",
-          "end_date": "2026-10-19",
+          "end_date": "2026-10-23",
           "slot": "TAG",
           "booked_by": "Jonathan Zöllner",
           "user_id": null,
@@ -3566,9 +3581,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-19 · bei Jonathan Zöllner"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-23 · bei Jonathan Zöllner"
       }
     },
     {
@@ -4801,8 +4816,8 @@
           "user_id": null,
           "project": "6.00 Uhr =>Schlüssel rauslegen",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-20T07:36:49",
           "deleted": 0,
           "deleted_at": null
         },
@@ -4823,9 +4838,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-19 · bei Emanuel Klotz"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -6131,16 +6146,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-20T07:38:06",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-16 · bei Hasan Iscan"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -6393,6 +6408,21 @@
           "user_id": null,
           "project": "",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-10-20T07:39:47",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 464,
+          "resource_id": 93,
+          "start_date": "2026-10-19",
+          "end_date": "2026-10-23",
+          "slot": "TAG",
+          "booked_by": "Fabian Berger",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -6400,9 +6430,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-16 · bei Christian Montag"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-23 · bei Fabian Berger"
       }
     },
     {
@@ -7872,7 +7902,7 @@
           "id": 422,
           "resource_id": 113,
           "start_date": "2026-10-08",
-          "end_date": "2026-10-19",
+          "end_date": "2026-10-23",
           "slot": "TAG",
           "booked_by": "Jonathan Zöllner",
           "user_id": 6,
@@ -7886,9 +7916,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-19 · bei Jonathan Zöllner"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-23 · bei Jonathan Zöllner"
       }
     },
     {
@@ -8122,16 +8152,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-20T07:38:18",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-16 · bei Hasan Iscan"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
