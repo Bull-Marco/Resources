@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-20T00:25:12+02:00",
+  "exported_at": "2026-10-20T07:25:11+02:00",
   "today": "2026-10-20",
   "resources": [
     {
@@ -1076,12 +1076,27 @@
           "returned_at": "2026-10-07T10:03:25",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 460,
+          "resource_id": 58,
+          "start_date": "2026-10-20",
+          "end_date": "2026-10-23",
+          "slot": "TAG",
+          "booked_by": "Gero Lind",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-23 · bei Gero Lind"
       }
     },
     {
@@ -2144,12 +2159,27 @@
           "returned_at": "2026-09-10T16:05:46",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 463,
+          "resource_id": 59,
+          "start_date": "2026-10-20",
+          "end_date": "2026-10-22",
+          "slot": "TAG",
+          "booked_by": "Maurice Staub",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-22 · bei Maurice Staub"
       }
     },
     {
@@ -8291,11 +8321,27 @@
       "deleted": 0,
       "group_name": "Sicherheitszubehör",
       "group_type": "Werkzeuggruppe",
-      "bookings": [],
+      "bookings": [
+        {
+          "id": 461,
+          "resource_id": 73,
+          "start_date": "2026-10-20",
+          "end_date": "2026-11-27",
+          "slot": "TAG",
+          "booked_by": "Philipp Kappler",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        }
+      ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-27 · bei Philipp Kappler"
       }
     },
     {
@@ -8325,12 +8371,27 @@
           "returned_at": "2026-10-02T12:32:48",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 462,
+          "resource_id": 74,
+          "start_date": "2026-10-20",
+          "end_date": "2026-11-27",
+          "slot": "TAG",
+          "booked_by": "Philipp Kappler",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-27 · bei Philipp Kappler"
       }
     },
     {
