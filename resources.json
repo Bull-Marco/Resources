@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-21T09:55:12+02:00",
+  "exported_at": "2026-10-21T10:25:12+02:00",
   "today": "2026-10-21",
   "resources": [
     {
@@ -7543,27 +7543,11 @@
       "deleted": 0,
       "group_name": "Auto Zubehör",
       "group_type": "Werkzeuggruppe",
-      "bookings": [
-        {
-          "id": 469,
-          "resource_id": 115,
-          "start_date": "2026-10-21",
-          "end_date": "2026-10-21",
-          "slot": "TAG",
-          "booked_by": "test",
-          "user_id": null,
-          "project": "",
-          "notes": "test",
-          "returned": 0,
-          "returned_at": null,
-          "deleted": 0,
-          "deleted_at": null
-        }
-      ],
+      "bookings": [],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei test"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
