@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-21T16:25:11+02:00",
+  "exported_at": "2026-10-21T16:55:11+02:00",
   "today": "2026-10-21",
   "resources": [
     {
@@ -2991,7 +2991,7 @@
           "id": 420,
           "resource_id": 148,
           "start_date": "2026-10-07",
-          "end_date": "2026-10-30",
+          "end_date": "2026-12-31",
           "slot": "TAG",
           "booked_by": "Maurice Staub",
           "user_id": null,
@@ -3006,7 +3006,7 @@
       "status": {
         "code": "out",
         "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-30 · bei Maurice Staub"
+        "detail": "Unterwegs bis 2026-12-31 · bei Maurice Staub"
       }
     },
     {
