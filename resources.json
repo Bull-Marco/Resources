@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-21T15:55:11+02:00",
+  "exported_at": "2026-10-21T16:25:11+02:00",
   "today": "2026-10-21",
   "resources": [
     {
@@ -1087,16 +1087,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-21T16:22:15",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-23 · bei Gero Lind"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -1558,16 +1558,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-21T16:22:38",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-23 · bei Gero Lind"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -2081,16 +2081,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-21T16:19:38",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Maurice Staub"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -2179,7 +2179,7 @@
           "id": 463,
           "resource_id": 59,
           "start_date": "2026-10-20",
-          "end_date": "2026-10-22",
+          "end_date": "2026-10-23",
           "slot": "TAG",
           "booked_by": "Maurice Staub",
           "user_id": null,
@@ -2194,7 +2194,7 @@
       "status": {
         "code": "out",
         "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-22 · bei Maurice Staub"
+        "detail": "Unterwegs bis 2026-10-23 · bei Maurice Staub"
       }
     },
     {
@@ -2375,16 +2375,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-21T16:19:27",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Maurice Staub"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -4028,16 +4028,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-21T16:18:59",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Maurice Staub"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -4866,8 +4866,8 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-21T16:19:07",
           "deleted": 0,
           "deleted_at": null
         },
@@ -4888,9 +4888,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Maurice Staub"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -6027,16 +6027,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-21T16:20:12",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-23 · bei Fabian Berger"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -7184,16 +7184,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-21T16:06:26",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-23 · bei Thomas Lauerer"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -8137,16 +8137,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-21T16:20:24",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-23 · bei Fabian Berger"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
