@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-21T00:25:12+02:00",
+  "exported_at": "2026-10-21T09:25:12+02:00",
   "today": "2026-10-21",
   "resources": [
     {
@@ -5240,12 +5240,27 @@
           "returned_at": "2026-10-07T10:05:55",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 468,
+          "resource_id": 36,
+          "start_date": "2026-10-21",
+          "end_date": "2026-10-22",
+          "slot": "TAG",
+          "booked_by": "Hasan Ican",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-09-30 · bei Jörg Schneider"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-22 · bei Hasan Ican"
       }
     },
     {
