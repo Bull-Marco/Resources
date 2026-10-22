@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-22T08:55:12+02:00",
+  "exported_at": "2026-10-22T09:55:12+02:00",
   "today": "2026-10-22",
   "resources": [
     {
@@ -118,21 +118,6 @@
           "notes": "hat Ihn nur über Nach für nach Hause",
           "returned": 1,
           "returned_at": "2026-10-13T07:36:21",
-          "deleted": 0,
-          "deleted_at": null
-        },
-        {
-          "id": 458,
-          "resource_id": 91,
-          "start_date": "2026-10-23",
-          "end_date": "2026-10-27",
-          "slot": "TAG",
-          "booked_by": "Wegner Nico",
-          "user_id": null,
-          "project": "Ersatz bis neues Auto von Nico zugelassen ist",
-          "notes": "",
-          "returned": 0,
-          "returned_at": null,
           "deleted": 0,
           "deleted_at": null
         }
@@ -446,12 +431,27 @@
           "returned_at": "2026-10-02T08:35:56",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 473,
+          "resource_id": 107,
+          "start_date": "2026-10-22",
+          "end_date": "2026-10-27",
+          "slot": "TAG",
+          "booked_by": "Nico Wegner",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-27 · bei Nico Wegner"
       }
     },
     {
@@ -7972,12 +7972,27 @@
           "returned_at": "2026-09-07T12:28:57",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 474,
+          "resource_id": 55,
+          "start_date": "2026-10-22",
+          "end_date": "2026-10-23",
+          "slot": "TAG",
+          "booked_by": "Fabian Berger",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-23 · bei Fabian Berger"
       }
     },
     {
