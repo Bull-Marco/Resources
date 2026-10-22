@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-22T13:25:12+02:00",
+  "exported_at": "2026-10-22T15:25:12+02:00",
   "today": "2026-10-22",
   "resources": [
     {
@@ -958,6 +958,21 @@
           "notes": "",
           "returned": 1,
           "returned_at": "2026-10-08T14:42:38",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 479,
+          "resource_id": 16,
+          "start_date": "2026-11-04",
+          "end_date": "2026-11-05",
+          "slot": "TAG",
+          "booked_by": "Wegner Niko",
+          "user_id": null,
+          "project": "Braun Bexbach",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
           "deleted": 0,
           "deleted_at": null
         }
@@ -5675,6 +5690,25 @@
       }
     },
     {
+      "id": 155,
+      "name": "Milwaukee Akku-Hydraulische Lochstanze M18HKP-201CA",
+      "type": "Werkzeug",
+      "group_id": 8,
+      "inventory_no": "#4933451204",
+      "location": "Homburg",
+      "notes": "im Koffer bestehend aus: 1St. M18HKP Lochstanze/Serien-Nr.45603003000163; 1St. Coupler mit Schnellwechselsystem; 1St. M12-18C Ladegerät/Serien-Nr. 4330470S00317645; 1St. M18B2 Akku/Serien-Nr.4932430062; 1St.Zugschraube 11,1mm; 1St.Zugschraube 19mm; 1St. Ballpull; Je 1St. Stempel & Matritze M16/M20/M25/32/M40",
+      "archived": 0,
+      "deleted": 0,
+      "group_name": "Pool-Werkzeug",
+      "group_type": "Werkzeuggruppe",
+      "bookings": [],
+      "status": {
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
+      }
+    },
+    {
       "id": 104,
       "name": "Milwaukee Kabeleinzugshilfe 30M 48-22-4195-01",
       "type": "Werkzeug",
@@ -7103,6 +7137,21 @@
           "notes": "",
           "returned": 1,
           "returned_at": "2026-10-13T16:30:48",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 478,
+          "resource_id": 19,
+          "start_date": "2026-11-04",
+          "end_date": "2026-11-05",
+          "slot": "TAG",
+          "booked_by": "Nico Wegner",
+          "user_id": null,
+          "project": "Braun Bexbach",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
           "deleted": 0,
           "deleted_at": null
         }
