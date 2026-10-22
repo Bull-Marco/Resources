@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-22T09:55:12+02:00",
+  "exported_at": "2026-10-22T12:25:12+02:00",
   "today": "2026-10-22",
   "resources": [
     {
@@ -4881,8 +4881,8 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-22T12:18:08",
           "deleted": 0,
           "deleted_at": null
         },
@@ -4903,9 +4903,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Julia Wegner"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
