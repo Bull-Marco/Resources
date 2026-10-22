@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-22T08:25:12+02:00",
+  "exported_at": "2026-10-22T08:55:12+02:00",
   "today": "2026-10-22",
   "resources": [
     {
@@ -4872,6 +4872,21 @@
           "deleted_at": null
         },
         {
+          "id": 472,
+          "resource_id": 92,
+          "start_date": "2026-10-22",
+          "end_date": "2026-10-22",
+          "slot": "TAG",
+          "booked_by": "Julia Wegner",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
           "id": 459,
           "resource_id": 92,
           "start_date": "2026-10-23",
@@ -4888,9 +4903,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Julia Wegner"
       }
     },
     {
