@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-22T15:25:12+02:00",
+  "exported_at": "2026-10-22T16:25:12+02:00",
   "today": "2026-10-22",
   "resources": [
     {
@@ -1371,12 +1371,27 @@
           "returned_at": "2026-08-10T08:47:59",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 480,
+          "resource_id": 67,
+          "start_date": "2026-10-22",
+          "end_date": "2026-10-30",
+          "slot": "TAG",
+          "booked_by": "Staub Maurice",
+          "user_id": null,
+          "project": "Rhenus",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-30 · bei Staub Maurice"
       }
     },
     {
@@ -8290,12 +8305,27 @@
           "returned_at": "2026-10-21T16:20:24",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 481,
+          "resource_id": 32,
+          "start_date": "2026-10-22",
+          "end_date": "2026-10-30",
+          "slot": "TAG",
+          "booked_by": "Staub Maurice",
+          "user_id": null,
+          "project": "Rhenus",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-30 · bei Staub Maurice"
       }
     },
     {
@@ -8385,12 +8415,27 @@
           "returned_at": "2026-10-20T07:38:18",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 482,
+          "resource_id": 34,
+          "start_date": "2026-10-22",
+          "end_date": "2026-10-30",
+          "slot": "TAG",
+          "booked_by": "Staub Maurice",
+          "user_id": null,
+          "project": "Rhenus",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-30 · bei Staub Maurice"
       }
     },
     {
