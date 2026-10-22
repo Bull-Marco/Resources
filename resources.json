@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-22T16:25:12+02:00",
-  "today": "2026-10-22",
+  "exported_at": "2026-10-23T00:25:11+02:00",
+  "today": "2026-10-23",
   "resources": [
     {
       "id": 91,
@@ -1029,9 +1029,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-23 · bei Fabian Ziegler-Kiefer"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -1500,9 +1500,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-23 · bei Fabian Ziegler-Kiefer"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -1790,9 +1790,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-23 · bei Fabian Ziegler-Kiefer"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -2222,9 +2222,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-23 · bei Maurice Staub"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Maurice Staub"
       }
     },
     {
@@ -2929,9 +2929,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-26 · bei Dimitrios Zagklaris"
       }
     },
     {
@@ -3278,9 +3278,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-23 · bei Fabian Ziegler-Kiefer"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -3716,9 +3716,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-23 · bei Jonathan Zöllner"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jonathan Zöllner"
       }
     },
     {
@@ -4624,9 +4624,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-23 · bei Mirko Nikolaus"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Mirko Nikolaus"
       }
     },
     {
@@ -5003,9 +5003,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-27 · bei Jörg Schneider"
       }
     },
     {
@@ -5496,9 +5496,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-23 · bei Mirko Nikolaus"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Mirko Nikolaus"
       }
     },
     {
@@ -6629,9 +6629,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-23 · bei Fabian Berger"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Fabian Berger"
       }
     },
     {
@@ -7809,9 +7809,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-23 · bei Christian Montag"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Christian Montag"
       }
     },
     {
@@ -8124,9 +8124,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-23 · bei Fabian Berger"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Fabian Berger"
       }
     },
     {
@@ -8160,9 +8160,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-23 · bei Jonathan Zöllner"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jonathan Zöllner"
       }
     },
     {
