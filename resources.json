@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-23T07:25:11+02:00",
+  "exported_at": "2026-10-23T07:55:11+02:00",
   "today": "2026-10-23",
   "resources": [
     {
@@ -1015,7 +1015,7 @@
           "id": 431,
           "resource_id": 124,
           "start_date": "2026-10-12",
-          "end_date": "2026-10-23",
+          "end_date": "2026-10-28",
           "slot": "TAG",
           "booked_by": "Fabian Ziegler-Kiefer",
           "user_id": 7,
@@ -1029,9 +1029,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Fabian Ziegler-Kiefer"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-28 · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -1487,7 +1487,7 @@
           "id": 437,
           "resource_id": 76,
           "start_date": "2026-10-12",
-          "end_date": "2026-10-23",
+          "end_date": "2026-10-28",
           "slot": "TAG",
           "booked_by": "Fabian Ziegler-Kiefer",
           "user_id": null,
@@ -1500,9 +1500,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Fabian Ziegler-Kiefer"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-28 · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -1692,7 +1692,7 @@
           "id": 446,
           "resource_id": 57,
           "start_date": "2026-10-14",
-          "end_date": "2026-10-21",
+          "end_date": "2026-10-30",
           "slot": "TAG",
           "booked_by": "Tobias Knopf",
           "user_id": null,
@@ -1705,9 +1705,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-21 · bei Tobias Knopf"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-30 · bei Tobias Knopf"
       }
     },
     {
@@ -1776,7 +1776,7 @@
           "id": 430,
           "resource_id": 139,
           "start_date": "2026-10-12",
-          "end_date": "2026-10-23",
+          "end_date": "2026-10-28",
           "slot": "TAG",
           "booked_by": "Fabian Ziegler-Kiefer",
           "user_id": 7,
@@ -1790,9 +1790,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Fabian Ziegler-Kiefer"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-28 · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -3264,7 +3264,7 @@
           "id": 432,
           "resource_id": 111,
           "start_date": "2026-10-12",
-          "end_date": "2026-10-23",
+          "end_date": "2026-10-28",
           "slot": "TAG",
           "booked_by": "Fabian Ziegler-Kiefer",
           "user_id": 7,
@@ -3278,9 +3278,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Fabian Ziegler-Kiefer"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-28 · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -3614,12 +3614,27 @@
           "returned_at": "2026-09-24T16:05:42",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 484,
+          "resource_id": 65,
+          "start_date": "2026-10-23",
+          "end_date": "2026-10-23",
+          "slot": "TAG",
+          "booked_by": "Jonathan Zöllner",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jonathan Zöllner"
       }
     },
     {
@@ -3703,7 +3718,7 @@
           "id": 429,
           "resource_id": 138,
           "start_date": "2026-10-09",
-          "end_date": "2026-10-23",
+          "end_date": "2026-10-26",
           "slot": "TAG",
           "booked_by": "Jonathan Zöllner",
           "user_id": null,
@@ -3716,9 +3731,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Jonathan Zöllner"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-26 · bei Jonathan Zöllner"
       }
     },
     {
@@ -5405,12 +5420,27 @@
           "returned_at": "2026-10-21T15:47:52",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 483,
+          "resource_id": 36,
+          "start_date": "2026-10-23",
+          "end_date": "2026-10-23",
+          "slot": "TAG",
+          "booked_by": "Jonathan Zöllner",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-09-30 · bei Jörg Schneider"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jonathan Zöllner"
       }
     },
     {
@@ -6622,16 +6652,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-23T07:27:50",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Fabian Berger"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -8146,7 +8176,7 @@
           "id": 422,
           "resource_id": 113,
           "start_date": "2026-10-08",
-          "end_date": "2026-10-23",
+          "end_date": "2026-10-26",
           "slot": "TAG",
           "booked_by": "Jonathan Zöllner",
           "user_id": 6,
@@ -8160,9 +8190,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Jonathan Zöllner"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-26 · bei Jonathan Zöllner"
       }
     },
     {
