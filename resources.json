@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-23T13:55:12+02:00",
-  "today": "2026-10-23",
+  "exported_at": "2026-10-24T00:25:12+02:00",
+  "today": "2026-10-24",
   "resources": [
     {
       "id": 91,
@@ -2222,9 +2222,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Maurice Staub"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-23 · bei Maurice Staub"
       }
     },
     {
@@ -3632,9 +3632,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Jonathan Zöllner"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-23 · bei Jonathan Zöllner"
       }
     },
     {
@@ -4639,9 +4639,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Mirko Nikolaus"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-23 · bei Mirko Nikolaus"
       }
     },
     {
@@ -5438,9 +5438,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Jonathan Zöllner"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-23 · bei Jonathan Zöllner"
       }
     },
     {
@@ -5526,9 +5526,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Mirko Nikolaus"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-23 · bei Mirko Nikolaus"
       }
     },
     {
