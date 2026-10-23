@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-23T07:55:11+02:00",
+  "exported_at": "2026-10-23T13:25:12+02:00",
   "today": "2026-10-23",
   "resources": [
     {
@@ -7733,6 +7733,21 @@
           "user_id": null,
           "project": "",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-10-23T13:15:41",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 485,
+          "resource_id": 90,
+          "start_date": "2026-10-26",
+          "end_date": "2026-10-26",
+          "slot": "TAG",
+          "booked_by": "Jonathan Zöllner",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -7740,9 +7755,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-27 · bei Jörg Schneider"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
