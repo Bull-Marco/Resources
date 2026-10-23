@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-23T13:25:12+02:00",
+  "exported_at": "2026-10-23T13:55:12+02:00",
   "today": "2026-10-23",
   "resources": [
     {
@@ -7847,16 +7847,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-23T13:45:15",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Christian Montag"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
