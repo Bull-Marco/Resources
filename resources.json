@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-25T00:25:12+02:00",
-  "today": "2026-10-25",
+  "exported_at": "2026-10-26T00:25:11+01:00",
+  "today": "2026-10-26",
   "resources": [
     {
       "id": 91,
@@ -2929,9 +2929,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-26 · bei Dimitrios Zagklaris"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Dimitrios Zagklaris"
       }
     },
     {
@@ -2964,9 +2964,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-30 · bei Sebastian Brede"
       }
     },
     {
@@ -3731,9 +3731,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-26 · bei Jonathan Zöllner"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jonathan Zöllner"
       }
     },
     {
@@ -7755,9 +7755,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jonathan Zöllner"
       }
     },
     {
@@ -8205,9 +8205,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-26 · bei Jonathan Zöllner"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jonathan Zöllner"
       }
     },
     {
