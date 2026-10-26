@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-26T14:55:12+01:00",
+  "exported_at": "2026-10-26T17:56:27+01:00",
   "today": "2026-10-26",
   "resources": [
     {
@@ -4656,7 +4656,7 @@
           "id": 455,
           "resource_id": 24,
           "start_date": "2026-10-19",
-          "end_date": "2026-10-23",
+          "end_date": "2026-11-30",
           "slot": "TAG",
           "booked_by": "Mirko Nikolaus",
           "user_id": null,
@@ -4669,9 +4669,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-23 · bei Mirko Nikolaus"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-30 · bei Mirko Nikolaus"
       }
     },
     {
@@ -5558,7 +5558,7 @@
           "id": 318,
           "resource_id": 37,
           "start_date": "2026-09-17",
-          "end_date": "2026-10-28",
+          "end_date": "2026-11-30",
           "slot": "TAG",
           "booked_by": "Mirko Nikolaus",
           "user_id": null,
@@ -5573,7 +5573,7 @@
       "status": {
         "code": "out",
         "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-28 · bei Mirko Nikolaus"
+        "detail": "Unterwegs bis 2026-11-30 · bei Mirko Nikolaus"
       }
     },
     {
@@ -7808,16 +7808,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-10-26T17:26:10",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Jonathan Zöllner"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
