@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-26T00:25:11+01:00",
+  "exported_at": "2026-10-26T08:25:12+01:00",
   "today": "2026-10-26",
   "resources": [
     {
@@ -118,6 +118,21 @@
           "notes": "hat Ihn nur über Nach für nach Hause",
           "returned": 1,
           "returned_at": "2026-10-13T07:36:21",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 486,
+          "resource_id": 91,
+          "start_date": "2026-10-29",
+          "end_date": "2026-10-29",
+          "slot": "TAG",
+          "booked_by": "Julia Wegner",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
           "deleted": 0,
           "deleted_at": null
         }
