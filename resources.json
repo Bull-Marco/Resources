@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-26T08:55:12+01:00",
+  "exported_at": "2026-10-26T09:25:12+01:00",
   "today": "2026-10-26",
   "resources": [
     {
@@ -3640,6 +3640,21 @@
           "user_id": null,
           "project": "",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-10-26T08:56:06",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 489,
+          "resource_id": 65,
+          "start_date": "2026-10-26",
+          "end_date": "2026-10-28",
+          "slot": "TAG",
+          "booked_by": "Edwin Teves",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -3647,9 +3662,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-23 · bei Jonathan Zöllner"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-28 · bei Edwin Teves"
       }
     },
     {
@@ -3733,7 +3748,7 @@
           "id": 429,
           "resource_id": 138,
           "start_date": "2026-10-09",
-          "end_date": "2026-10-26",
+          "end_date": "2026-10-28",
           "slot": "TAG",
           "booked_by": "Jonathan Zöllner",
           "user_id": null,
@@ -3746,9 +3761,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Jonathan Zöllner"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-28 · bei Jonathan Zöllner"
       }
     },
     {
@@ -5446,6 +5461,21 @@
           "user_id": null,
           "project": "",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-10-26T08:56:47",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 490,
+          "resource_id": 36,
+          "start_date": "2026-10-26",
+          "end_date": "2026-10-28",
+          "slot": "TAG",
+          "booked_by": "Edwin Teves",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -5453,9 +5483,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-23 · bei Jonathan Zöllner"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-28 · bei Edwin Teves"
       }
     },
     {
@@ -8221,7 +8251,7 @@
           "id": 422,
           "resource_id": 113,
           "start_date": "2026-10-08",
-          "end_date": "2026-10-26",
+          "end_date": "2026-10-28",
           "slot": "TAG",
           "booked_by": "Jonathan Zöllner",
           "user_id": 6,
@@ -8235,9 +8265,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Jonathan Zöllner"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-10-28 · bei Jonathan Zöllner"
       }
     },
     {
