@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-26T17:56:27+01:00",
-  "today": "2026-10-26",
+  "exported_at": "2026-10-27T00:26:51+01:00",
+  "today": "2026-10-27",
   "resources": [
     {
       "id": 91,
@@ -353,9 +353,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-27 · bei Jörg Schneider"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jörg Schneider"
       }
     },
     {
@@ -464,9 +464,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-27 · bei Nico Wegner"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Nico Wegner"
       }
     },
     {
@@ -2944,9 +2944,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Dimitrios Zagklaris"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-26 · bei Dimitrios Zagklaris"
       }
     },
     {
@@ -5048,9 +5048,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-10-27 · bei Jörg Schneider"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jörg Schneider"
       }
     },
     {
