@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-09T16:25:11+01:00",
-  "today": "2026-11-09",
+  "exported_at": "2026-11-10T00:25:11+01:00",
+  "today": "2026-11-10",
   "resources": [
     {
       "id": 91,
@@ -539,9 +539,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-11 · bei Pascal Rivera Campos"
       }
     },
     {
@@ -1145,7 +1145,7 @@
       "status": {
         "code": "due",
         "label": "Heute",
-        "detail": "Heute zurück · bei Fabian Berger"
+        "detail": "Heute zurück · bei Thomas Lauerer"
       }
     },
     {
@@ -1304,9 +1304,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-10 · bei Gero Lind"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Gero Lind"
       }
     },
     {
@@ -1710,9 +1710,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Fabian Ziegler-Kiefer"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-11-09 · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -1835,9 +1835,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Jonathan Zöllner"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-11-09 · bei Jonathan Zöllner"
       }
     },
     {
@@ -1961,9 +1961,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Jonathan Zöllner"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-11-09 · bei Jonathan Zöllner"
       }
     },
     {
@@ -4541,9 +4541,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-11 · bei Jonathan Zöllner"
       }
     },
     {
@@ -6187,9 +6187,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Hasan Ican"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-11-09 · bei Hasan Ican"
       }
     },
     {
@@ -6544,9 +6544,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Philipp Kappler"
       }
     },
     {
@@ -6700,9 +6700,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-10 · bei Quentin Richert"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Quentin Richert"
       }
     },
     {
@@ -8562,9 +8562,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Quentin Richert"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-11-09 · bei Quentin Richert"
       }
     },
     {
