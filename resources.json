@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-09T13:55:11+01:00",
+  "exported_at": "2026-11-09T16:25:11+01:00",
   "today": "2026-11-09",
   "resources": [
     {
@@ -6522,6 +6522,21 @@
           "user_id": null,
           "project": "",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-11-09T16:11:16",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 544,
+          "resource_id": 29,
+          "start_date": "2026-11-10",
+          "end_date": "2026-11-10",
+          "slot": "TAG",
+          "booked_by": "Philipp Kappler",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -6529,9 +6544,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Fabian Berger"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
