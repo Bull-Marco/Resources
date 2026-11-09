@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-03T11:22:31+01:00",
-  "today": "2026-11-03",
+  "exported_at": "2026-11-09T08:14:59+01:00",
+  "today": "2026-11-09",
   "resources": [
     {
       "id": 91,
@@ -315,12 +315,27 @@
           "returned_at": "2026-10-07T08:05:15",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 521,
+          "resource_id": 23,
+          "start_date": "2026-11-05",
+          "end_date": "2026-11-06",
+          "slot": "TAG",
+          "booked_by": "Hasan Iscan",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-11-06 · bei Hasan Iscan"
       }
     },
     {
@@ -489,6 +504,21 @@
           "notes": "",
           "returned": 1,
           "returned_at": "2026-10-29T11:14:25",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 516,
+          "resource_id": 107,
+          "start_date": "2026-11-04",
+          "end_date": "2026-11-05",
+          "slot": "TAG",
+          "booked_by": "Jörg Schneider",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 1,
+          "returned_at": "2026-11-05T07:24:46",
           "deleted": 0,
           "deleted_at": null
         }
@@ -1031,6 +1061,66 @@
           "user_id": null,
           "project": "Braun Bexbach",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-11-05T07:52:39",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 522,
+          "resource_id": 16,
+          "start_date": "2026-11-05",
+          "end_date": "2026-11-05",
+          "slot": "TAG",
+          "booked_by": "Fabian Berger",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 1,
+          "returned_at": "2026-11-06T07:22:05",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 523,
+          "resource_id": 16,
+          "start_date": "2026-11-06",
+          "end_date": "2026-11-06",
+          "slot": "TAG",
+          "booked_by": "Thomas Lauerer",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 532,
+          "resource_id": 16,
+          "start_date": "2026-11-09",
+          "end_date": "2026-11-09",
+          "slot": "TAG",
+          "booked_by": "Fabian Berger",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 533,
+          "resource_id": 16,
+          "start_date": "2026-11-10",
+          "end_date": "2026-11-10",
+          "slot": "TAG",
+          "booked_by": "Thomas Lauerer",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -1038,9 +1128,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Fabian Berger"
       }
     },
     {
@@ -1177,6 +1267,21 @@
           "user_id": null,
           "project": "",
           "notes": "inkl. 28er Bohrer Max Aufnahme",
+          "returned": 1,
+          "returned_at": "2026-11-04T07:35:33",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 539,
+          "resource_id": 58,
+          "start_date": "2026-11-09",
+          "end_date": "2026-11-10",
+          "slot": "TAG",
+          "booked_by": "Gero Lind",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -1184,9 +1289,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Lind Gero"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-10 · bei Gero Lind"
       }
     },
     {
@@ -1572,12 +1677,27 @@
           "returned_at": null,
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 538,
+          "resource_id": 76,
+          "start_date": "2026-11-09",
+          "end_date": "2026-11-09",
+          "slot": "TAG",
+          "booked_by": "Fabian Ziegler-Kiefer",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-30 · bei Fabian Ziegler-Kiefer"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -1678,6 +1798,21 @@
           "user_id": null,
           "project": "",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-11-04T07:35:32",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 537,
+          "resource_id": 89,
+          "start_date": "2026-11-09",
+          "end_date": "2026-11-09",
+          "slot": "TAG",
+          "booked_by": "Jonathan Zöllner",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -1687,7 +1822,7 @@
       "status": {
         "code": "due",
         "label": "Heute",
-        "detail": "Heute zurück · bei Gero Lind"
+        "detail": "Heute zurück · bei Jonathan Zöllner"
       }
     },
     {
@@ -1792,12 +1927,28 @@
           "returned_at": "2026-10-30T13:34:39",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 520,
+          "resource_id": 57,
+          "start_date": "2026-11-05",
+          "end_date": "2026-11-06",
+          "slot": "TAG",
+          "booked_by": "Jonathan Zöllner",
+          "user_id": 6,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null,
+          "user_name": "Jonathan Zöllner"
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-11-06 · bei Jonathan Zöllner"
       }
     },
     {
@@ -1923,16 +2074,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-11-03T13:01:06",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-06 · bei Jörg Schneider"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -2220,12 +2371,27 @@
           "returned_at": "2026-10-21T16:19:38",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 519,
+          "resource_id": 61,
+          "start_date": "2026-11-05",
+          "end_date": "2026-11-09",
+          "slot": "TAG",
+          "booked_by": "Quentin Richert",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Quentin Richert"
       }
     },
     {
@@ -2514,12 +2680,27 @@
           "returned_at": "2026-10-21T16:19:27",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 531,
+          "resource_id": 79,
+          "start_date": "2026-11-06",
+          "end_date": "2026-11-13",
+          "slot": "TAG",
+          "booked_by": "Jonathan Zöllner",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-13 · bei Jonathan Zöllner"
       }
     },
     {
@@ -2744,12 +2925,27 @@
           "returned_at": "2026-10-20T07:39:11",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 527,
+          "resource_id": 125,
+          "start_date": "2026-11-05",
+          "end_date": "2026-11-09",
+          "slot": "TAG",
+          "booked_by": "Quentin Richert",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Quentin Richert"
       }
     },
     {
@@ -3091,7 +3287,7 @@
           "id": 477,
           "resource_id": 153,
           "start_date": "2026-10-22",
-          "end_date": "2026-11-06",
+          "end_date": "2026-11-28",
           "slot": "TAG",
           "booked_by": "Maurice Staub",
           "user_id": null,
@@ -3106,7 +3302,7 @@
       "status": {
         "code": "out",
         "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-06 · bei Maurice Staub"
+        "detail": "Unterwegs bis 2026-11-28 · bei Maurice Staub"
       }
     },
     {
@@ -3126,7 +3322,7 @@
           "id": 476,
           "resource_id": 154,
           "start_date": "2026-10-22",
-          "end_date": "2026-11-06",
+          "end_date": "2026-11-28",
           "slot": "TAG",
           "booked_by": "Maurice Staub",
           "user_id": null,
@@ -3141,7 +3337,7 @@
       "status": {
         "code": "out",
         "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-06 · bei Maurice Staub"
+        "detail": "Unterwegs bis 2026-11-28 · bei Maurice Staub"
       }
     },
     {
@@ -4293,6 +4489,36 @@
           "user_id": null,
           "project": "",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-11-05T07:53:27",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 518,
+          "resource_id": 95,
+          "start_date": "2026-11-05",
+          "end_date": "2026-11-09",
+          "slot": "TAG",
+          "booked_by": "Quentin Richert",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 535,
+          "resource_id": 95,
+          "start_date": "2026-11-10",
+          "end_date": "2026-11-11",
+          "slot": "TAG",
+          "booked_by": "Jonathan Zöllner",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -4300,9 +4526,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-04 · bei Fabian Berger"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Quentin Richert"
       }
     },
     {
@@ -5206,6 +5432,21 @@
           "user_id": null,
           "project": "",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-11-04T07:27:19",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 530,
+          "resource_id": 92,
+          "start_date": "2026-11-09",
+          "end_date": "2026-11-11",
+          "slot": "TAG",
+          "booked_by": "Jörg Schneider",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -5213,9 +5454,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Ali Alwiso"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-11 · bei Jörg Schneider"
       }
     },
     {
@@ -5913,12 +6154,27 @@
           "returned_at": "2026-06-25T09:25:11",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 540,
+          "resource_id": 70,
+          "start_date": "2026-11-09",
+          "end_date": "2026-11-09",
+          "slot": "TAG",
+          "booked_by": "Hasan Ican",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Hasan Ican"
       }
     },
     {
@@ -6245,7 +6501,7 @@
           "id": 506,
           "resource_id": 29,
           "start_date": "2026-11-02",
-          "end_date": "2026-11-04",
+          "end_date": "2026-11-06",
           "slot": "TAG",
           "booked_by": "Fabian Berger",
           "user_id": null,
@@ -6258,9 +6514,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-04 · bei Fabian Berger"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-11-06 · bei Fabian Berger"
       }
     },
     {
@@ -6392,6 +6648,21 @@
           "user_id": null,
           "project": "",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-11-05T07:38:02",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 534,
+          "resource_id": 31,
+          "start_date": "2026-11-06",
+          "end_date": "2026-11-10",
+          "slot": "TAG",
+          "booked_by": "Quentin Richert",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -6399,9 +6670,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-10 · bei Quentin Richert"
       }
     },
     {
@@ -6569,9 +6840,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-06 · bei Christian Montag"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-11-06 · bei Christian Montag"
       }
     },
     {
@@ -7641,16 +7912,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-11-05T07:37:29",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-04 · bei Thomas Lauerer"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -8228,12 +8499,27 @@
           "returned_at": "2026-10-23T13:45:15",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 526,
+          "resource_id": 17,
+          "start_date": "2026-11-06",
+          "end_date": "2026-11-09",
+          "slot": "TAG",
+          "booked_by": "Quentin Richert",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Quentin Richert"
       }
     },
     {
@@ -8400,12 +8686,27 @@
           "deleted_at": null
         },
         {
-          "id": 445,
+          "id": 524,
           "resource_id": 18,
-          "start_date": "2026-10-19",
-          "end_date": "2026-11-13",
+          "start_date": "2026-11-02",
+          "end_date": "2026-11-11",
           "slot": "TAG",
           "booked_by": "Quentin Richert",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 525,
+          "resource_id": 18,
+          "start_date": "2026-11-12",
+          "end_date": "2026-11-13",
+          "slot": "TAG",
+          "booked_by": "Christian Montag",
           "user_id": null,
           "project": "",
           "notes": "",
@@ -8418,7 +8719,7 @@
       "status": {
         "code": "out",
         "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-13 · bei Quentin Richert"
+        "detail": "Unterwegs bis 2026-11-11 · bei Quentin Richert"
       }
     },
     {
@@ -8543,12 +8844,27 @@
           "returned_at": "2026-10-23T07:23:20",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 536,
+          "resource_id": 55,
+          "start_date": "2026-11-09",
+          "end_date": "2026-11-12",
+          "slot": "TAG",
+          "booked_by": "Thomas Lauerer",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-12 · bei Thomas Lauerer"
       }
     },
     {
@@ -8978,12 +9294,27 @@
           "deleted": 0,
           "deleted_at": null,
           "user_name": "Christian montag"
+        },
+        {
+          "id": 528,
+          "resource_id": 71,
+          "start_date": "2026-11-06",
+          "end_date": "2026-11-13",
+          "slot": "TAG",
+          "booked_by": "Maurice Staub",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-13 · bei Maurice Staub"
       }
     },
     {
@@ -9043,12 +9374,27 @@
           "returned_at": "2026-09-17T12:03:41",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 529,
+          "resource_id": 72,
+          "start_date": "2026-11-06",
+          "end_date": "2026-11-13",
+          "slot": "TAG",
+          "booked_by": "Maurice Staub",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-13 · bei Maurice Staub"
       }
     },
     {
@@ -9148,11 +9494,27 @@
       "deleted": 0,
       "group_name": "Sicherheitszubehör",
       "group_type": "Werkzeuggruppe",
-      "bookings": [],
+      "bookings": [
+        {
+          "id": 541,
+          "resource_id": 75,
+          "start_date": "2026-11-09",
+          "end_date": "2026-11-13",
+          "slot": "TAG",
+          "booked_by": "Maurice Staub",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        }
+      ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-13 · bei Maurice Staub"
       }
     },
     {
