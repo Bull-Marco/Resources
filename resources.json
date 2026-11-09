@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-09T10:55:12+01:00",
+  "exported_at": "2026-11-09T12:55:12+01:00",
   "today": "2026-11-09",
   "resources": [
     {
@@ -326,16 +326,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-11-09T12:33:40",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-11-06 · bei Hasan Iscan"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -1091,8 +1091,8 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-11-09T12:33:29",
           "deleted": 0,
           "deleted_at": null
         },
@@ -1932,7 +1932,7 @@
           "id": 520,
           "resource_id": 57,
           "start_date": "2026-11-05",
-          "end_date": "2026-11-06",
+          "end_date": "2026-11-09",
           "slot": "TAG",
           "booked_by": "Jonathan Zöllner",
           "user_id": 6,
@@ -1946,9 +1946,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-11-06 · bei Jonathan Zöllner"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jonathan Zöllner"
       }
     },
     {
@@ -6501,7 +6501,7 @@
           "id": 506,
           "resource_id": 29,
           "start_date": "2026-11-02",
-          "end_date": "2026-11-06",
+          "end_date": "2026-11-09",
           "slot": "TAG",
           "booked_by": "Fabian Berger",
           "user_id": null,
@@ -6514,9 +6514,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-11-06 · bei Fabian Berger"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Fabian Berger"
       }
     },
     {
@@ -6827,7 +6827,7 @@
           "id": 504,
           "resource_id": 112,
           "start_date": "2026-11-02",
-          "end_date": "2026-11-06",
+          "end_date": "2026-11-13",
           "slot": "TAG",
           "booked_by": "Christian Montag",
           "user_id": null,
@@ -6840,9 +6840,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-11-06 · bei Christian Montag"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-13 · bei Christian Montag"
       }
     },
     {
