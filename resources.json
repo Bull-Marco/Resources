@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-10T00:25:11+01:00",
+  "exported_at": "2026-11-10T06:55:12+01:00",
   "today": "2026-11-10",
   "resources": [
     {
@@ -1703,8 +1703,8 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-11-10T06:53:32",
           "deleted": 0,
           "deleted_at": null
         }
@@ -1712,7 +1712,7 @@
       "status": {
         "code": "overdue",
         "label": "Überfällig",
-        "detail": "Überfällig seit 2026-11-09 · bei Fabian Ziegler-Kiefer"
+        "detail": "Überfällig seit 2026-10-30 · bei Fabian Ziegler-Kiefer"
       }
     },
     {
