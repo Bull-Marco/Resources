@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-10T14:25:12+01:00",
+  "exported_at": "2026-11-10T16:25:12+01:00",
   "today": "2026-11-10",
   "resources": [
     {
@@ -1136,16 +1136,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-11-10T16:03:49",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Thomas Lauerer"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -5039,16 +5039,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-11-10T16:01:52",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-30 · bei Mirko Nikolaus"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -6553,6 +6553,21 @@
           "user_id": null,
           "project": "",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-11-10T16:01:00",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 549,
+          "resource_id": 29,
+          "start_date": "2026-11-10",
+          "end_date": "2026-11-12",
+          "slot": "TAG",
+          "booked_by": "Weber Felix",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -6560,9 +6575,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Philipp Kappler"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-12 · bei Weber Felix"
       }
     },
     {
