@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-10T06:55:12+01:00",
+  "exported_at": "2026-11-10T07:25:12+01:00",
   "today": "2026-11-10",
   "resources": [
     {
@@ -2401,12 +2401,28 @@
           "returned_at": "2026-11-09T10:45:13",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 545,
+          "resource_id": 61,
+          "start_date": "2026-11-10",
+          "end_date": "2026-11-11",
+          "slot": "TAG",
+          "booked_by": "Jonathan Zöllner",
+          "user_id": 6,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null,
+          "user_name": "Jonathan Zöllner"
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-11 · bei Jonathan Zöllner"
       }
     },
     {
@@ -7066,12 +7082,27 @@
           "returned_at": "2026-08-21T12:54:35",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 546,
+          "resource_id": 103,
+          "start_date": "2026-11-10",
+          "end_date": "2026-11-11",
+          "slot": "TAG",
+          "booked_by": "Hasan",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-11 · bei Hasan"
       }
     },
     {
