@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-10T16:25:12+01:00",
-  "today": "2026-11-10",
+  "exported_at": "2026-11-11T00:25:11+01:00",
+  "today": "2026-11-11",
   "resources": [
     {
       "id": 91,
@@ -539,9 +539,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-11 · bei Pascal Rivera Campos"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Pascal Rivera Campos"
       }
     },
     {
@@ -1304,9 +1304,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Gero Lind"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-11-10 · bei Gero Lind"
       }
     },
     {
@@ -2420,9 +2420,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-11 · bei Jonathan Zöllner"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jonathan Zöllner"
       }
     },
     {
@@ -4557,9 +4557,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-11 · bei Jonathan Zöllner"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jonathan Zöllner"
       }
     },
     {
@@ -5485,9 +5485,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-11 · bei Jörg Schneider"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jörg Schneider"
       }
     },
     {
@@ -6203,9 +6203,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-11 · bei Hasan Ican"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Hasan Ican"
       }
     },
     {
@@ -6731,9 +6731,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Quentin Richert"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-11-10 · bei Quentin Richert"
       }
     },
     {
@@ -8838,9 +8838,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-11 · bei Quentin Richert"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Quentin Richert"
       }
     },
     {
