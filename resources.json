@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-11T00:25:11+01:00",
+  "exported_at": "2026-11-11T13:25:13+01:00",
   "today": "2026-11-11",
   "resources": [
     {
@@ -6196,16 +6196,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-11-11T13:18:54",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Hasan Ican"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
