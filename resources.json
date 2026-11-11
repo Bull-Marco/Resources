@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-11T16:55:11+01:00",
+  "exported_at": "2026-11-11T17:25:12+01:00",
   "today": "2026-11-11",
   "resources": [
     {
@@ -6739,16 +6739,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-11-11T16:57:52",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-11-10 · bei Quentin Richert"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
