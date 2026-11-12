@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-12T16:25:11+01:00",
-  "today": "2026-11-12",
+  "exported_at": "2026-11-13T00:25:11+01:00",
+  "today": "2026-11-13",
   "resources": [
     {
       "id": 91,
@@ -1976,9 +1976,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-13 · bei Christian Montag"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Christian Montag"
       }
     },
     {
@@ -4024,9 +4024,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-13 · bei Felix Weber"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Felix Weber"
       }
     },
     {
@@ -6163,9 +6163,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-13 · bei Felix Weber"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Felix Weber"
       }
     },
     {
@@ -6635,9 +6635,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Weber Felix"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-11-12 · bei Weber Felix"
       }
     },
     {
@@ -6961,9 +6961,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-13 · bei Christian Montag"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Christian Montag"
       }
     },
     {
@@ -7313,9 +7313,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-13 · bei Emil Vollmar"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Emil Vollmar"
       }
     },
     {
@@ -7971,9 +7971,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-13 · bei Reparatur"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Reparatur"
       }
     },
     {
@@ -8184,9 +8184,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-13 · bei Mirko Nikolaus"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Mirko Nikolaus"
       }
     },
     {
@@ -8599,9 +8599,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-13 · bei Maurice Staub"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Maurice Staub"
       }
     },
     {
@@ -8913,9 +8913,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-13 · bei Christian Montag"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Christian Montag"
       }
     },
     {
@@ -9523,9 +9523,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-13 · bei Maurice Staub"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Maurice Staub"
       }
     },
     {
@@ -9603,9 +9603,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-13 · bei Maurice Staub"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Maurice Staub"
       }
     },
     {
@@ -9723,9 +9723,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-13 · bei Maurice Staub"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Maurice Staub"
       }
     },
     {
