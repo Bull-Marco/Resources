@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-12T10:55:12+01:00",
+  "exported_at": "2026-11-12T16:25:11+01:00",
   "today": "2026-11-12",
   "resources": [
     {
@@ -9051,16 +9051,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-11-12T16:07:04",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Thomas Lauerer"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
