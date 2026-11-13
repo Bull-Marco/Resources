@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-13T00:25:11+01:00",
+  "exported_at": "2026-11-13T08:55:12+01:00",
   "today": "2026-11-13",
   "resources": [
     {
@@ -1186,6 +1186,22 @@
           "user_id": 7,
           "project": "",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-11-13T08:54:26",
+          "deleted": 0,
+          "deleted_at": null,
+          "user_name": "Fabian Ziegler-Kiefer"
+        },
+        {
+          "id": 560,
+          "resource_id": 124,
+          "start_date": "2026-11-13",
+          "end_date": "2026-11-18",
+          "slot": "TAG",
+          "booked_by": "Fabian Ziegler-Kiefer",
+          "user_id": 7,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -1194,9 +1210,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-30 · bei Fabian Ziegler-Kiefer"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-18 · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -1301,12 +1317,27 @@
           "returned_at": "2026-11-11T16:37:22",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 557,
+          "resource_id": 58,
+          "start_date": "2026-11-12",
+          "end_date": "2026-11-13",
+          "slot": "TAG",
+          "booked_by": "Jonathan Zöllner",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jonathan Zöllner"
       }
     },
     {
@@ -1688,8 +1719,8 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-11-13T08:53:17",
           "deleted": 0,
           "deleted_at": null
         },
@@ -1707,12 +1738,28 @@
           "returned_at": "2026-11-10T06:53:32",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 559,
+          "resource_id": 76,
+          "start_date": "2026-11-13",
+          "end_date": "2026-11-18",
+          "slot": "TAG",
+          "booked_by": "Fabian Ziegler-Kiefer",
+          "user_id": 7,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null,
+          "user_name": "Fabian Ziegler-Kiefer"
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-30 · bei Fabian Ziegler-Kiefer"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-18 · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -1832,12 +1879,27 @@
           "returned_at": "2026-11-11T16:25:56",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 556,
+          "resource_id": 89,
+          "start_date": "2026-11-12",
+          "end_date": "2026-11-13",
+          "slot": "TAG",
+          "booked_by": "Jonathan Zöllner",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jonathan Zöllner"
       }
     },
     {
@@ -5523,6 +5585,21 @@
           "user_id": null,
           "project": "",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-11-13T08:49:56",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 558,
+          "resource_id": 92,
+          "start_date": "2026-11-13",
+          "end_date": "2026-11-13",
+          "slot": "TAG",
+          "booked_by": "Sebastian Brede",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -5530,9 +5607,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-16 · bei Fabian Ziegler-Kiefer"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Sebastian Brede"
       }
     },
     {
@@ -6948,7 +7025,7 @@
           "id": 504,
           "resource_id": 112,
           "start_date": "2026-11-02",
-          "end_date": "2026-11-13",
+          "end_date": "2026-11-20",
           "slot": "TAG",
           "booked_by": "Christian Montag",
           "user_id": null,
@@ -6961,9 +7038,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Christian Montag"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-20 · bei Christian Montag"
       }
     },
     {
@@ -8891,8 +8968,8 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-11-13T08:46:43",
           "deleted": 0,
           "deleted_at": null
         },
@@ -8900,7 +8977,7 @@
           "id": 525,
           "resource_id": 18,
           "start_date": "2026-11-12",
-          "end_date": "2026-11-13",
+          "end_date": "2026-11-20",
           "slot": "TAG",
           "booked_by": "Christian Montag",
           "user_id": null,
@@ -8913,9 +8990,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Christian Montag"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-20 · bei Christian Montag"
       }
     },
     {
