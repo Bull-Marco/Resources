@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-13T08:55:12+01:00",
+  "exported_at": "2026-11-13T09:25:12+01:00",
   "today": "2026-11-13",
   "resources": [
     {
@@ -1322,7 +1322,7 @@
           "id": 557,
           "resource_id": 58,
           "start_date": "2026-11-12",
-          "end_date": "2026-11-13",
+          "end_date": "2026-11-16",
           "slot": "TAG",
           "booked_by": "Jonathan Zöllner",
           "user_id": null,
@@ -1335,9 +1335,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Jonathan Zöllner"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-16 · bei Jonathan Zöllner"
       }
     },
     {
@@ -1884,7 +1884,7 @@
           "id": 556,
           "resource_id": 89,
           "start_date": "2026-11-12",
-          "end_date": "2026-11-13",
+          "end_date": "2026-11-16",
           "slot": "TAG",
           "booked_by": "Jonathan Zöllner",
           "user_id": null,
@@ -1897,9 +1897,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Jonathan Zöllner"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-16 · bei Jonathan Zöllner"
       }
     },
     {
@@ -2120,12 +2120,28 @@
           "deleted": 0,
           "deleted_at": null,
           "user_name": "Fabian Ziegler-Kiefer"
+        },
+        {
+          "id": 561,
+          "resource_id": 139,
+          "start_date": "2026-11-13",
+          "end_date": "2026-11-18",
+          "slot": "TAG",
+          "booked_by": "Fabian Ziegler-Kiefer",
+          "user_id": 7,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null,
+          "user_name": "Fabian Ziegler-Kiefer"
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-18 · bei Fabian Ziegler-Kiefer"
       }
     },
     {
