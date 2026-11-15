@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-15T00:25:12+01:00",
-  "today": "2026-11-15",
+  "exported_at": "2026-11-16T00:25:11+01:00",
+  "today": "2026-11-16",
   "resources": [
     {
       "id": 91,
@@ -1335,9 +1335,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-16 · bei Jonathan Zöllner"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jonathan Zöllner"
       }
     },
     {
@@ -1897,9 +1897,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-16 · bei Jonathan Zöllner"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jonathan Zöllner"
       }
     },
     {
@@ -6728,9 +6728,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-16 · bei Weber Felix"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Weber Felix"
       }
     },
     {
