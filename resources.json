@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-16T15:55:12+01:00",
-  "today": "2026-11-16",
+  "exported_at": "2026-11-17T00:25:11+01:00",
+  "today": "2026-11-17",
   "resources": [
     {
       "id": 91,
@@ -6842,9 +6842,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Weber Felix"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-11-16 · bei Weber Felix"
       }
     },
     {
@@ -8292,9 +8292,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-17 · bei Thomas Lauerer"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Thomas Lauerer"
       }
     },
     {
