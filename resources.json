@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-16T00:25:11+01:00",
+  "exported_at": "2026-11-16T08:55:13+01:00",
   "today": "2026-11-16",
   "resources": [
     {
@@ -1328,6 +1328,21 @@
           "user_id": null,
           "project": "",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-11-16T08:41:35",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 563,
+          "resource_id": 58,
+          "start_date": "2026-11-16",
+          "end_date": "2026-11-18",
+          "slot": "TAG",
+          "booked_by": "Christian Montag",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -1335,9 +1350,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Jonathan Zöllner"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-18 · bei Christian Montag"
       }
     },
     {
@@ -1890,6 +1905,21 @@
           "user_id": null,
           "project": "",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-11-16T08:41:37",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 564,
+          "resource_id": 89,
+          "start_date": "2026-11-16",
+          "end_date": "2026-11-18",
+          "slot": "TAG",
+          "booked_by": "Christian Montag",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -1897,9 +1927,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Jonathan Zöllner"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-18 · bei Christian Montag"
       }
     },
     {
@@ -8279,7 +8309,7 @@
           "id": 548,
           "resource_id": 77,
           "start_date": "2026-11-10",
-          "end_date": "2026-11-13",
+          "end_date": "2026-11-20",
           "slot": "TAG",
           "booked_by": "Mirko Nikolaus",
           "user_id": null,
@@ -8292,9 +8322,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-11-13 · bei Mirko Nikolaus"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-20 · bei Mirko Nikolaus"
       }
     },
     {
