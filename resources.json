@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-16T08:55:13+01:00",
+  "exported_at": "2026-11-16T09:25:11+01:00",
   "today": "2026-11-16",
   "resources": [
     {
@@ -2653,6 +2653,25 @@
       }
     },
     {
+      "id": 157,
+      "name": "Bosch Struktur- und Kabelwanddetektor GMS 120",
+      "type": "Werkzeug",
+      "group_id": 8,
+      "inventory_no": "324142225",
+      "location": "Homburg",
+      "notes": "in Original Bosch Karton mit Zubehör: Bedienungsanleitung und Tasche ",
+      "archived": 0,
+      "deleted": 0,
+      "group_name": "Pool-Werkzeug",
+      "group_type": "Werkzeuggruppe",
+      "bookings": [],
+      "status": {
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
+      }
+    },
+    {
       "id": 123,
       "name": "Bosch Säbelsäge(Fuchsschwanz)PSA700E-01",
       "type": "Werkzeug",
@@ -3218,6 +3237,25 @@
           "deleted_at": null
         }
       ],
+      "status": {
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
+      }
+    },
+    {
+      "id": 156,
+      "name": "Fluke Erdungsmessspieß-Satz ES1653X",
+      "type": "Werkzeug",
+      "group_id": 8,
+      "inventory_no": "",
+      "location": "Homburg",
+      "notes": "im Koffer mit Zubehör: 3St. Messspitzen rot, gelb, grün und 2St. Erdungssockel Metall",
+      "archived": 0,
+      "deleted": 0,
+      "group_name": "Pool-Werkzeug",
+      "group_type": "Werkzeuggruppe",
+      "bookings": [],
       "status": {
         "code": "available",
         "label": "Verfügbar",
