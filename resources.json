@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-16T09:25:11+01:00",
+  "exported_at": "2026-11-16T11:25:13+01:00",
   "today": "2026-11-16",
   "resources": [
     {
@@ -2540,12 +2540,27 @@
           "deleted": 0,
           "deleted_at": null,
           "user_name": "Jonathan Zöllner"
+        },
+        {
+          "id": 566,
+          "resource_id": 61,
+          "start_date": "2026-11-16",
+          "end_date": "2026-11-18",
+          "slot": "TAG",
+          "booked_by": "Jonathan Zöllner",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-18 · bei Jonathan Zöllner"
       }
     },
     {
@@ -4730,12 +4745,27 @@
           "returned_at": "2026-11-11T16:25:30",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 565,
+          "resource_id": 95,
+          "start_date": "2026-11-16",
+          "end_date": "2026-11-18",
+          "slot": "TAG",
+          "booked_by": "Jonathan Zöllner",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-18 · bei Jonathan Zöllner"
       }
     },
     {
@@ -7461,7 +7491,7 @@
           "id": 554,
           "resource_id": 84,
           "start_date": "2026-11-12",
-          "end_date": "2026-11-13",
+          "end_date": "2026-11-20",
           "slot": "TAG",
           "booked_by": "Emil Vollmar",
           "user_id": null,
@@ -7474,9 +7504,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-11-13 · bei Emil Vollmar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-20 · bei Emil Vollmar"
       }
     },
     {
@@ -9686,7 +9716,7 @@
           "id": 528,
           "resource_id": 71,
           "start_date": "2026-11-06",
-          "end_date": "2026-11-13",
+          "end_date": "2026-11-20",
           "slot": "TAG",
           "booked_by": "Maurice Staub",
           "user_id": null,
@@ -9699,9 +9729,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-11-13 · bei Maurice Staub"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-20 · bei Maurice Staub"
       }
     },
     {
@@ -9766,7 +9796,7 @@
           "id": 529,
           "resource_id": 72,
           "start_date": "2026-11-06",
-          "end_date": "2026-11-13",
+          "end_date": "2026-11-20",
           "slot": "TAG",
           "booked_by": "Maurice Staub",
           "user_id": null,
@@ -9779,9 +9809,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-11-13 · bei Maurice Staub"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-20 · bei Maurice Staub"
       }
     },
     {
@@ -9886,7 +9916,7 @@
           "id": 541,
           "resource_id": 75,
           "start_date": "2026-11-09",
-          "end_date": "2026-11-13",
+          "end_date": "2026-11-20",
           "slot": "TAG",
           "booked_by": "Maurice Staub",
           "user_id": null,
@@ -9899,9 +9929,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-11-13 · bei Maurice Staub"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-20 · bei Maurice Staub"
       }
     },
     {
