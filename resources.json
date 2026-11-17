@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-17T07:55:11+01:00",
+  "exported_at": "2026-11-17T08:25:11+01:00",
   "today": "2026-11-17",
   "resources": [
     {
@@ -1359,7 +1359,7 @@
           "project": "",
           "notes": "",
           "returned": 1,
-          "returned_at": "2026-11-17T07:55:10",
+          "returned_at": "2026-11-17T07:57:22",
           "deleted": 0,
           "deleted_at": null
         }
@@ -1935,16 +1935,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-11-17T07:55:35",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-18 · bei Christian Montag"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
