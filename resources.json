@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-17T16:25:11+01:00",
-  "today": "2026-11-17",
+  "exported_at": "2026-11-18T00:25:11+01:00",
+  "today": "2026-11-18",
   "resources": [
     {
       "id": 91,
@@ -1173,9 +1173,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Thomas Lauerer"
       }
     },
     {
@@ -1240,9 +1240,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-18 · bei Fabian Ziegler-Kiefer"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -1802,9 +1802,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-18 · bei Fabian Ziegler-Kiefer"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -2114,9 +2114,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-18 · bei Christian montag"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Christian montag"
       }
     },
     {
@@ -2215,9 +2215,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-18 · bei Fabian Ziegler-Kiefer"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -2604,9 +2604,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-18 · bei Jonathan Zöllner"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jonathan Zöllner"
       }
     },
     {
@@ -4246,9 +4246,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Thomas Lauerer"
       }
     },
     {
@@ -4824,9 +4824,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-18 · bei Jonathan Zöllner"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jonathan Zöllner"
       }
     },
     {
