@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-17T08:25:11+01:00",
+  "exported_at": "2026-11-17T11:25:11+01:00",
   "today": "2026-11-17",
   "resources": [
     {
@@ -536,12 +536,27 @@
           "returned_at": "2026-11-12T10:44:41",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 569,
+          "resource_id": 107,
+          "start_date": "2026-11-17",
+          "end_date": "2027-02-08",
+          "slot": "TAG",
+          "booked_by": "Jörg Schneider",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2027-02-08 · bei Jörg Schneider"
       }
     },
     {
