@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-17T11:25:11+01:00",
+  "exported_at": "2026-11-17T16:25:11+01:00",
   "today": "2026-11-17",
   "resources": [
     {
@@ -4228,6 +4228,21 @@
           "returned_at": "2026-11-13T15:03:53",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 571,
+          "resource_id": 65,
+          "start_date": "2026-11-18",
+          "end_date": "2026-11-18",
+          "slot": "TAG",
+          "booked_by": "Thomas Lauerer",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
@@ -6212,6 +6227,21 @@
           "notes": "",
           "returned": 1,
           "returned_at": "2026-10-30T13:31:08",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 570,
+          "resource_id": 36,
+          "start_date": "2026-11-19",
+          "end_date": "2026-11-19",
+          "slot": "TAG",
+          "booked_by": "Philipp Kappler",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
           "deleted": 0,
           "deleted_at": null
         }
