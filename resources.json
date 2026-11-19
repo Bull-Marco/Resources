@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-19T08:55:11+01:00",
-  "today": "2026-11-19",
+  "exported_at": "2026-11-20T00:25:12+01:00",
+  "today": "2026-11-20",
   "resources": [
     {
       "id": 91,
@@ -1173,9 +1173,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-20 · bei Thomas Lauerer"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Thomas Lauerer"
       }
     },
     {
@@ -6917,9 +6917,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-20 · bei Weber Felix"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Weber Felix"
       }
     },
     {
@@ -7243,9 +7243,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-20 · bei Christian Montag"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Christian Montag"
       }
     },
     {
@@ -7610,9 +7610,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-23 · bei Quentin Richert"
       }
     },
     {
@@ -9225,9 +9225,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-20 · bei Christian Montag"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Christian Montag"
       }
     },
     {
@@ -9835,9 +9835,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-20 · bei Maurice Staub"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Maurice Staub"
       }
     },
     {
@@ -9915,9 +9915,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-20 · bei Maurice Staub"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Maurice Staub"
       }
     },
     {
@@ -10035,9 +10035,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-20 · bei Maurice Staub"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Maurice Staub"
       }
     },
     {
