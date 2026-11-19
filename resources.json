@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-19T08:25:11+01:00",
+  "exported_at": "2026-11-19T08:55:11+01:00",
   "today": "2026-11-19",
   "resources": [
     {
@@ -1226,7 +1226,7 @@
           "id": 560,
           "resource_id": 124,
           "start_date": "2026-11-13",
-          "end_date": "2026-11-18",
+          "end_date": "2026-11-23",
           "slot": "TAG",
           "booked_by": "Fabian Ziegler-Kiefer",
           "user_id": 7,
@@ -1240,9 +1240,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-11-18 · bei Fabian Ziegler-Kiefer"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-23 · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -1788,7 +1788,7 @@
           "id": 559,
           "resource_id": 76,
           "start_date": "2026-11-13",
-          "end_date": "2026-11-18",
+          "end_date": "2026-11-23",
           "slot": "TAG",
           "booked_by": "Fabian Ziegler-Kiefer",
           "user_id": 7,
@@ -1802,9 +1802,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-11-18 · bei Fabian Ziegler-Kiefer"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-23 · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -2201,7 +2201,7 @@
           "id": 561,
           "resource_id": 139,
           "start_date": "2026-11-13",
-          "end_date": "2026-11-18",
+          "end_date": "2026-11-23",
           "slot": "TAG",
           "booked_by": "Fabian Ziegler-Kiefer",
           "user_id": 7,
@@ -2215,9 +2215,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-11-18 · bei Fabian Ziegler-Kiefer"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-23 · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -6904,7 +6904,7 @@
           "id": 549,
           "resource_id": 29,
           "start_date": "2026-11-10",
-          "end_date": "2026-11-16",
+          "end_date": "2026-11-20",
           "slot": "TAG",
           "booked_by": "Weber Felix",
           "user_id": null,
@@ -6917,9 +6917,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-11-16 · bei Weber Felix"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-20 · bei Weber Felix"
       }
     },
     {
