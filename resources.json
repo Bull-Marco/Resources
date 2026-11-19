@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-19T00:25:12+01:00",
+  "exported_at": "2026-11-19T07:55:13+01:00",
   "today": "2026-11-19",
   "resources": [
     {
@@ -4239,16 +4239,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-11-19T07:54:17",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-11-18 · bei Thomas Lauerer"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -6255,16 +6255,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-11-19T07:54:04",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Philipp Kappler"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-09-30 · bei Jörg Schneider"
       }
     },
     {
