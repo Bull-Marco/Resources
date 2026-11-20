@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-20T00:25:12+01:00",
+  "exported_at": "2026-11-20T10:25:12+01:00",
   "today": "2026-11-20",
   "resources": [
     {
@@ -1163,6 +1163,21 @@
           "end_date": "2026-11-20",
           "slot": "TAG",
           "booked_by": "Thomas Lauerer",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 575,
+          "resource_id": 16,
+          "start_date": "2026-11-23",
+          "end_date": "2026-11-27",
+          "slot": "TAG",
+          "booked_by": "Andreas Hornung",
           "user_id": null,
           "project": "",
           "notes": "",
