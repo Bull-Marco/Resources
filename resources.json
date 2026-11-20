@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-20T15:55:12+01:00",
-  "today": "2026-11-20",
+  "exported_at": "2026-11-21T00:25:11+01:00",
+  "today": "2026-11-21",
   "resources": [
     {
       "id": 91,
@@ -1188,9 +1188,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Thomas Lauerer"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-11-20 · bei Thomas Lauerer"
       }
     },
     {
@@ -8942,9 +8942,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-23 · bei Quentin Richert"
       }
     },
     {
@@ -9866,9 +9866,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Maurice Staub"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-11-20 · bei Maurice Staub"
       }
     },
     {
@@ -9946,9 +9946,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Maurice Staub"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-11-20 · bei Maurice Staub"
       }
     },
     {
@@ -10066,9 +10066,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Maurice Staub"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-11-20 · bei Maurice Staub"
       }
     },
     {
