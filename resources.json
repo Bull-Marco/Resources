@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-20T15:25:12+01:00",
+  "exported_at": "2026-11-20T15:55:12+01:00",
   "today": "2026-11-20",
   "resources": [
     {
@@ -7261,7 +7261,7 @@
           "id": 504,
           "resource_id": 112,
           "start_date": "2026-11-02",
-          "end_date": "2026-11-20",
+          "end_date": "2026-11-27",
           "slot": "TAG",
           "booked_by": "Christian Montag",
           "user_id": null,
@@ -7274,9 +7274,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Christian Montag"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-27 · bei Christian Montag"
       }
     },
     {
@@ -9243,7 +9243,7 @@
           "id": 525,
           "resource_id": 18,
           "start_date": "2026-11-12",
-          "end_date": "2026-11-20",
+          "end_date": "2026-11-27",
           "slot": "TAG",
           "booked_by": "Christian Montag",
           "user_id": null,
@@ -9256,9 +9256,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Christian Montag"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-27 · bei Christian Montag"
       }
     },
     {
