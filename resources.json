@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-22T00:25:12+01:00",
-  "today": "2026-11-22",
+  "exported_at": "2026-11-23T00:25:12+01:00",
+  "today": "2026-11-23",
   "resources": [
     {
       "id": 91,
@@ -1188,9 +1188,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-11-20 · bei Thomas Lauerer"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-27 · bei Andreas Hornung"
       }
     },
     {
@@ -1255,9 +1255,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-23 · bei Fabian Ziegler-Kiefer"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -1817,9 +1817,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-23 · bei Fabian Ziegler-Kiefer"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -2230,9 +2230,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-23 · bei Fabian Ziegler-Kiefer"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Fabian Ziegler-Kiefer"
       }
     },
     {
@@ -7641,9 +7641,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-23 · bei Quentin Richert"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Quentin Richert"
       }
     },
     {
@@ -8942,9 +8942,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-23 · bei Quentin Richert"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Quentin Richert"
       }
     },
     {
