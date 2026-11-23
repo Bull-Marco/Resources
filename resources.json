@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-23T09:55:12+01:00",
+  "exported_at": "2026-11-23T14:25:11+01:00",
   "today": "2026-11-23",
   "resources": [
     {
@@ -1166,8 +1166,8 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-11-23T14:14:09",
           "deleted": 0,
           "deleted_at": null
         },
@@ -1247,17 +1247,17 @@
           "user_id": 7,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-11-23T14:22:08",
           "deleted": 0,
           "deleted_at": null,
           "user_name": "Fabian Ziegler-Kiefer"
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Fabian Ziegler-Kiefer"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -1809,17 +1809,17 @@
           "user_id": 7,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-11-23T14:22:07",
           "deleted": 0,
           "deleted_at": null,
           "user_name": "Fabian Ziegler-Kiefer"
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Fabian Ziegler-Kiefer"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
@@ -2222,17 +2222,32 @@
           "user_id": 7,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-11-23T14:15:12",
           "deleted": 0,
           "deleted_at": null,
           "user_name": "Fabian Ziegler-Kiefer"
+        },
+        {
+          "id": 580,
+          "resource_id": 139,
+          "start_date": "2026-11-23",
+          "end_date": "2026-11-27",
+          "slot": "TAG",
+          "booked_by": "Philipp Kappler",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Fabian Ziegler-Kiefer"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-27 · bei Philipp Kappler"
       }
     },
     {
@@ -3844,12 +3859,27 @@
           "deleted": 0,
           "deleted_at": null,
           "user_name": "Fabian Ziegler-Kiefer"
+        },
+        {
+          "id": 581,
+          "resource_id": 111,
+          "start_date": "2026-11-23",
+          "end_date": "2026-11-27",
+          "slot": "TAG",
+          "booked_by": "Philipp Kappler",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-10-30 · bei Fabian Ziegler-Kiefer"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-27 · bei Philipp Kappler"
       }
     },
     {
@@ -4866,12 +4896,27 @@
           "returned_at": "2026-11-19T08:09:55",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 583,
+          "resource_id": 95,
+          "start_date": "2026-11-23",
+          "end_date": "2026-11-25",
+          "slot": "TAG",
+          "booked_by": "Christian Montag",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-25 · bei Christian Montag"
       }
     },
     {
@@ -5006,12 +5051,27 @@
           "returned_at": "2026-10-07T10:02:57",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 582,
+          "resource_id": 52,
+          "start_date": "2026-11-23",
+          "end_date": "2026-11-27",
+          "slot": "TAG",
+          "booked_by": "Jonathan Zöllner",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-27 · bei Jonathan Zöllner"
       }
     },
     {
@@ -9898,7 +9958,7 @@
           "id": 528,
           "resource_id": 71,
           "start_date": "2026-11-06",
-          "end_date": "2026-11-20",
+          "end_date": "2026-11-27",
           "slot": "TAG",
           "booked_by": "Maurice Staub",
           "user_id": null,
@@ -9911,9 +9971,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-11-20 · bei Maurice Staub"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-27 · bei Maurice Staub"
       }
     },
     {
@@ -9978,7 +10038,7 @@
           "id": 529,
           "resource_id": 72,
           "start_date": "2026-11-06",
-          "end_date": "2026-11-20",
+          "end_date": "2026-11-27",
           "slot": "TAG",
           "booked_by": "Maurice Staub",
           "user_id": null,
@@ -9991,9 +10051,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-11-20 · bei Maurice Staub"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-27 · bei Maurice Staub"
       }
     },
     {
@@ -10098,7 +10158,7 @@
           "id": 541,
           "resource_id": 75,
           "start_date": "2026-11-09",
-          "end_date": "2026-11-20",
+          "end_date": "2026-11-27",
           "slot": "TAG",
           "booked_by": "Maurice Staub",
           "user_id": null,
@@ -10111,9 +10171,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-11-20 · bei Maurice Staub"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-27 · bei Maurice Staub"
       }
     },
     {
