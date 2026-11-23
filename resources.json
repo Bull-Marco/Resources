@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-23T16:25:11+01:00",
-  "today": "2026-11-23",
+  "exported_at": "2026-11-24T00:25:11+01:00",
+  "today": "2026-11-24",
   "resources": [
     {
       "id": 91,
@@ -4306,9 +4306,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-27 · bei Quentin Richert"
       }
     },
     {
@@ -6470,9 +6470,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Christian Montag"
       }
     },
     {
@@ -7746,9 +7746,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Quentin Richert"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-11-23 · bei Quentin Richert"
       }
     },
     {
