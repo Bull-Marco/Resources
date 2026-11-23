@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-23T15:25:11+01:00",
+  "exported_at": "2026-11-23T16:25:11+01:00",
   "today": "2026-11-23",
   "resources": [
     {
@@ -6450,6 +6450,21 @@
           "notes": "",
           "returned": 1,
           "returned_at": "2026-11-18T10:57:25",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 584,
+          "resource_id": 37,
+          "start_date": "2026-11-24",
+          "end_date": "2026-11-24",
+          "slot": "TAG",
+          "booked_by": "Christian Montag",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
           "deleted": 0,
           "deleted_at": null
         }
