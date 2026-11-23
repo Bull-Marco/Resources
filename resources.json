@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-23T14:25:11+01:00",
+  "exported_at": "2026-11-23T15:25:11+01:00",
   "today": "2026-11-23",
   "resources": [
     {
@@ -4413,16 +4413,16 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-11-23T15:02:16",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-27 · bei Reparatur"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-10-30 · bei Jonathan Zöllner"
       }
     },
     {
