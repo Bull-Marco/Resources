@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-24T14:55:12+01:00",
-  "today": "2026-11-24",
+  "exported_at": "2026-11-25T00:25:11+01:00",
+  "today": "2026-11-25",
   "resources": [
     {
       "id": 91,
@@ -4914,9 +4914,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-25 · bei Christian Montag"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Christian Montag"
       }
     },
     {
@@ -6382,9 +6382,9 @@
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-09-30 · bei Jörg Schneider"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-27 · bei Quentin Richert"
       }
     },
     {
@@ -6485,9 +6485,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Christian Montag"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-11-24 · bei Christian Montag"
       }
     },
     {
