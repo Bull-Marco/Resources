@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-25T00:25:11+01:00",
+  "exported_at": "2026-11-25T08:25:11+01:00",
   "today": "2026-11-25",
   "resources": [
     {
@@ -5886,6 +5886,21 @@
           "deleted_at": null
         },
         {
+          "id": 586,
+          "resource_id": 92,
+          "start_date": "2026-11-25",
+          "end_date": "2026-11-25",
+          "slot": "TAG",
+          "booked_by": "Max",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
           "id": 585,
           "resource_id": 92,
           "start_date": "2026-11-26",
@@ -5902,9 +5917,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Max"
       }
     },
     {
