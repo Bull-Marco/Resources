@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-25T08:25:11+01:00",
+  "exported_at": "2026-11-25T08:55:11+01:00",
   "today": "2026-11-25",
   "resources": [
     {
@@ -5901,12 +5901,12 @@
           "deleted_at": null
         },
         {
-          "id": 585,
+          "id": 587,
           "resource_id": 92,
           "start_date": "2026-11-26",
           "end_date": "2026-11-26",
           "slot": "TAG",
-          "booked_by": "Julia Wegner",
+          "booked_by": "Emil Vollmar",
           "user_id": null,
           "project": "",
           "notes": "",
