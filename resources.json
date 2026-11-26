@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-26T07:25:12+01:00",
-  "today": "2026-11-26",
+  "exported_at": "2026-11-27T00:25:11+01:00",
+  "today": "2026-11-27",
   "resources": [
     {
       "id": 91,
@@ -1188,9 +1188,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-27 · bei Andreas Hornung"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Andreas Hornung"
       }
     },
     {
@@ -2245,9 +2245,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-27 · bei Philipp Kappler"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Philipp Kappler"
       }
     },
     {
@@ -3877,9 +3877,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-27 · bei Philipp Kappler"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Philipp Kappler"
       }
     },
     {
@@ -4914,9 +4914,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-27 · bei Christian Montag"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Christian Montag"
       }
     },
     {
@@ -5069,9 +5069,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-27 · bei Jonathan Zöllner"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jonathan Zöllner"
       }
     },
     {
@@ -5917,9 +5917,9 @@
         }
       ],
       "status": {
-        "code": "due",
-        "label": "Heute",
-        "detail": "Heute zurück · bei Emil Vollmar"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-11-26 · bei Emil Vollmar"
       }
     },
     {
@@ -6397,9 +6397,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-27 · bei Quentin Richert"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Quentin Richert"
       }
     },
     {
@@ -7083,9 +7083,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-27 · bei Jonathan Zöllner"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Jonathan Zöllner"
       }
     },
     {
@@ -7409,9 +7409,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-27 · bei Christian Montag"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Christian Montag"
       }
     },
     {
@@ -9092,9 +9092,9 @@
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-30 · bei Jörg Schneider"
       }
     },
     {
@@ -10016,9 +10016,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-27 · bei Maurice Staub"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Maurice Staub"
       }
     },
     {
@@ -10096,9 +10096,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-27 · bei Maurice Staub"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Maurice Staub"
       }
     },
     {
@@ -10131,9 +10131,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-27 · bei Philipp Kappler"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Philipp Kappler"
       }
     },
     {
@@ -10181,9 +10181,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-27 · bei Philipp Kappler"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Philipp Kappler"
       }
     },
     {
@@ -10216,9 +10216,9 @@
         }
       ],
       "status": {
-        "code": "out",
-        "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-11-27 · bei Maurice Staub"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Maurice Staub"
       }
     },
     {
