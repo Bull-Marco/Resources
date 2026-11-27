@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-27T12:55:12+01:00",
+  "exported_at": "2026-11-27T13:25:12+01:00",
   "today": "2026-11-27",
   "resources": [
     {
@@ -150,12 +150,27 @@
           "returned_at": "2026-11-03T09:49:44",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 591,
+          "resource_id": 91,
+          "start_date": "2026-11-27",
+          "end_date": "2026-12-04",
+          "slot": "TAG",
+          "booked_by": "Ender i.A. Laurer",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-12-04 · bei Ender i.A. Laurer"
       }
     },
     {
@@ -5910,16 +5925,31 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-11-27T13:16:22",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 592,
+          "resource_id": 92,
+          "start_date": "2026-11-27",
+          "end_date": "2026-11-27",
+          "slot": "TAG",
+          "booked_by": "Heike - Azubi Fahrten",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 1,
+          "returned_at": "2026-11-27T13:17:08",
           "deleted": 0,
           "deleted_at": null
         }
       ],
       "status": {
-        "code": "overdue",
-        "label": "Überfällig",
-        "detail": "Überfällig seit 2026-11-26 · bei Emil Vollmar"
+        "code": "available",
+        "label": "Verfügbar",
+        "detail": "Verfügbar"
       }
     },
     {
