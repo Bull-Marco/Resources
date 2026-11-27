@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-27T14:25:12+01:00",
+  "exported_at": "2026-11-27T15:55:12+01:00",
   "today": "2026-11-27",
   "resources": [
     {
@@ -2646,12 +2646,27 @@
           "returned_at": "2026-11-19T08:09:57",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 595,
+          "resource_id": 61,
+          "start_date": "2026-11-27",
+          "end_date": "2026-11-29",
+          "slot": "TAG",
+          "booked_by": "Weber Thomas",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-11-29 · bei Weber Thomas"
       }
     },
     {
