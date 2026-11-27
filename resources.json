@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-27T13:55:12+01:00",
+  "exported_at": "2026-11-27T14:25:12+01:00",
   "today": "2026-11-27",
   "resources": [
     {
@@ -9943,6 +9943,21 @@
           "user_id": null,
           "project": "Rhenus",
           "notes": "",
+          "returned": 1,
+          "returned_at": "2026-11-27T13:55:29",
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 593,
+          "resource_id": 34,
+          "start_date": "2026-11-27",
+          "end_date": "2026-12-04",
+          "slot": "TAG",
+          "booked_by": "Spang Danny",
+          "user_id": null,
+          "project": "",
+          "notes": "",
           "returned": 0,
           "returned_at": null,
           "deleted": 0,
@@ -9952,7 +9967,7 @@
       "status": {
         "code": "out",
         "label": "Unterwegs",
-        "detail": "Unterwegs bis 2026-12-31 · bei Staub Maurice"
+        "detail": "Unterwegs bis 2026-12-04 · bei Spang Danny"
       }
     },
     {
@@ -10088,12 +10103,27 @@
           "returned_at": "2026-11-27T13:54:58",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 594,
+          "resource_id": 71,
+          "start_date": "2026-11-27",
+          "end_date": "2026-12-04",
+          "slot": "TAG",
+          "booked_by": "Spang Danny",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "out",
+        "label": "Unterwegs",
+        "detail": "Unterwegs bis 2026-12-04 · bei Spang Danny"
       }
     },
     {
