@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-27T11:55:12+01:00",
+  "exported_at": "2026-11-27T12:55:12+01:00",
   "today": "2026-11-27",
   "resources": [
     {
@@ -5895,8 +5895,8 @@
           "user_id": null,
           "project": "",
           "notes": "",
-          "returned": 0,
-          "returned_at": null,
+          "returned": 1,
+          "returned_at": "2026-11-27T12:50:04",
           "deleted": 0,
           "deleted_at": null
         },
@@ -9114,6 +9114,21 @@
           "booked_by": "Jörg Schneider",
           "user_id": null,
           "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
+        },
+        {
+          "id": 590,
+          "resource_id": 90,
+          "start_date": "2026-12-01",
+          "end_date": "2026-12-01",
+          "slot": "TAG",
+          "booked_by": "Braun Silvia",
+          "user_id": null,
+          "project": "Homburg - blieskastel - HH - Homburg",
           "notes": "",
           "returned": 0,
           "returned_at": null,
