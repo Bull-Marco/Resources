@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-27T00:25:11+01:00",
+  "exported_at": "2026-11-27T11:55:12+01:00",
   "today": "2026-11-27",
   "resources": [
     {
@@ -7236,12 +7236,27 @@
           "returned_at": "2026-11-11T16:57:52",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 589,
+          "resource_id": 31,
+          "start_date": "2026-11-27",
+          "end_date": "2026-11-27",
+          "slot": "TAG",
+          "booked_by": "Gero",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "due",
+        "label": "Heute",
+        "detail": "Heute zurück · bei Gero"
       }
     },
     {
@@ -7271,12 +7286,27 @@
           "returned_at": "2026-10-01T08:01:42",
           "deleted": 0,
           "deleted_at": null
+        },
+        {
+          "id": 588,
+          "resource_id": 121,
+          "start_date": "2026-11-26",
+          "end_date": "2026-11-26",
+          "slot": "TAG",
+          "booked_by": "Jörg",
+          "user_id": null,
+          "project": "",
+          "notes": "",
+          "returned": 0,
+          "returned_at": null,
+          "deleted": 0,
+          "deleted_at": null
         }
       ],
       "status": {
-        "code": "available",
-        "label": "Verfügbar",
-        "detail": "Verfügbar"
+        "code": "overdue",
+        "label": "Überfällig",
+        "detail": "Überfällig seit 2026-11-26 · bei Jörg"
       }
     },
     {
